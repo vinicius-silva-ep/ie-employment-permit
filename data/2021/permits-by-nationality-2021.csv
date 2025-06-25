@@ -1,0 +1,121 @@
+Year,Country,Issued,Refused,Withdrawn
+2021,Afghanistan,11.0,0.0,1.0
+2021,Albania,22.0,1.0,0.0
+2021,Algeria,16.0,0.0,2.0
+2021,Angola,1.0,0.0,0.0
+2021,Argentina,58.0,8.0,5.0
+2021,Armenia,13.0,0.0,0.0
+2021,Australia,71.0,7.0,4.0
+2021,Azerbaijan,8.0,0.0,1.0
+2021,Bahrain,3.0,0.0,0.0
+2021,Bangladesh,53.0,10.0,1.0
+2021,Barbados,1.0,1.0,0.0
+2021,Belarus,28.0,0.0,0.0
+2021,Bhutan,1.0,0.0,0.0
+2021,Bolivia,6.0,1.0,2.0
+2021,Bosnia and Herzegovina,4.0,2.0,2.0
+2021,Botswana,6.0,2.0,0.0
+2021,Brazil,1098.0,178.0,73.0
+2021,Brunei,6.0,0.0,1.0
+2021,Burkina Faso,1.0,1.0,0.0
+2021,Burundi,2.0,0.0,0.0
+2021,Cambodia,0.0,0.0,1.0
+2021,Cameroon,4.0,0.0,0.0
+2021,Canada,240.0,8.0,14.0
+2021,Chile,25.0,1.0,0.0
+2021,China,709.0,67.0,27.0
+2021,Colombia,28.0,2.0,1.0
+2021,Congo,2.0,0.0,0.0
+2021,Costa Rica,16.0,2.0,0.0
+2021,Cuba,2.0,0.0,0.0
+2021,Côte d'Ivoire,2.0,1.0,0.0
+2021,DR Congo,1.0,0.0,0.0
+2021,Dominica,2.0,0.0,0.0
+2021,Dominican Republic,7.0,0.0,0.0
+2021,Ecuador,4.0,0.0,0.0
+2021,Egypt,248.0,3.0,15.0
+2021,El Salvador,9.0,1.0,5.0
+2021,Equatorial Guinea,1.0,0.0,0.0
+2021,Eswatini,4.0,0.0,0.0
+2021,Ethiopia,9.0,0.0,0.0
+2021,Georgia,7.0,0.0,1.0
+2021,Ghana,34.0,3.0,6.0
+2021,Guatemala,4.0,0.0,0.0
+2021,Guinea,2.0,0.0,0.0
+2021,Honduras,4.0,0.0,0.0
+2021,India,6445.0,210.0,242.0
+2021,Indonesia,52.0,10.0,1.0
+2021,Iran,45.0,3.0,2.0
+2021,Iraq,46.0,1.0,2.0
+2021,Israel,71.0,0.0,7.0
+2021,Jamaica,5.0,0.0,1.0
+2021,Japan,99.0,3.0,2.0
+2021,Jordan,54.0,2.0,2.0
+2021,Kazakhstan,14.0,0.0,1.0
+2021,Kenya,36.0,1.0,3.0
+2021,Kuwait,3.0,0.0,0.0
+2021,Kyrgyzstan,3.0,0.0,0.0
+2021,Lebanon,63.0,2.0,3.0
+2021,Lesotho,2.0,0.0,0.0
+2021,Libya,21.0,1.0,2.0
+2021,Malawi,13.0,3.0,0.0
+2021,Malaysia,404.0,22.0,16.0
+2021,Maldives,1.0,0.0,0.0
+2021,Mali,1.0,0.0,0.0
+2021,Mauritius,34.0,4.0,4.0
+2021,Mexico,131.0,16.0,6.0
+2021,Moldova,46.0,2.0,0.0
+2021,Mongolia,3.0,1.0,0.0
+2021,Montenegro,1.0,0.0,0.0
+2021,Morocco,40.0,1.0,1.0
+2021,Myanmar,4.0,0.0,0.0
+2021,Namibia,1.0,2.0,0.0
+2021,Nepal,95.0,7.0,1.0
+2021,New Zealand,51.0,2.0,2.0
+2021,Nicaragua,1.0,0.0,0.0
+2021,Nigeria,351.0,38.0,20.0
+2021,North Korea,1.0,0.0,0.0
+2021,North Macedonia,5.0,1.0,0.0
+2021,Oman,15.0,0.0,0.0
+2021,Pakistan,1026.0,30.0,42.0
+2021,Panama,2.0,0.0,0.0
+2021,Paraguay,1.0,0.0,0.0
+2021,Peru,9.0,0.0,0.0
+2021,Philippines,734.0,57.0,22.0
+2021,Qatar,1.0,0.0,0.0
+2021,Russia,191.0,3.0,4.0
+2021,Saint Kitts & Nevis,1.0,0.0,0.0
+2021,Samoa,1.0,0.0,0.0
+2021,Saudi Arabia,32.0,0.0,2.0
+2021,Senegal,1.0,0.0,0.0
+2021,Serbia,46.0,3.0,0.0
+2021,Sierra Leone,0.0,2.0,0.0
+2021,Singapore,37.0,3.0,0.0
+2021,Somalia,3.0,0.0,1.0
+2021,South Africa,616.0,71.0,44.0
+2021,South Korea,46.0,6.0,4.0
+2021,Sri Lanka,86.0,17.0,7.0
+2021,State of Palestine,19.0,0.0,2.0
+2021,Sudan,652.0,5.0,33.0
+2021,Syria,14.0,1.0,0.0
+2021,Tajikistan,2.0,0.0,1.0
+2021,Tanzania,9.0,1.0,1.0
+2021,Thailand,115.0,8.0,9.0
+2021,Togo,1.0,0.0,0.0
+2021,Tonga,1.0,0.0,0.0
+2021,Trinidad and Tobago,35.0,1.0,1.0
+2021,Tunisia,39.0,5.0,0.0
+2021,Turkey,236.0,13.0,16.0
+2021,Uganda,14.0,4.0,0.0
+2021,Ukraine,294.0,31.0,8.0
+2021,United Arab Emirates,4.0,0.0,0.0
+2021,United Kingdom,1.0,0.0,0.0
+2021,United States,693.0,29.0,45.0
+2021,Uruguay,5.0,1.0,0.0
+2021,Uzbekistan,4.0,0.0,0.0
+2021,Vanuatu,6.0,0.0,0.0
+2021,Venezuela,34.0,3.0,1.0
+2021,Vietnam,101.0,15.0,0.0
+2021,Yemen,5.0,0.0,0.0
+2021,Zambia,8.0,0.0,0.0
+2021,Zimbabwe,220.0,17.0,13.0
