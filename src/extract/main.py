@@ -4,7 +4,7 @@ from datetime import datetime
 
 current_year = datetime.now().year
 
-output_dir = f"E:/My Drive/ESTUDOS DATA SCIENCE/ie-employment-permit/data/{current_year}"
+output_dir = f"G:/My Drive/ESTUDOS DATA SCIENCE/ie-employment-permit/data/{current_year}"
 os.makedirs(output_dir, exist_ok=True)
 
 base_url = "https://enterprise.gov.ie/en/publications/publication-files"
