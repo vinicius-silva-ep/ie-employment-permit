@@ -7,6 +7,7 @@ Year,Month,Company,Total
 2025,Jan,A. Cliffe Haulage Limited,1.0
 2025,Jan,A.R.D. Precision (Irl) Limited,3.0
 2025,Jan,A84 Ashbourne Limited,1.0
+2025,Jan,Aag Hangar 1 Limited,1.0
 2025,Jan,Aarval Limited,5.0
 2025,Jan,Abbey Blue Legal Limited (Employer),1.0
 2025,Jan,Abbey Haven Care Centre Nursing Home Ltd,2.0
@@ -14,8 +15,7 @@ Year,Month,Company,Total
 2025,Jan,Abbey Physiotherapy Clinic,6.0
 2025,Jan,Abbeylands Nursing Home & Alzheimers Unit Ltd,3.0
 2025,Jan,Abbeyville Veterinary Services Limited,1.0
-2025,Jan,Abbott Ireland,7.0
-2025,Jan,Abbott Ireland - Kilkenny,2.0
+2025,Jan,Abbott Ireland,9.0
 2025,Jan,Abbott Rapid Dx International Limited,1.0
 2025,Jan,Abbvie Limited,1.0
 2025,Jan,Abct Restaurant Limited,4.0
@@ -64,7 +64,7 @@ Year,Month,Company,Total
 2025,Jan,Alliance Medical Diagnostic Imaging Ltd,2.0
 2025,Jan,Allianz Plc,1.0
 2025,Jan,Allied Gear Services Ltd,1.0
-2025,Jan,Allied Irish Banks Public Limited Company,2.0
+2025,Jan,"Allied Irish Banks, Public Limited Company",2.0
 2025,Jan,Alltec Fibre Limited,2.0
 2025,Jan,Alpine Healthcare Limited,1.0
 2025,Jan,Alter Domus (Ireland) Ltd,1.0
@@ -130,7 +130,6 @@ Year,Month,Company,Total
 2025,Jan,Athlone V.E. Limited T/A Vision Express,2.0
 2025,Jan,Athlunkard Nursing Home Limited,2.0
 2025,Jan,Atkinsréalis Limited,3.0
-2025,Jan,Atlantic Aviation Group Limited H1,1.0
 2025,Jan,Atlantic Aviation Group Limited H2,4.0
 2025,Jan,Atlantic Troy Limited,4.0
 2025,Jan,Atsr Limited,1.0
@@ -192,6 +191,7 @@ Year,Month,Company,Total
 2025,Jan,Be Independent Home Care,7.0
 2025,Jan,Beacon Hospital Sandyford Ltd,4.0
 2025,Jan,Bearingpoint Ireland Limited,1.0
+2025,Jan,Beaumont Convalescent Home,1.0
 2025,Jan,Beaumont Hospital,4.0
 2025,Jan,Beaumont Residential Care Limited,2.0
 2025,Jan,Beech Lodge Care Facility Limited,1.0
@@ -295,7 +295,7 @@ Year,Month,Company,Total
 2025,Jan,Cadence Design Systems (Ireland) Limited,2.0
 2025,Jan,Cadtec Europe Ltd,1.0
 2025,Jan,Caharclough Tarmacadam Limited,1.0
-2025,Jan,Cahercalla Community Hospital Clg,3.0
+2025,Jan,Cahercalla Community Hospital,3.0
 2025,Jan,Caiguna Limited,1.0
 2025,Jan,Caiseal Geal Teoranta,1.0
 2025,Jan,Caithlin Limited,1.0
@@ -344,7 +344,6 @@ Year,Month,Company,Total
 2025,Jan,Castletown Farms Ltd,1.0
 2025,Jan,Castlewood Taverns Ltd,1.0
 2025,Jan,Cathal Glynn Construction Limited,1.0
-2025,Jan,Catherine Mcauley House,1.0
 2025,Jan,Cavan & Monaghan Hospital,4.0
 2025,Jan,Cavan Monaghan Mental Health Service,1.0
 2025,Jan,Cbre Gws Ireland Limited,1.0
@@ -376,7 +375,7 @@ Year,Month,Company,Total
 2025,Jan,Citibank Europe Plc,1.0
 2025,Jan,City Break Apartments Limited,2.0
 2025,Jan,City Wonders Limited,1.0
-2025,Jan,Claregalway Hotel,1.0
+2025,Jan,Claregalway Hotel Limited,1.0
 2025,Jan,Clarion Healthcare Limited,1.0
 2025,Jan,Classic Accounts And It Services Limited,1.0
 2025,Jan,"Clearstream Fund Centre S.A., Cork Branch",1.0
@@ -427,6 +426,7 @@ Year,Month,Company,Total
 2025,Jan,Core Clinic Ltd,1.0
 2025,Jan,Cork County Council,1.0
 2025,Jan,Cork Radiation Oncology Associates Ltd,1.0
+2025,Jan,Cork University Hospital,5.0
 2025,Jan,Corstown Farms Limited,1.0
 2025,Jan,Corvus Hospitality Limited,1.0
 2025,Jan,Costello Quarry Products Ltd,1.0
@@ -494,7 +494,7 @@ Year,Month,Company,Total
 2025,Jan,Dla Piper Ireland,1.0
 2025,Jan,Dls Language School Ltd,1.0
 2025,Jan,Dobya Limited,1.0
-2025,Jan,Doco System Solutions Ltd,1.0
+2025,Jan,Doco System Solutions Limited,1.0
 2025,Jan,Dole Ocean Transport Express Limited,1.0
 2025,Jan,Domanska Ltd,2.0
 2025,Jan,Dominican Sisters Tralee Company Limited By Guarantee,1.0
@@ -769,7 +769,7 @@ Year,Month,Company,Total
 2025,Jan,H.P.L Takeaways Limited,1.0
 2025,Jan,H.V.S.M. Limited,1.0
 2025,Jan,Hairy Lemon Limited,1.0
-2025,Jan,Haleon Ireland Dungarvan Limited,1.0
+2025,Jan,Haleon Ireland Dungarvan Ltd,1.0
 2025,Jan,Hallquar Engineering Services Limited,1.0
 2025,Jan,Hamilton Park Care Centre Ltd,22.0
 2025,Jan,Hand Engineering Ltd,1.0
@@ -787,7 +787,6 @@ Year,Month,Company,Total
 2025,Jan,Health Information And Quality Authority (Hiqa),1.0
 2025,Jan,Health Service Executive,6.0
 2025,Jan,Health Service Executive Cho1,1.0
-2025,Jan,Health Service Executive South,5.0
 2025,Jan,Health Services Executive,5.0
 2025,Jan,Heartside Limited,1.0
 2025,Jan,Heights Hospitality Operations,1.0
@@ -1068,7 +1067,7 @@ Year,Month,Company,Total
 2025,Jan,Machinelab Limited,1.0
 2025,Jan,Macs Venture Ireland,1.0
 2025,Jan,Magellan Aviation Services Limited,1.0
-2025,Jan,Mageracloone Mushrooms Limited,2.0
+2025,Jan,Magheracloone Mushrooms Limited,2.0
 2025,Jan,Maginn Machinery Company Limited,1.0
 2025,Jan,Mahamaya Ltd,1.0
 2025,Jan,Majorel Ireland Limited,1.0
@@ -1292,7 +1291,7 @@ Year,Month,Company,Total
 2025,Jan,Optum Services (Ireland) Limited,3.0
 2025,Jan,Oracle Cerner Ireland Limited,1.0
 2025,Jan,Orange Srbj Limited,1.0
-2025,Jan,Orchard Community Care,1.0
+2025,Jan,Orchard Community Care Limited,1.0
 2025,Jan,Oriel Attachments Limited,1.0
 2025,Jan,Oriental Wellbeing Foods Limited,1.0
 2025,Jan,Ornua Co-Operative Limited,1.0
@@ -1341,7 +1340,7 @@ Year,Month,Company,Total
 2025,Jan,Perennial Freight Limited,3.0
 2025,Jan,Perfect Kebab Limited,2.0
 2025,Jan,Periti Digital Limited,1.0
-2025,Jan,Permanent Tsb Plc,2.0
+2025,Jan,Permanent Tsb Public Limited Company,2.0
 2025,Jan,Persian Properties Unlimited Company,2.0
 2025,Jan,Pfp Fire Systems (Ireland) Ltd,1.0
 2025,Jan,Pga Global Services Llc,1.0
@@ -1370,7 +1369,7 @@ Year,Month,Company,Total
 2025,Jan,Portlaoise Panthers Basketball Club,1.0
 2025,Jan,Portrane Hockey Club,1.0
 2025,Jan,Power Capital Operations Limited,1.0
-2025,Jan,Power Leisure Bookmakers Limited,2.0
+2025,Jan,Power Leisure Bookmakers Limited,3.0
 2025,Jan,Powercomm Engineering Limited,2.0
 2025,Jan,Ppd Development Ireland Limited,2.0
 2025,Jan,Precision Parts & Products Ltd,1.0
@@ -1395,6 +1394,7 @@ Year,Month,Company,Total
 2025,Jan,Qt Technologies Ireland Limited,10.0
 2025,Jan,Qualitas Electronics,1.0
 2025,Jan,Qualtech Ltd,1.0
+2025,Jan,Quinn Downes Limited,1.0
 2025,Jan,R Hendy & Co. Bookkeeping Services Unlimited Company,1.0
 2025,Jan,Radio Systems Petsafe Europe Ltd,1.0
 2025,Jan,Radley Engineering Limited,42.0
@@ -1452,7 +1452,7 @@ Year,Month,Company,Total
 2025,Jan,Romero Games Ltd,1.0
 2025,Jan,Romont Limited,1.0
 2025,Jan,Rosemary Bistro Cafe Ltd,1.0
-2025,Jan,Rosenalee Care Centre Ltd,2.0
+2025,Jan,Rosenalee Care Centre Ltd,3.0
 2025,Jan,Roseville Nursing Home Ltd,1.0
 2025,Jan,Roskell Transport Ltd,1.0
 2025,Jan,Rossclare Nursing Home Limited,4.0
@@ -1535,7 +1535,7 @@ Year,Month,Company,Total
 2025,Jan,Shrewsbury House Nursing Home Limited,1.0
 2025,Jan,Shufang Weng & Chang Jing Wang,1.0
 2025,Jan,Siam Asian Bistro Limited,2.0
-2025,Jan,Siam Thai Restaurant,1.0
+2025,Jan,Siam Thai Restaurant,2.0
 2025,Jan,Siege Coffee Company Ltd,1.0
 2025,Jan,Siegerland Limited,1.0
 2025,Jan,Sienna Star Limited,1.0
@@ -1617,7 +1617,7 @@ Year,Month,Company,Total
 2025,Jan,Staycity Limited,1.0
 2025,Jan,Stella Maris Residential Care Ltd,2.0
 2025,Jan,Stephen O’Rourke & Sons Contractors Limited,1.0
-2025,Jan,Stephen Quinn Stone Mason Ltd,3.0
+2025,Jan,Stephen Quinn Stone Mason Limited,3.0
 2025,Jan,Stepping Stones Care Limited,4.0
 2025,Jan,Stepstone Group Europe Alternative Investments Ltd,1.0
 2025,Jan,Stewarts Care Designated Activity Company,4.0
@@ -1788,6 +1788,7 @@ Year,Month,Company,Total
 2025,Jan,Vantage Resources Limited,1.0
 2025,Jan,Vantive Manufacturing Limited,2.0
 2025,Jan,Vardis Security Limited,1.0
+2025,Jan,Vento Naas Catering Limited,1.0
 2025,Jan,Ventside Unlimited Company,2.0
 2025,Jan,Verisure Ireland Dac,1.0
 2025,Jan,Verizon Connect Development Limited,2.0
@@ -1802,7 +1803,7 @@ Year,Month,Company,Total
 2025,Jan,Via Mercanti Ltd,1.0
 2025,Jan,Viastar Unlimited Company,2.0
 2025,Jan,Victoria Healthcare Organisation Limited,3.0
-2025,Jan,Victoria View Developments Limited T/A Tullamore Court Hotel,2.0
+2025,Jan,Victoria View Developments Limited,2.0
 2025,Jan,Vidhyasagar Gompa,1.0
 2025,Jan,Viec Ltd,1.0
 2025,Jan,Viec Two Limited,1.0
@@ -1899,8 +1900,7 @@ Year,Month,Company,Total
 2025,Feb,Abbey Machinery Limited,2.0
 2025,Feb,Abbey Physiotherapy Clinic,3.0
 2025,Feb,Abbeylands Nursing Home & Alzheimers Unit Ltd,2.0
-2025,Feb,Abbott Ireland,1.0
-2025,Feb,Abbott Ireland - Kilkenny,1.0
+2025,Feb,Abbott Ireland,2.0
 2025,Feb,Abbvie Ireland Nl Bv,3.0
 2025,Feb,Aby And Swapna International Trading Limited,1.0
 2025,Feb,Academy Plaza Hotel Limited,1.0
@@ -1937,7 +1937,7 @@ Year,Month,Company,Total
 2025,Feb,Allen Cranes Limited,1.0
 2025,Feb,Allergan Pharmaceuticals Ireland Ulc,6.0
 2025,Feb,Alliance Medical Diagnostic Imaging Ltd,3.0
-2025,Feb,Allied Irish Banks Public Limited Company,5.0
+2025,Feb,"Allied Irish Banks, Public Limited Company",5.0
 2025,Feb,Alloy Tip Limited,1.0
 2025,Feb,Allpro Security Services Ireland Limited,1.0
 2025,Feb,Almac Pharma Services (Ireland) Ltd,1.0
@@ -1955,6 +1955,7 @@ Year,Month,Company,Total
 2025,Feb,Anglo Beef Processors Ireland Unlimited Company,6.0
 2025,Feb,Anglo Beef Processors Unlimited Ireland,4.0
 2025,Feb,Anis Restaurant Ltd,1.0
+2025,Feb,Anthony Williams,1.0
 2025,Feb,Anvik Company Ltd,2.0
 2025,Feb,Aperee Living Conna Limited,1.0
 2025,Feb,Aperee Living Galway Limited,1.0
@@ -2079,7 +2080,6 @@ Year,Month,Company,Total
 2025,Feb,Blg Asset Review And Control Limited,1.0
 2025,Feb,Bloomberg Data Management Services Limited,1.0
 2025,Feb,Bloomfield Hotel Ltd,2.0
-2025,Feb,Blue Insurance Financial Services Limited,1.0
 2025,Feb,Bluebird Care Dublin South Limited,1.0
 2025,Feb,Bmc Nursing Home Limited,1.0
 2025,Feb,Bmcc Energy Limited,1.0
@@ -2089,7 +2089,7 @@ Year,Month,Company,Total
 2025,Feb,Bobo Import And Export Ltd,1.0
 2025,Feb,Bocomm Aviation Leasing Ireland Company Limited,1.0
 2025,Feb,Bodytonic Music Limited,2.0
-2025,Feb,Boler Property & Investment Management Co Ltd,1.0
+2025,Feb,Boler Property Investment Co Limited,1.0
 2025,Feb,Bon Secours Health System Clg,1.0
 2025,Feb,Bon Secours Health System Clg T/A Bon Secours Hospital Tralee,3.0
 2025,Feb,Bon Secours Health Systems,2.0
@@ -2194,7 +2194,7 @@ Year,Month,Company,Total
 2025,Feb,City Direct Bus Limited,1.0
 2025,Feb,Ck Food Limited,2.0
 2025,Feb,Clancy Radiators Limited,1.0
-2025,Feb,Claregalway Hotel,1.0
+2025,Feb,Claregalway Hotel Limited,1.0
 2025,Feb,Claremount Nursing Home Ltd,1.0
 2025,Feb,"Clearstream Fund Centre S.A., Cork Branch",1.0
 2025,Feb,Clemac Regional Home Care Services Limited,4.0
@@ -2228,11 +2228,13 @@ Year,Month,Company,Total
 2025,Feb,Cordavis Limited,1.0
 2025,Feb,Corgan Ie Limited,1.0
 2025,Feb,Cork County Cricket Club,1.0
+2025,Feb,Cork University Hospital,4.0
 2025,Feb,Cosgrove Electrical Services Ltd,1.0
 2025,Feb,Costern Unlimited Company,14.0
 2025,Feb,Coughlan Engineering (Tullamore) Ltd.,4.0
 2025,Feb,Country Clean Recycling Unlimited Company,1.0
 2025,Feb,County Waterford Farm Relief Services Limited,3.0
+2025,Feb,Covermore Blue Insurance Services Limited,1.0
 2025,Feb,Cowper Care Centre,3.0
 2025,Feb,Cpl Solutions Limited,6.0
 2025,Feb,Cracked Nut Limited,1.0
@@ -2248,7 +2250,7 @@ Year,Month,Company,Total
 2025,Feb,Cwire Retail 2 Limited,1.0
 2025,Feb,Cwk Food Processing Limited,1.0
 2025,Feb,D' Nile International Consulting And Trading Limited,1.0
-2025,Feb,D.Leonard Civil Engineering Services Ltd,1.0
+2025,Feb,D. Leonard Civil Engineering Services Ltd,1.0
 2025,Feb,Da Tong Xing Ye Limited,1.0
 2025,Feb,Daa Public Limited Company,1.0
 2025,Feb,Danu Home Care,1.0
@@ -2487,7 +2489,7 @@ Year,Month,Company,Total
 2025,Feb,H&Mv Engineering Limited,1.0
 2025,Feb,H.A O'Neil Limited,2.0
 2025,Feb,Halcon Steel Ltd,1.0
-2025,Feb,Haleon Ireland Dungarvan Limited,1.0
+2025,Feb,Haleon Ireland Dungarvan Ltd,1.0
 2025,Feb,Hamilton Park Care Centre Ltd,11.0
 2025,Feb,Hamilton Uk Services Limited,1.0
 2025,Feb,Happy Out Donnybrook Limited,1.0
@@ -2496,7 +2498,6 @@ Year,Month,Company,Total
 2025,Feb,Hcl (Ireland) Information Systems Limited,7.0
 2025,Feb,Health Service Executive,7.0
 2025,Feb,Health Service Executive Cho1,1.0
-2025,Feb,Health Service Executive South,4.0
 2025,Feb,Healthy Vending Machines Ltd,1.0
 2025,Feb,Heat Restaurant Limited,1.0
 2025,Feb,Herb Street Restaurant Limited,1.0
@@ -2719,7 +2720,7 @@ Year,Month,Company,Total
 2025,Feb,Lorca Limited,1.0
 2025,Feb,Lorruano Lar Solutions Limited,1.0
 2025,Feb,Lotus Automation Ireland Ltd,3.0
-2025,Feb,Lotus Bar Limited,1.0
+2025,Feb,Lotus Bar Limited,2.0
 2025,Feb,Lotus Care Limited,1.0
 2025,Feb,Lpt Foods Limited,3.0
 2025,Feb,Lsj Care Ltd,11.0
@@ -2796,7 +2797,7 @@ Year,Month,Company,Total
 2025,Feb,Mifinity Payments Limited,1.0
 2025,Feb,Migrant Rights Centre Ireland Ltd.,1.0
 2025,Feb,Mike Kelly Commercials Ltd,1.0
-2025,Feb,Milgan & Dilgan Ltd T/A Sos Property Services,1.0
+2025,Feb,Milgan & Dilgan Limited T/A Sos Group,1.0
 2025,Feb,Millbrae Lodge Nursing Home Ltd,1.0
 2025,Feb,Mina Hospitality Limited,1.0
 2025,Feb,Ministry Brands Limited,1.0
@@ -2899,7 +2900,7 @@ Year,Month,Company,Total
 2025,Feb,Optimise Performance Limited,1.0
 2025,Feb,Optum Services (Ireland) Limited,3.0
 2025,Feb,Oracle Emea Limited,2.0
-2025,Feb,Orchard Community Care,6.0
+2025,Feb,Orchard Community Care Limited,6.0
 2025,Feb,Orchard Residential Care,1.0
 2025,Feb,Oriental Prosperity Limited,1.0
 2025,Feb,Oriental Wellbeing Foods Limited,1.0
@@ -2929,7 +2930,7 @@ Year,Month,Company,Total
 2025,Feb,People Resourcing,1.0
 2025,Feb,People Solutions Ltd,1.0
 2025,Feb,Perfect Kebab Limited,1.0
-2025,Feb,Permanent Tsb Plc,5.0
+2025,Feb,Permanent Tsb Public Limited Company,5.0
 2025,Feb,Perryfton Limited,1.0
 2025,Feb,Persian Properties Unlimited Company,1.0
 2025,Feb,Peter Corrigan Consulting Engineers Limited,1.0
@@ -2938,7 +2939,7 @@ Year,Month,Company,Total
 2025,Feb,Phantomarc Studio Ltd,1.0
 2025,Feb,Pharma Force Limited,1.0
 2025,Feb,Pharmaceutical Business Consultants Ltd,1.0
-2025,Feb,Pinestream Ltd T/A Cashel Motor Works,1.0
+2025,Feb,Pinestream Ltd,1.0
 2025,Feb,Pinnacle Motorsport Ltd,1.0
 2025,Feb,Pinoy Sari-Sari Store Ltd,1.0
 2025,Feb,Pinterest Europe Limited,1.0
@@ -3121,6 +3122,7 @@ Year,Month,Company,Total
 2025,Feb,Slip Lane Restaurant Limited,1.0
 2025,Feb,Slmw Restaurant Limited,1.0
 2025,Feb,Small Business Consultancy Limited,1.0
+2025,Feb,Smith Hall Ltd,1.0
 2025,Feb,Smithstown Light Engineering Unlimited,1.0
 2025,Feb,Smt Fund Services (Ireland) Limited,2.0
 2025,Feb,Smyth Trailers Eu Ltd,1.0
@@ -3128,7 +3130,7 @@ Year,Month,Company,Total
 2025,Feb,Soba Asian Street Food Glanmire Ltd,1.0
 2025,Feb,Software Labs Campus Unlimited Company,16.0
 2025,Feb,Sojern Intl Limited,1.0
-2025,Feb,Solus Healthcare Services Limited,3.0
+2025,Feb,Solus Healthcare Services Limited,4.0
 2025,Feb,Sonas Asset Holdings Limited,1.0
 2025,Feb,Sonas Nursing Homes Management Co. Ltd,1.0
 2025,Feb,Soti Ireland Ltd,1.0
@@ -3151,14 +3153,13 @@ Year,Month,Company,Total
 2025,Feb,Sr Convenience Limited,1.0
 2025,Feb,Srcw Limited,1.0
 2025,Feb,Ss&C Wealth And Insurance Ireland Ltd,2.0
-2025,Feb,St Dominic Savio Nursing Home,1.0
 2025,Feb,St Luke'S Radiation Oncology Network,3.0
+2025,Feb,St Michaels Hospital,1.0
 2025,Feb,St Vincents Healthcare Group,1.0
 2025,Feb,St. Attracta'S Nursing Home Uc,1.0
 2025,Feb,St. James'S Hospital,15.0
 2025,Feb,St. John'S Hospital,1.0
 2025,Feb,St. Luke'S General Hospital,1.0
-2025,Feb,St. Michaels Hospital,1.0
 2025,Feb,St. Vincent'S Healthcare Group,24.0
 2025,Feb,Stafford Arms Limited,1.0
 2025,Feb,Stanford Woods Care Centre Limited,7.0
@@ -3252,7 +3253,6 @@ Year,Month,Company,Total
 2025,Feb,Tlc Health Services Ltd,5.0
 2025,Feb,Tli Group Limited,5.0
 2025,Feb,Tokyo Electron Europe Limited,5.0
-2025,Feb,Tony Williams,1.0
 2025,Feb,Top One Ka Shing Limited,1.0
 2025,Feb,Torriam Hotel Operating Company Limited,4.0
 2025,Feb,Total Ict Services Limited,1.0
@@ -3296,7 +3296,7 @@ Year,Month,Company,Total
 2025,Feb,Verizon Services Ireland Limited,1.0
 2025,Feb,Vertex Roofing Systems Limited,2.0
 2025,Feb,Via Mercanti Ltd,1.0
-2025,Feb,Victoria View Developments Limited T/A Tullamore Court Hotel,1.0
+2025,Feb,Victoria View Developments Limited,1.0
 2025,Feb,Viec Two Limited,2.0
 2025,Feb,Virginia Transport Ltd,1.0
 2025,Feb,Virtu Financial Ireland Limited,1.0
@@ -3360,7 +3360,7 @@ Year,Month,Company,Total
 2025,Feb,Yueming Limited,1.0
 2025,Feb,Zagros Food Company Limited,1.0
 2025,Feb,Zest At Limited,2.0
-2025,Feb,Zheng He Wang Limited,1.0
+2025,Feb,Zheng He & Wang Limited,1.0
 2025,Feb,Zhenyu Limited,1.0
 2025,Feb,Zhuo Li,1.0
 2025,Feb,Zinc Processors Ltd,1.0
@@ -3379,7 +3379,7 @@ Year,Month,Company,Total
 2025,Mar,Abbey Machinery Limited,2.0
 2025,Mar,Abbey Physiotherapy Clinic,4.0
 2025,Mar,Abbot Close Nursing Home Ltd,2.0
-2025,Mar,Abbott Ireland - Kilkenny,1.0
+2025,Mar,Abbott Ireland,1.0
 2025,Mar,Abbvie Ireland Nl Bv,1.0
 2025,Mar,Abc Nursery And Montessori Limited,1.0
 2025,Mar,Abct Restaurant Limited,1.0
@@ -3423,7 +3423,7 @@ Year,Month,Company,Total
 2025,Mar,Allanbay Limited,7.0
 2025,Mar,Alliance Medical Diagnostic Imaging Ltd,1.0
 2025,Mar,Allianz Plc,1.0
-2025,Mar,Allied Irish Banks Public Limited Company,5.0
+2025,Mar,"Allied Irish Banks, Public Limited Company",5.0
 2025,Mar,Alloy Tip Limited,1.0
 2025,Mar,Alpha Precision Limited,1.0
 2025,Mar,Alpine Healthcare Limited,1.0
@@ -3444,7 +3444,9 @@ Year,Month,Company,Total
 2025,Mar,Anglo Beef Processors Ireland Unlimited Company,10.0
 2025,Mar,Anm Retail Ltd,1.0
 2025,Mar,Anna Mottha Beauty Spa Limited,1.0
+2025,Mar,Annapurna Npl Restaurant Limited,1.0
 2025,Mar,Annette O'Toole,1.0
+2025,Mar,Anthony Williams,1.0
 2025,Mar,Aol Engineering Ltd,1.0
 2025,Mar,Aon Assessment Ireland Limited,1.0
 2025,Mar,Aperee Living Galway Limited,1.0
@@ -3526,6 +3528,7 @@ Year,Month,Company,Total
 2025,Mar,Bbif Limited,1.0
 2025,Mar,Beacon Hospital Sandyford Ltd,2.0
 2025,Mar,Bearingpoint Ireland Limited,1.0
+2025,Mar,Beaumont Convalescent Home,3.0
 2025,Mar,Becu Bloodstock Limited,1.0
 2025,Mar,Bed Res Investments Limited,1.0
 2025,Mar,Beech Lodge Care Facility Limited,5.0
@@ -3557,7 +3560,6 @@ Year,Month,Company,Total
 2025,Mar,Blexford Productions Dac,1.0
 2025,Mar,Bloodaxe 1 Productions Dac,1.0
 2025,Mar,Bloomfield Care Centre Clg,1.0
-2025,Mar,Blue Insurance Financial Services Limited,1.0
 2025,Mar,Bluebird Care Dublin South Limited,6.0
 2025,Mar,Bluestone Bridge Ltd.,1.0
 2025,Mar,Bobby Mccormack,1.0
@@ -3607,7 +3609,7 @@ Year,Month,Company,Total
 2025,Mar,C&C Executive Travel Limited,2.0
 2025,Mar,Cadence Design Systems (Ireland) Limited,2.0
 2025,Mar,Cadtec Europe Ltd,1.0
-2025,Mar,Cahercalla Community Hospital Clg,4.0
+2025,Mar,Cahercalla Community Hospital,4.0
 2025,Mar,Cahir House Court Hotel Limited,1.0
 2025,Mar,Cairn Homes Construction Ltd,1.0
 2025,Mar,California White Services Limited,1.0
@@ -3649,7 +3651,6 @@ Year,Month,Company,Total
 2025,Mar,Castlewood Taverns Ltd,1.0
 2025,Mar,Cathal Glynn Construction Limited,1.0
 2025,Mar,Cathay Properties Investment Limited,1.0
-2025,Mar,Catherine Mcauley House,3.0
 2025,Mar,Cavan & Monaghan Hospital,2.0
 2025,Mar,Cawley Nea Limited,1.0
 2025,Mar,Cb Automate Technology Ltd,1.0
@@ -3697,7 +3698,7 @@ Year,Month,Company,Total
 2025,Mar,Clonbrusk General Practice,1.0
 2025,Mar,Clontarf Cricket Club,2.0
 2025,Mar,Clunedarby Mushrooms Limited,1.0
-2025,Mar,Coal Quay Restaurants Limited,2.0
+2025,Mar,Coalquay Restaurants Limited,2.0
 2025,Mar,Cob Hotels Limited,2.0
 2025,Mar,Cochin Spice Indian Restayrant Limited,1.0
 2025,Mar,Coconut Point Ltd T/A The Horse And Hound,1.0
@@ -3740,6 +3741,7 @@ Year,Month,Company,Total
 2025,Mar,Coras Iompair Eireann,1.0
 2025,Mar,Cordavis Limited,2.0
 2025,Mar,Cork Transfer Accommodation Limited,1.0
+2025,Mar,Cork University Hospital,2.0
 2025,Mar,Corrib Fire Protection Company Ltd,1.0
 2025,Mar,Corstown Farms Limited,1.0
 2025,Mar,Cosgrave Nursing Consultancy Limited,2.0
@@ -3749,6 +3751,7 @@ Year,Month,Company,Total
 2025,Mar,Country Manor Hotels Unimited Company,1.0
 2025,Mar,Coursetown Farm Ltd,1.0
 2025,Mar,Courtmacsherry Hotel Limited,3.0
+2025,Mar,Covermore Blue Insurance Services Limited,1.0
 2025,Mar,Cowper Care Centre,2.0
 2025,Mar,Cpac Modular Limited,1.0
 2025,Mar,Cpl Solutions Limited,11.0
@@ -3789,6 +3792,7 @@ Year,Month,Company,Total
 2025,Mar,Daniel Sajfert,2.0
 2025,Mar,Danu Home Care,8.0
 2025,Mar,Darielle Ronan,2.0
+2025,Mar,Darius Mazeika,1.0
 2025,Mar,Darnvale Ltd,1.0
 2025,Mar,Darragh Mcardle Engineering Limited,1.0
 2025,Mar,David Blessington Concrete Works Limited,3.0
@@ -3846,6 +3850,7 @@ Year,Month,Company,Total
 2025,Mar,Dsw Homecare Services Limited,1.0
 2025,Mar,Dublin 18 Strength & Conditioning Limited,1.0
 2025,Mar,Dublin Aerospace Limited,1.0
+2025,Mar,Dublin City Council,1.0
 2025,Mar,Dublin City Sports And Leisure Services Clg,1.0
 2025,Mar,Dublin Moon Limited,1.0
 2025,Mar,Dublin Simon Community,3.0
@@ -3998,6 +4003,7 @@ Year,Month,Company,Total
 2025,Mar,Gas Appliance Distributors Limited,1.0
 2025,Mar,Gayur Food Limited,1.0
 2025,Mar,Ge Healthcare Ireland Limited,1.0
+2025,Mar,Gea Refrigeration Ireland Ltd,1.0
 2025,Mar,Gearoid Timmons,1.0
 2025,Mar,Geistm Technologies Limited,1.0
 2025,Mar,Gemcon Limited,1.0
@@ -4059,7 +4065,7 @@ Year,Month,Company,Total
 2025,Mar,H&K Great Wall Limited,1.0
 2025,Mar,H&Mv Engineering Limited,2.0
 2025,Mar,H. G. Ritchie Ltd.,1.0
-2025,Mar,Hafiz Traders Limited,1.0
+2025,Mar,Hafiz Traders Ltd,1.0
 2025,Mar,Han Yu Limited,1.0
 2025,Mar,Handy Lads Solutions Limited,2.0
 2025,Mar,Harold Engineering Ltd,1.0
@@ -4068,7 +4074,6 @@ Year,Month,Company,Total
 2025,Mar,Hcl (Ireland) Information Systems Limited,7.0
 2025,Mar,Hcl Technologies Limited,1.0
 2025,Mar,Health Service Executive Cho1,1.0
-2025,Mar,Health Service Executive South,2.0
 2025,Mar,Healthbeacon Public Limited Company,1.0
 2025,Mar,Healthy Trends Limited,1.0
 2025,Mar,Heartside Limited,1.0
@@ -4166,6 +4171,7 @@ Year,Month,Company,Total
 2025,Mar,Jaru Food Limited,1.0
 2025,Mar,Jasmine Palace (Limerick) Limited,1.0
 2025,Mar,Jattan Foods Limited,1.0
+2025,Mar,Javier Alcaraz Espín,1.0
 2025,Mar,Jcp Powdermill Care Centre Limited,1.0
 2025,Mar,Jcr Food Limited,1.0
 2025,Mar,Jerry Summerinn Limited,1.0
@@ -4232,7 +4238,7 @@ Year,Month,Company,Total
 2025,Mar,Kel-Tech Engineering,6.0
 2025,Mar,Kelley Mcguinness,1.0
 2025,Mar,Kelly Rac Ltd,1.0
-2025,Mar,Keltec Machine Sales (Kilmallock) Ltd.,1.0
+2025,Mar,Keltec Machine Sales (Kilmallock) Ltd.,2.0
 2025,Mar,Kenmare Nursing Home Limited,1.0
 2025,Mar,Keohane Seafood Unlimited Company,3.0
 2025,Mar,Kepak Athleague Unlimited Company,1.0
@@ -4342,6 +4348,7 @@ Year,Month,Company,Total
 2025,Mar,Macquarie Bank Europe Designated Activity Company,1.0
 2025,Mar,Madanjo Limited,1.0
 2025,Mar,Magna International Autolaunch Ireland Limited,1.0
+2025,Mar,Malahide Dublin Operations Limited,1.0
 2025,Mar,Malanaphy Machinery Ltd,2.0
 2025,Mar,Mallow Road Motors (Cork) Ltd,4.0
 2025,Mar,Manaslu Limited,1.0
@@ -4371,7 +4378,7 @@ Year,Month,Company,Total
 2025,Mar,Mb Enterpryze Cloudware Ltd,1.0
 2025,Mar,Mbryonics Limited,1.0
 2025,Mar,Mcaree Engineering Works Ltd,10.0
-2025,Mar,Mccabe'S Pharmacy,1.0
+2025,Mar,Mccabes Pharmacy Limited,1.0
 2025,Mar,Mccann Fitzgerald Llp,1.0
 2025,Mar,Mccarren Meats Unlimited Company,7.0
 2025,Mar,Mcdermott Laboratories Limited,1.0
@@ -4421,7 +4428,7 @@ Year,Month,Company,Total
 2025,Mar,Midland Regional Hospital At Tullamore,1.0
 2025,Mar,Midland Steel Reinforcement Supplies Ltd,1.0
 2025,Mar,Mile Tree Farms Ltd,2.0
-2025,Mar,Milgan & Dilgan Ltd T/A Sos Property Services,1.0
+2025,Mar,Milgan & Dilgan Limited T/A Sos Group,1.0
 2025,Mar,Millbrae Lodge Nursing Home Ltd,1.0
 2025,Mar,Milltown Inns Ltd,1.0
 2025,Mar,Mj Clarke Sons Ltd,1.0
@@ -4510,6 +4517,7 @@ Year,Month,Company,Total
 2025,Mar,Ntt Data Services Ireland Limited,4.0
 2025,Mar,Nua Healthcare Services,4.0
 2025,Mar,Nurture Childcare Limited,9.0
+2025,Mar,Nurul Huda Palash,1.0
 2025,Mar,Nusolas Limited,1.0
 2025,Mar,Nypro Limited,6.0
 2025,Mar,O'Brien Transport (Newbawn) Ltd,1.0
@@ -4533,6 +4541,7 @@ Year,Month,Company,Total
 2025,Mar,Optum Services (Ireland) Limited,2.0
 2025,Mar,Orange House Chinese Takeaway Limited,1.0
 2025,Mar,Oriflame Research & Development Ltd,1.0
+2025,Mar,Ormond Healthcare Ltd,1.0
 2025,Mar,Ornua Co-Operative Limited,1.0
 2025,Mar,Our Lady Of Lourdes Hospital Drogheda,3.0
 2025,Mar,Our Lady'S Hospital Navan,3.0
@@ -4564,7 +4573,7 @@ Year,Month,Company,Total
 2025,Mar,People Pro Hr Limited,2.0
 2025,Mar,Pepber Limited,1.0
 2025,Mar,Perennial Freight Limited,2.0
-2025,Mar,Permanent Tsb Plc,2.0
+2025,Mar,Permanent Tsb Public Limited Company,2.0
 2025,Mar,Pfh Technology Group Unlimited Company,1.0
 2025,Mar,Pfizer Healthcare Ireland,1.0
 2025,Mar,Pfizer Ireland Pharmaceuticals Unlimited Company,2.0
@@ -4596,6 +4605,7 @@ Year,Month,Company,Total
 2025,Mar,Project Management Limited,2.0
 2025,Mar,Prolift Handling Limited,1.0
 2025,Mar,Prophotonix (Irl) Limited,1.0
+2025,Mar,Puck Foods Limited,1.0
 2025,Mar,Puratos Crest Foods Limited,1.0
 2025,Mar,Purcell Mcquillan Tax Partners Ltd,1.0
 2025,Mar,Purplestone Bridge Sales Limited,1.0
@@ -4661,7 +4671,7 @@ Year,Month,Company,Total
 2025,Mar,Rope Walk Car Park Limited,1.0
 2025,Mar,Rory Lynch Transport Limited,3.0
 2025,Mar,Roscommon University Hospital,1.0
-2025,Mar,Rosderra Irish Meats Group Uc,7.0
+2025,Mar,Rosderra Irish Meats Group Uc,8.0
 2025,Mar,Ross Medical Practice,1.0
 2025,Mar,Rossclare Nursing Home Limited,2.0
 2025,Mar,Royal City Asian Restaurant Limited,1.0
@@ -4719,7 +4729,6 @@ Year,Month,Company,Total
 2025,Mar,Shri Sai Food Limited,1.0
 2025,Mar,Siec Group Ltd,1.0
 2025,Mar,Silver Stream Health Care Limited,1.0
-2025,Mar,Sima Restaurant,1.0
 2025,Mar,Simply Dynamics Limited,1.0
 2025,Mar,Simply Original Limited,1.0
 2025,Mar,Simpson'S Hospital,1.0
@@ -4740,6 +4749,7 @@ Year,Month,Company,Total
 2025,Mar,Smartbar Monitor Limited,1.0
 2025,Mar,Smiggle Ireland Ltd,1.0
 2025,Mar,Smith Groundworks Engineering Ltd,1.0
+2025,Mar,Smith Hall Ltd,1.0
 2025,Mar,Smithstown Light Engineering Unlimited,3.0
 2025,Mar,Smoked Bbq Millennium Ltd T/A Mad Egg Millennium Walk,1.0
 2025,Mar,Smyth Trailers Eu Ltd,1.0
@@ -4767,7 +4777,6 @@ Year,Month,Company,Total
 2025,Mar,Srcw Limited,8.0
 2025,Mar,Ss&C Wealth And Insurance Ireland Ltd,1.0
 2025,Mar,Ssp Ireland Limited,1.0
-2025,Mar,St Dominic Savio Nursing Home,1.0
 2025,Mar,St Francis Nursing Home,1.0
 2025,Mar,St. Attracta'S Nursing Home Uc,1.0
 2025,Mar,St. Gobnaits Nursing Home Limited,1.0
@@ -4897,7 +4906,7 @@ Year,Month,Company,Total
 2025,Mar,Timothy Valentine Whooley,1.0
 2025,Mar,Tinnypark Residential Care Limited,1.0
 2025,Mar,Tipperary Sustainable Food Company,2.0
-2025,Mar,Tky Nursing And Healthcare Agencies Limited,1.0
+2025,Mar,Tky Nursing And Healthcare Agencies Limited,2.0
 2025,Mar,Tlc Health Services Ltd,8.0
 2025,Mar,Tli Group Limited,1.0
 2025,Mar,Toasttab Ireland Limited,2.0
@@ -4908,7 +4917,6 @@ Year,Month,Company,Total
 2025,Mar,Tom Mullins Racing Stables,1.0
 2025,Mar,Tom Staunton Motors Limited,1.0
 2025,Mar,Tomodachi Izakaya Limited,1.0
-2025,Mar,Tony Williams,1.0
 2025,Mar,Top Walker Limited,1.0
 2025,Mar,Topaz Transport Limited,1.0
 2025,Mar,Total Country Limited,1.0
@@ -4948,7 +4956,7 @@ Year,Month,Company,Total
 2025,Mar,Unum Ireland Ltd.,3.0
 2025,Mar,Urban Pizza Limited,1.0
 2025,Mar,Valentia Community Health & Welfare Association Clg,1.0
-2025,Mar,Value Food Ltd,1.0
+2025,Mar,Value Foods Ltd,1.0
 2025,Mar,Vanderbilt International (Irl) Limited,1.0
 2025,Mar,Vautour Ltd,1.0
 2025,Mar,Vectra Ai Ireland Limited,1.0
@@ -4958,7 +4966,7 @@ Year,Month,Company,Total
 2025,Mar,Verde Environmental Consultants Limited,1.0
 2025,Mar,Victoria Healthcare Organisation Limited,2.0
 2025,Mar,Victoria Towers Hotel Limited,1.0
-2025,Mar,Victoria View Developments Limited T/A Tullamore Court Hotel,1.0
+2025,Mar,Victoria View Developments Limited,1.0
 2025,Mar,Victory Garden Limited,1.0
 2025,Mar,Viec Two Limited,3.0
 2025,Mar,Villa Marie Nursing Home Ltd,1.0
@@ -5035,7 +5043,7 @@ Year,Month,Company,Total
 2025,Apr,Abbey Machinery Limited,1.0
 2025,Apr,Abbey Physiotherapy Clinic,2.0
 2025,Apr,Abbeylands Nursing Home & Alzheimers Unit Ltd,1.0
-2025,Apr,Abbott Ireland - Kilkenny,3.0
+2025,Apr,Abbott Ireland,3.0
 2025,Apr,Abbott Rapid Dx International Limited,1.0
 2025,Apr,Abbvie Ireland Nl Bv,1.0
 2025,Apr,Abec Technologies Europe Limited,1.0
@@ -5208,6 +5216,7 @@ Year,Month,Company,Total
 2025,Apr,Cavan & Monaghan Hospital,1.0
 2025,Apr,Celtic Ross Hotel Limited,1.0
 2025,Apr,Centralis Ireland Limited,1.0
+2025,Apr,Centz Stores 6 Limited,1.0
 2025,Apr,Cfp Commodities Ltd,1.0
 2025,Apr,Champions Travel Limited,1.0
 2025,Apr,Chandpur Indian Restaurant Limited,1.0
@@ -5255,6 +5264,7 @@ Year,Month,Company,Total
 2025,Apr,Corbally House Nursing Home Limited,1.0
 2025,Apr,Cork Education Training Board,1.0
 2025,Apr,Cork Radiation Oncology Associates Ltd,1.0
+2025,Apr,Cork University Hospital,4.0
 2025,Apr,Costern Unlimited Company,8.0
 2025,Apr,County Waterford Farm Relief Services Limited,1.0
 2025,Apr,Coupa Operations Inc.,1.0
@@ -5263,7 +5273,7 @@ Year,Month,Company,Total
 2025,Apr,Crawford Construct Consultancy Services Limited,1.0
 2025,Apr,Crewit Resourcing Limited,9.0
 2025,Apr,Crime Control Security Limited,1.0
-2025,Apr,Cully Automation Ltd,1.0
+2025,Apr,Cully Automation Limited,1.0
 2025,Apr,Cummer Care Ltd,1.0
 2025,Apr,Curam Medical Limited,1.0
 2025,Apr,Custom Compost Uc,4.0
@@ -5271,7 +5281,7 @@ Year,Month,Company,Total
 2025,Apr,Cv Homecare Solutions Ltd,5.0
 2025,Apr,Cwire Retail Holdings Limited,1.0
 2025,Apr,D&S Roe Limited,1.0
-2025,Apr,D.Leonard Civil Engineering Services Ltd,1.0
+2025,Apr,D. Leonard Civil Engineering Services Ltd,1.0
 2025,Apr,Da Vincis Restaurant Ltd,1.0
 2025,Apr,Danalto Limited,1.0
 2025,Apr,Danu Home Care,6.0
@@ -5445,7 +5455,6 @@ Year,Month,Company,Total
 2025,Apr,Hcl (Ireland) Information Systems Limited,1.0
 2025,Apr,Health Information And Quality Authority (Hiqa),1.0
 2025,Apr,Health Service Executive - National Screening Service,1.0
-2025,Apr,Health Service Executive South,4.0
 2025,Apr,Heanet,1.0
 2025,Apr,Heat Restaurant Limited,1.0
 2025,Apr,Heights Hospitality Operations,1.0
@@ -5544,6 +5553,7 @@ Year,Month,Company,Total
 2025,Apr,Kevin Connolly Car Sales Unlimited Company,1.0
 2025,Apr,Kevin O'Donovan,1.0
 2025,Apr,Kevin Quinn,1.0
+2025,Apr,Kevre Teoranta,1.0
 2025,Apr,Kian Persian Foods Limited,1.0
 2025,Apr,Kids Power Ot Limited,1.0
 2025,Apr,Kiernan Milling Unlimited Company,2.0
@@ -5576,6 +5586,7 @@ Year,Month,Company,Total
 2025,Apr,Le Mayya Limited,1.0
 2025,Apr,Leatrans Limited,4.0
 2025,Apr,Leeson Telecom Limited,1.0
+2025,Apr,Leighlee Limited,1.0
 2025,Apr,Leo Murphy Produce Limited,1.0
 2025,Apr,Letterkenny Auto Salvage Limited,1.0
 2025,Apr,Letterkenny Small Animal Veterinary Limited,1.0
@@ -5665,7 +5676,7 @@ Year,Month,Company,Total
 2025,Apr,National Food Imports Limited,1.0
 2025,Apr,Natural Royal Foods Limited,1.0
 2025,Apr,Nazareth Care Ireland,1.0
-2025,Apr,Netapp Ireland Limited,1.0
+2025,Apr,Netapp Ireland Limited,2.0
 2025,Apr,Neuromod Devices Limited,1.0
 2025,Apr,New Mandarin Castle Restaurant (Castleknock) Limited,2.0
 2025,Apr,New Payment Innovation Limited,2.0
@@ -5690,7 +5701,7 @@ Year,Month,Company,Total
 2025,Apr,Oakwood Private Nursing Home Limited,3.0
 2025,Apr,Obelisk Communications Limited,3.0
 2025,Apr,Obf Consultants Ltd,1.0
-2025,Apr,Odyssey Social Care,3.0
+2025,Apr,Odyssey Social Care Limited,3.0
 2025,Apr,Ogma Concepts Limited,2.0
 2025,Apr,Omc Technologies Dac,1.0
 2025,Apr,Omega Nursing Home Limited,1.0
@@ -5698,7 +5709,7 @@ Year,Month,Company,Total
 2025,Apr,Omnispirant Limited,1.0
 2025,Apr,Ooft Limited,1.0
 2025,Apr,Ophardt Hygiene Ireland Ltd,1.0
-2025,Apr,Orchard Community Care,3.0
+2025,Apr,Orchard Community Care Limited,3.0
 2025,Apr,Oriel Attachments Limited,2.0
 2025,Apr,Oriflame Research & Development Ltd,1.0
 2025,Apr,Original Box Limited,1.0
@@ -5776,7 +5787,7 @@ Year,Month,Company,Total
 2025,Apr,Roma Pizzera & Takeaway,1.0
 2025,Apr,Romero Games Ltd,1.0
 2025,Apr,Roscommon China Palace Limited,1.0
-2025,Apr,Rosderra Irish Meats Group Uc,10.0
+2025,Apr,Rosderra Irish Meats Group Uc,11.0
 2025,Apr,Rose & Rhubarb Industry Limited,1.0
 2025,Apr,Rosewell Racing Ltd,3.0
 2025,Apr,Rossclare Nursing Home Limited,1.0
@@ -5847,6 +5858,7 @@ Year,Month,Company,Total
 2025,Apr,St. Helen'S Hotel Unlimited Company,1.0
 2025,Apr,St. James'S Hospital,6.0
 2025,Apr,St. Luke'S General Hospital,2.0
+2025,Apr,St. Michael'S Nursing Home Limited,1.0
 2025,Apr,St. Vincent'S Healthcare Group,1.0
 2025,Apr,Stanford Woods Care Centre Limited,1.0
 2025,Apr,Starrus Eco Holding Limited T/A Panda,3.0
@@ -6001,7 +6013,7 @@ Year,Month,Company,Total
 2025,May,Allanbay Limited,1.0
 2025,May,Allegis Group Limited,1.0
 2025,May,Alliance Medical Diagnostic Imaging Ltd,3.0
-2025,May,Allied Irish Banks Public Limited Company,1.0
+2025,May,"Allied Irish Banks, Public Limited Company",1.0
 2025,May,Allingham Arms Hotel Limited,1.0
 2025,May,Als Life Sciences Ltd,1.0
 2025,May,Alstom Transport Ireland Limited,1.0
@@ -6039,7 +6051,7 @@ Year,Month,Company,Total
 2025,May,Atkinsréalis Limited,1.0
 2025,May,Atlantach Technical Services,1.0
 2025,May,Atlantic Aviation Group Limited H2,5.0
-2025,May,Atlantic Projects Company Limited,5.0
+2025,May,Atlantic Projects Company Limited,4.0
 2025,May,Atlas Copco (Ireland) Ltd,1.0
 2025,May,Atlas Ts Ireland Limited,1.0
 2025,May,Avcom Audio Visual Communications Ltd,1.0
@@ -6066,6 +6078,7 @@ Year,Month,Company,Total
 2025,May,Bdo,1.0
 2025,May,Beag Tech Ltd,1.0
 2025,May,Bearingpoint Ireland Limited,1.0
+2025,May,Beaumont Convalescent Home,1.0
 2025,May,Beechfield Manor Nursing Home Limited,1.0
 2025,May,Beechwood Childcare,1.0
 2025,May,Bellerophon Limited,1.0
@@ -6150,7 +6163,6 @@ Year,Month,Company,Total
 2025,May,Castle Homecare Limited,4.0
 2025,May,Castlerea Nursing Home,1.0
 2025,May,Catherine And Paul Cashman T/A Rathbarry Stud Farm,2.0
-2025,May,Catherine Mcauley House,1.0
 2025,May,Cavan & Monaghan Hospital,2.0
 2025,May,Cdk Global Automotive Systems (Ireland) Limited,1.0
 2025,May,Cell Again Ireland Limited,1.0
@@ -6177,7 +6189,7 @@ Year,Month,Company,Total
 2025,May,Citibank Europe Plc,2.0
 2025,May,Citywest Foods Services Limited,2.0
 2025,May,Cjcm Investment Limited,1.0
-2025,May,Claregalway Hotel,1.0
+2025,May,Claregalway Hotel Limited,1.0
 2025,May,Claremorris Free Range Eggs Limited,2.0
 2025,May,Claremount Nursing Home Ltd,2.0
 2025,May,Cleary & Doyle Construction Limited,2.0
@@ -6205,6 +6217,7 @@ Year,Month,Company,Total
 2025,May,Copper Mine Bar Limited,1.0
 2025,May,Coral Nursing Social & Complementary Services Ltd,1.0
 2025,May,Cork City Council,1.0
+2025,May,Cork University Hospital,7.0
 2025,May,Cornacrieve Mushrooms Ltd,5.0
 2025,May,Cornelia Murphy Architects Limited,1.0
 2025,May,Cosmedilase Limited,1.0
@@ -6218,12 +6231,12 @@ Year,Month,Company,Total
 2025,May,Cubic Telecom Limited,1.0
 2025,May,Cullen Cleaning Unlimited Company,2.0
 2025,May,Cullens Recovery And Repairs Ltd,1.0
-2025,May,Cully Automation Ltd,1.0
+2025,May,Cully Automation Limited,1.0
 2025,May,Cv Homecare Solutions Ltd,4.0
 2025,May,Cxm Tech Services Ireland Limited,1.0
 2025,May,Cyber Sol Limited,1.0
 2025,May,Cygnum Timber Frame Ltd,10.0
-2025,May,D.Leonard Civil Engineering Services Ltd,1.0
+2025,May,D. Leonard Civil Engineering Services Ltd,1.0
 2025,May,Daktu Designated Activity Company,6.0
 2025,May,Daleside Plant Sales And Repairs Ltd,1.0
 2025,May,Dan Esther Francis Cosgrave,1.0
@@ -6260,7 +6273,7 @@ Year,Month,Company,Total
 2025,May,Duesbury Limited,1.0
 2025,May,Dundrum Steel Rhd Ltd,1.0
 2025,May,Dungarvan Transport Ltd,2.0
-2025,May,Dunlavin Nursing Home Ltd,2.0
+2025,May,Dunlavin Nursing Home Ltd,3.0
 2025,May,E&I Engineering Limited,1.0
 2025,May,Eamonn Barrett International Transport Ltd,1.0
 2025,May,Edc Engineering Design Consultants Limited,1.0
@@ -6317,6 +6330,7 @@ Year,Month,Company,Total
 2025,May,Fiann Tech Limited,2.0
 2025,May,Fikados Care Services Limited,1.0
 2025,May,Firecomms Ltd,1.0
+2025,May,First Care Beneavin House Limited,3.0
 2025,May,Firstcare Beneavin Lodge Limited,2.0
 2025,May,Fisc Ireland Limited,5.0
 2025,May,Fitzgerald Commercials Limited,2.0
@@ -6392,8 +6406,7 @@ Year,Month,Company,Total
 2025,May,Haven Bay Care Centre Limited,2.0
 2025,May,Hcl (Ireland) Information Systems Limited,6.0
 2025,May,Hcl Technologies Limited,1.0
-2025,May,Health Service Executive South,7.0
-2025,May,Henkel Ireland Operations And Research Ltd,1.0
+2025,May,Henkel Ireland Operations And Research Limited,1.0
 2025,May,Herbert Park Hotel 2 Limited,2.0
 2025,May,Herbie Stephenson Limited,3.0
 2025,May,Herps Food Limited,1.0
@@ -6503,7 +6516,6 @@ Year,Month,Company,Total
 2025,May,Killeline Nursing Home Ltd,2.0
 2025,May,Killenaule Surgery,1.0
 2025,May,Kilmacud In Car Services Ltd,1.0
-2025,May,Kilsaran Concrete Unlimited Company,1.0
 2025,May,Kingdom Crash Repairs Ltd,1.0
 2025,May,Kirby Group Engineering Unlimited Company,6.0
 2025,May,Knockrobin Nursing Home Ltd,4.0
@@ -6579,7 +6591,7 @@ Year,Month,Company,Total
 2025,May,Mc Kenna Mushrooms Limited,1.0
 2025,May,"Mc Nulty Contracts (Sn) Limited,",2.0
 2025,May,Mcaree Engineering Works Ltd,9.0
-2025,May,Mccabe'S Pharmacy,1.0
+2025,May,Mccabes Pharmacy Limited,1.0
 2025,May,Mccallion Construction Limited,1.0
 2025,May,Mccarthy Commercials Ltd,1.0
 2025,May,Mccormack Farms Limited,8.0
@@ -6620,7 +6632,7 @@ Year,Month,Company,Total
 2025,May,Mori King Limited,1.0
 2025,May,Mossies Peak Limited,1.0
 2025,May,Mott Macdonald Ireland Ltd,1.0
-2025,May,Mowlam Healthcare Services Unlimited Company,11.0
+2025,May,Mowlam Healthcare Services Unlimited Company,10.0
 2025,May,Mpm Nursing Home Ltd,2.0
 2025,May,Mufg Alternative Fund Services (Ireland) Limited,1.0
 2025,May,Mull Enterprises Limited,1.0
@@ -6643,6 +6655,7 @@ Year,Month,Company,Total
 2025,May,Nirocon Limited,2.0
 2025,May,Noel Howley Warehousing Ltd,1.0
 2025,May,Noel O'Shea (Plant) Limited,1.0
+2025,May,North Park Takeaway Limited,1.0
 2025,May,Novartis Ireland Limited,1.0
 2025,May,Nt R&D Logistics Systems Limited,36.0
 2025,May,Nua Healthcare Services,2.0
@@ -6669,7 +6682,7 @@ Year,Month,Company,Total
 2025,May,Openmind Networks Limited,1.0
 2025,May,Optum Services (Ireland) Limited,7.0
 2025,May,Orange Srbj Limited,1.0
-2025,May,Orchard Community Care,3.0
+2025,May,Orchard Community Care Limited,3.0
 2025,May,Orchard Residential Care,1.0
 2025,May,Oriental Prosperity Limited,1.0
 2025,May,Our Lady'S Hospital Navan,1.0
@@ -6749,7 +6762,7 @@ Year,Month,Company,Total
 2025,May,Rock Vision Limited,1.0
 2025,May,"Roger, Mary And Eoin Kennedy",1.0
 2025,May,Romero Games Ltd,1.0
-2025,May,Rosderra Irish Meats Group Uc,13.0
+2025,May,Rosderra Irish Meats Group Uc,14.0
 2025,May,Rosewell Racing Ltd,1.0
 2025,May,Roskell Transport Ltd,1.0
 2025,May,Ross Hegarty Hairdressing,1.0
@@ -6907,7 +6920,7 @@ Year,Month,Company,Total
 2025,May,Unum Ireland Ltd.,1.0
 2025,May,Urban Brewing Limited,1.0
 2025,May,Urban Pizza Limited,1.0
-2025,May,Value Food Ltd,1.0
+2025,May,Value Foods Ltd,1.0
 2025,May,Vanguard Group (Ireland) Limited,1.0
 2025,May,Varming Consulting Engineers Ltd,2.0
 2025,May,Velasco Limited,1.0
@@ -6954,8 +6967,7 @@ Year,Month,Company,Total
 2025,Jun,Aaron Dunne Tyre Service Ltd,1.0
 2025,Jun,Abbey Physiotherapy Clinic,1.0
 2025,Jun,Abbot Close Nursing Home Ltd,3.0
-2025,Jun,Abbott Ireland,4.0
-2025,Jun,Abbott Ireland - Kilkenny,1.0
+2025,Jun,Abbott Ireland,5.0
 2025,Jun,Abec Technologies Europe Limited,1.0
 2025,Jun,Abhann Productions Limited,2.0
 2025,Jun,Absorb Technology Limited,1.0
@@ -6984,7 +6996,7 @@ Year,Month,Company,Total
 2025,Jun,All Net Systems Limited,1.0
 2025,Jun,Allergan Pharmaceuticals Ireland Ulc,1.0
 2025,Jun,Alliance Medical Diagnostic Imaging Ltd,3.0
-2025,Jun,Allied Irish Banks Public Limited Company,2.0
+2025,Jun,"Allied Irish Banks, Public Limited Company",2.0
 2025,Jun,Alltec Fibre Limited,1.0
 2025,Jun,Alstonwood Ltd T/A B2 Communications,1.0
 2025,Jun,Alto Health,1.0
@@ -7148,6 +7160,7 @@ Year,Month,Company,Total
 2025,Jun,Coolmine Tc,1.0
 2025,Jun,Cora Tine Teoranta T/A Kelsius,1.0
 2025,Jun,Corby Carriers Limited,1.0
+2025,Jun,Cork University Hospital,17.0
 2025,Jun,Corkery Alu-Cast Enterprises Ltd,1.0
 2025,Jun,Cornacrieve Mushrooms Ltd,7.0
 2025,Jun,Costern Unlimited Company,6.0
@@ -7170,7 +7183,6 @@ Year,Month,Company,Total
 2025,Jun,Dairygold Co-Operative Society Limited,1.0
 2025,Jun,Daktu Designated Activity Company,5.0
 2025,Jun,Data Edge Ltd.,1.0
-2025,Jun,David Kenneally Construction Limited,1.0
 2025,Jun,David Slattery Conservation Architects Limited,1.0
 2025,Jun,Dawn Meats Ireland Uc,6.0
 2025,Jun,Ddat Ireland Technology Limited,1.0
@@ -7297,11 +7309,10 @@ Year,Month,Company,Total
 2025,Jun,Gyss Ltd.,1.0
 2025,Jun,H.A O'Neil Limited,1.0
 2025,Jun,H.Mclaughlin & Sons Limited,1.0
-2025,Jun,Hafiz Traders Limited,1.0
+2025,Jun,Hafiz Traders Ltd,1.0
 2025,Jun,Halcyon Cleaning Services Ltd,2.0
 2025,Jun,Hari Foods Limited,1.0
 2025,Jun,Hatcon Limited,1.0
-2025,Jun,Health Service Executive South,17.0
 2025,Jun,Health Services Staffs Credit Union Limited,1.0
 2025,Jun,Heraeus Metal Processing Limited,1.0
 2025,Jun,Hermitage Leisure Taverns Limited,1.0
@@ -7401,7 +7412,7 @@ Year,Month,Company,Total
 2025,Jun,Lily Haosi Limited,2.0
 2025,Jun,Limerick First Choice Medical Centre Ltd,1.0
 2025,Jun,Lin Kee Limited,1.0
-2025,Jun,Lincoln Healthcare Recruitment And Training Ltd T/A Medforce,1.0
+2025,Jun,Lincoln Healthcare Recruitment And Training Ltd,1.0
 2025,Jun,Lintbrook Limited,1.0
 2025,Jun,Listonmill Limited,1.0
 2025,Jun,Little Nepal Food Restaurant Ltd,1.0
@@ -7457,6 +7468,7 @@ Year,Month,Company,Total
 2025,Jun,Microsoft Ireland Research Unlimited Company,5.0
 2025,Jun,Midland Regional Hospital At Tullamore,10.0
 2025,Jun,Minana International,1.0
+2025,Jun,Minasil Limited,1.0
 2025,Jun,Ministry Brands Limited,1.0
 2025,Jun,Mitsui & Co Europe Ltd,2.0
 2025,Jun,Mohammad Shahzad Ali,1.0
@@ -7474,7 +7486,7 @@ Year,Month,Company,Total
 2025,Jun,Mullingar Autos Limited,1.0
 2025,Jun,My Life By Estrela Hall Limited,1.0
 2025,Jun,N & E Farrell Precision Engineering Limited,1.0
-2025,Jun,Naas General Hospital,9.0
+2025,Jun,Naas General Hospital,8.0
 2025,Jun,National Sprinkler Company Limited,1.0
 2025,Jun,Netapp Ireland Limited,3.0
 2025,Jun,New York Global Consultant Limited,1.0
@@ -7496,7 +7508,7 @@ Year,Month,Company,Total
 2025,Jun,Oaklands Garage Limited,4.0
 2025,Jun,Obelisk Communications Limited,1.0
 2025,Jun,Ocean Catering And Hospitality Services Ltd,1.0
-2025,Jun,Odyssey Social Care,1.0
+2025,Jun,Odyssey Social Care Limited,1.0
 2025,Jun,Old Carton Farms Ltd,1.0
 2025,Jun,Onyx Engineering Limited,1.0
 2025,Jun,Openmind Networks Limited,1.0
@@ -7521,14 +7533,14 @@ Year,Month,Company,Total
 2025,Jun,Pdas Limited,2.0
 2025,Jun,Pegaso Limited,1.0
 2025,Jun,Perennial Freight Limited,2.0
-2025,Jun,Permanent Tsb Plc,1.0
+2025,Jun,Permanent Tsb Public Limited Company,1.0
 2025,Jun,Pertora Limited,1.0
 2025,Jun,Pfh Technology Group Unlimited Company,1.0
 2025,Jun,Physio Eireann Cco,1.0
 2025,Jun,Pioneer Homecare,3.0
 2025,Jun,Plassey Food And Distribution Co. Limited,1.0
 2025,Jun,Poised Ltd,1.0
-2025,Jun,Portiuncula University Hospital,12.0
+2025,Jun,Portiuncula University Hospital,11.0
 2025,Jun,Portlaoise Logistics Limited,5.0
 2025,Jun,Power Work Interiors Ltd,1.0
 2025,Jun,Powercomm Engineering Limited,1.0
@@ -7561,7 +7573,7 @@ Year,Month,Company,Total
 2025,Jun,Riada Care Limited,2.0
 2025,Jun,Rosderra Irish Meats Group Uc,9.0
 2025,Jun,Rosenalee Care Centre Ltd,1.0
-2025,Jun,Roseville Nursing Home Ltd,1.0
+2025,Jun,Roseville Nursing Home Ltd,2.0
 2025,Jun,Royal Victoria Eye & Ear Hospital,1.0
 2025,Jun,Roybridge Ltd. T/A Ksh Group,1.0
 2025,Jun,Rp Tradeco Limited,1.0
@@ -7600,6 +7612,7 @@ Year,Month,Company,Total
 2025,Jun,Sligo University Hospital,16.0
 2025,Jun,Small World Consulting,1.0
 2025,Jun,Smbc Aviation Capital Ltd,1.0
+2025,Jun,Smith Groundworks Engineering Ltd,1.0
 2025,Jun,Software Labs Campus Unlimited Company,7.0
 2025,Jun,Soolnua Consulting Limited,1.0
 2025,Jun,South Infirmary Victoria University Hospital,1.0
@@ -7624,7 +7637,7 @@ Year,Month,Company,Total
 2025,Jun,Stanford Woods Care Centre Limited,1.0
 2025,Jun,State Street International (Ireland) Limited,1.0
 2025,Jun,Stem Education Metaverse Limited,1.0
-2025,Jun,Stephen Quinn Stone Mason Ltd,1.0
+2025,Jun,Stephen Quinn Stone Mason Limited,1.0
 2025,Jun,Stewarts Care Designated Activity Company,4.0
 2025,Jun,Stock Health Ltd,1.0
 2025,Jun,Storyful Ltd,1.0
@@ -7702,6 +7715,7 @@ Year,Month,Company,Total
 2025,Jun,Vermac Gas Systems Limited,1.0
 2025,Jun,Vhi Health & Wellbeing Dac,1.0
 2025,Jun,Victory Garden Limited,2.0
+2025,Jun,Viec Two Limited,1.0
 2025,Jun,Viveganandha Krishnan,1.0
 2025,Jun,Walls Construction Limited,3.0
 2025,Jun,Walsh Mushrooms Golden Unlimited Company,1.0
@@ -7712,7 +7726,7 @@ Year,Month,Company,Total
 2025,Jun,Westpoint Od´S Ltd,1.0
 2025,Jun,Wexford General Hospital,6.0
 2025,Jun,Whc Lab Limited,1.0
-2025,Jun,Wild Atlantic Pictures Limited,6.0
+2025,Jun,Wild Atlantic Pictures Limited,5.0
 2025,Jun,Wings International Cuisine Ireland Limited,1.0
 2025,Jun,Woodfort Contracting Limited,1.0
 2025,Jun,Workday Limited,2.0
@@ -7737,8 +7751,7 @@ Year,Month,Company,Total
 2025,Jul,Abbey Machinery Limited,1.0
 2025,Jul,Abbey Physiotherapy Clinic,3.0
 2025,Jul,Abbot Close Nursing Home Ltd,6.0
-2025,Jul,Abbott Ireland,4.0
-2025,Jul,Abbott Ireland - Kilkenny,4.0
+2025,Jul,Abbott Ireland,8.0
 2025,Jul,Abec Technologies Europe Limited,1.0
 2025,Jul,Abhann Productions Limited,1.0
 2025,Jul,Accenture Limited,18.0
@@ -7765,7 +7778,7 @@ Year,Month,Company,Total
 2025,Jul,Allergan Pharmaceuticals Ireland Ulc,1.0
 2025,Jul,Alliance Medical Diagnostic Imaging Ltd,1.0
 2025,Jul,Allied Imports Ltd.,1.0
-2025,Jul,Allied Irish Banks Public Limited Company,3.0
+2025,Jul,"Allied Irish Banks, Public Limited Company",3.0
 2025,Jul,Alltec Fibre Limited,1.0
 2025,Jul,Alpa Building & Design Ltd,2.0
 2025,Jul,Alpha Precision Limited,1.0
@@ -7811,7 +7824,6 @@ Year,Month,Company,Total
 2025,Jul,Atp Fitness Limited,1.0
 2025,Jul,Auburn Manor Ltd,1.0
 2025,Jul,Aut O'Mattic A8C Ireland Limited,1.0
-2025,Jul,Auto Conversions Limited,1.0
 2025,Jul,Automated Systems And Controls Limited,6.0
 2025,Jul,Back To Front Hospitality Ltd,1.0
 2025,Jul,Baker Tilly Ireland Lp,1.0
@@ -7941,7 +7953,7 @@ Year,Month,Company,Total
 2025,Jul,Coillte Cuideachta Ghníomhaíochta Ainmithe,2.0
 2025,Jul,Colonel Productions Two Dac,9.0
 2025,Jul,Comfort Care Limited,5.0
-2025,Jul,Commissioning Agents Ireland Ltd.,1.0
+2025,Jul,"Commissioning Agents Ireland, Limited",1.0
 2025,Jul,Communicare Agency Limited,7.0
 2025,Jul,Con Traas Ltd,1.0
 2025,Jul,Conair Ventilation,1.0
@@ -7953,6 +7965,7 @@ Year,Month,Company,Total
 2025,Jul,Control Tech Limited,2.0
 2025,Jul,Cook Ireland Limited,1.0
 2025,Jul,Cool Cat Plant Services Ltd,1.0
+2025,Jul,Cork University Hospital,6.0
 2025,Jul,Cormican Farming Ltd,1.0
 2025,Jul,Cornacrieve Mushrooms Ltd,7.0
 2025,Jul,Costern Unlimited Company,7.0
@@ -8055,7 +8068,6 @@ Year,Month,Company,Total
 2025,Jul,Esker Lodge Limited,2.0
 2025,Jul,Eskimo Wu Limited,1.0
 2025,Jul,Etc Consult Limited,1.0
-2025,Jul,Ethos Engineering Ltd,1.0
 2025,Jul,Euram Air Leases (Ireland) Ltd,1.0
 2025,Jul,European Refreshments Unlimited Company,1.0
 2025,Jul,Expleo Technology Ireland Limited,1.0
@@ -8135,7 +8147,7 @@ Year,Month,Company,Total
 2025,Jul,Greco Construction Limited,1.0
 2025,Jul,Green Pasture Meat Processors Limited,1.0
 2025,Jul,Green Pastures (Donegal) Unlimited Company,1.0
-2025,Jul,Greenvalley Transport Plant Hire Limited,3.0
+2025,Jul,Greenvalley Transport Plant Hire Limited,2.0
 2025,Jul,Greenvolt Next Ireland Limited,2.0
 2025,Jul,Greystones Nursing Home Limited,2.0
 2025,Jul,Grianan Trux Limited T/A Flynn Roadfreight,1.0
@@ -8145,6 +8157,7 @@ Year,Month,Company,Total
 2025,Jul,Guedson De Moraes Construction Limited,1.0
 2025,Jul,Guidewire Software (Ireland) Limited,1.0
 2025,Jul,Gutyiera Limited,1.0
+2025,Jul,H & R Plastering Limited,1.0
 2025,Jul,Halcon Steel Ltd,1.0
 2025,Jul,Hanjra And Brothers Limited,1.0
 2025,Jul,Harmony Accountants Limited,1.0
@@ -8152,7 +8165,6 @@ Year,Month,Company,Total
 2025,Jul,Haven Bay Care Centre Limited,4.0
 2025,Jul,Hcl (Ireland) Information Systems Limited,3.0
 2025,Jul,Health Service Executive,1.0
-2025,Jul,Health Service Executive South,6.0
 2025,Jul,Heineken Ireland,1.0
 2025,Jul,Heng Hui Asian Delights Limited,1.0
 2025,Jul,Heng Hui Limited,1.0
@@ -8179,6 +8191,7 @@ Year,Month,Company,Total
 2025,Jul,Hse Dskww Community Healthcare,1.0
 2025,Jul,Hse Mid West,1.0
 2025,Jul,Hse Mrh Portlaoise,1.0
+2025,Jul,Hsr Consultancy Ltd,1.0
 2025,Jul,Huamao Takeaway Ltd,1.0
 2025,Jul,Huawei Technologies (Ireland) Co Ltd,1.0
 2025,Jul,Hubspot Ireland Limited,1.0
@@ -8343,7 +8356,7 @@ Year,Month,Company,Total
 2025,Jul,Mcmorrow Haulage,4.0
 2025,Jul,Mcmorrow Renewables Ltd,1.0
 2025,Jul,Mcr Outsourcing Limited,1.0
-2025,Jul,Mds Commercial Centre Europe Ltd,1.0
+2025,Jul,Mds Commercial Centre Europe Ltd,2.0
 2025,Jul,Meath Farm Machinery Limited,2.0
 2025,Jul,Melbourne Healthcare Ltd,1.0
 2025,Jul,"Mental Health Services, Cork And Kerry",4.0
@@ -8394,12 +8407,12 @@ Year,Month,Company,Total
 2025,Jul,National Rehabilitation Hospital,2.0
 2025,Jul,Navan Rugby Football Club,1.0
 2025,Jul,Navio Ltd,1.0
-2025,Jul,Nazareth Care Ireland,2.0
+2025,Jul,Nazareth Care Ireland,3.0
 2025,Jul,Netapp Ireland Limited,2.0
 2025,Jul,Neville Hotels Ulc,1.0
 2025,Jul,New Age Auto Services Ltd,1.0
 2025,Jul,Newbrook Nursing Home Unlimited Company,1.0
-2025,Jul,Newpark Care Centre Limited,1.0
+2025,Jul,Newpark Care Centre Ltd,1.0
 2025,Jul,Newpark Hotel Limited,1.0
 2025,Jul,Nicholas O'Dwyer Limited,1.0
 2025,Jul,Nineyards Ltd,1.0
@@ -8437,7 +8450,7 @@ Year,Month,Company,Total
 2025,Jul,Onebill Utilities Limited,1.0
 2025,Jul,Openet Telecom Sales Limited,1.0
 2025,Jul,Optum Services (Ireland) Limited,6.0
-2025,Jul,Orchard Community Care,1.0
+2025,Jul,Orchard Community Care Limited,1.0
 2025,Jul,Orchard Residential Care,1.0
 2025,Jul,Oriel House Hotel Limited,1.0
 2025,Jul,Ormond Healthcare Ltd,1.0
@@ -8482,6 +8495,7 @@ Year,Month,Company,Total
 2025,Jul,Portlaoise Logistics Limited,1.0
 2025,Jul,Ppd Development Ireland Limited,6.0
 2025,Jul,Premier Precast Solutions Limited,4.0
+2025,Jul,Premium Power Limited,1.0
 2025,Jul,Pricewaterhousecoopers,3.0
 2025,Jul,Priority Construction Limited,1.0
 2025,Jul,Project Management Limited,5.0
@@ -8588,6 +8602,7 @@ Year,Month,Company,Total
 2025,Jul,Slalom Technology And Management Solutions Limited,1.0
 2025,Jul,Slievenamon Dairy Farm Limited,1.0
 2025,Jul,Sligo University Hospital,3.0
+2025,Jul,Smith Groundworks Engineering Ltd,1.0
 2025,Jul,Smk & Co. Accounting Limited,1.0
 2025,Jul,Smyths Daleside Ltd,2.0
 2025,Jul,Social Innovation Growth Fund Ireland Clg,1.0
@@ -8597,6 +8612,7 @@ Year,Month,Company,Total
 2025,Jul,Sonas Asset Holdings Limited,2.0
 2025,Jul,Sonas Nursing Homes Management Co. Ltd,1.0
 2025,Jul,Songbrook Unlimited Company T/A Sweartaker,1.0
+2025,Jul,Sosv Limited,1.0
 2025,Jul,South Coast Logistics Ltd,1.0
 2025,Jul,South Infirmary Victoria University Hospital,3.0
 2025,Jul,South Tipperary General Hospital,2.0
@@ -8682,6 +8698,7 @@ Year,Month,Company,Total
 2025,Jul,The Village Nursing Home Ltd,2.0
 2025,Jul,The Westport Plaza And Castlecourt Hotel Resort Unlimited Company,1.0
 2025,Jul,The Wicklow Heather Restaurant Limited,1.0
+2025,Jul,Thistlemill Ltd,1.0
 2025,Jul,Ti Rushmore Limited,1.0
 2025,Jul,Ticketlock Ltd,1.0
 2025,Jul,Tiernaneill Mushrooms Limited,1.0
@@ -8709,7 +8726,7 @@ Year,Month,Company,Total
 2025,Jul,Tusker Steelworks Limited,1.0
 2025,Jul,Tusla - Child And Family Agency,5.0
 2025,Jul,Tyco Ireland Limited,1.0
-2025,Jul,Ucc Academy Limited,1.0
+2025,Jul,Ucc Academy Designated Activity Company,1.0
 2025,Jul,Uisce Éireann,5.0
 2025,Jul,Underhill Investments Limited,1.0
 2025,Jul,Unicorn Immigration And Study Abroad Consulting (Ireland) Co Limited,1.0
@@ -8724,6 +8741,7 @@ Year,Month,Company,Total
 2025,Jul,Upmc Aut Even Hospital Limited,1.0
 2025,Jul,Utilityfair Limited,1.0
 2025,Jul,V Nails And Spa,1.0
+2025,Jul,Valcao Ltd T/A Bluebird Care,2.0
 2025,Jul,Valentia Nursing Home Ltd,2.0
 2025,Jul,Valley Filters Ltd,1.0
 2025,Jul,Vanguard Group (Ireland) Limited,1.0
@@ -8752,7 +8770,7 @@ Year,Month,Company,Total
 2025,Jul,Wexford General Hospital,3.0
 2025,Jul,Wh Catering Services Limited,2.0
 2025,Jul,Wicklow Dbc Ltd,1.0
-2025,Jul,Wild Atlantic Pictures Limited,11.0
+2025,Jul,Wild Atlantic Pictures Limited,9.0
 2025,Jul,William O'Donoghue Limited,1.0
 2025,Jul,Williams Lea Ireland Ltd,1.0
 2025,Jul,Willis Towers Watson (Ireland) Limited,1.0
@@ -8790,6 +8808,7 @@ Year,Month,Company,Total
 2025,Aug,A Willi Ltd,1.0
 2025,Aug,A.C. Nielsen Of Ireland Limited,1.0
 2025,Aug,A.F. Lucey Haulage Limited,1.0
+2025,Aug,Aag Hangar 1 Limited,11.0
 2025,Aug,Abbey Blue Education Limited,2.0
 2025,Aug,Abbey Haven Care Centre Nursing Home Ltd,1.0
 2025,Aug,Abbey Machinery Limited,3.0
@@ -8806,6 +8825,7 @@ Year,Month,Company,Total
 2025,Aug,Adrian Murray,1.0
 2025,Aug,Aecom Ireland Limited,1.0
 2025,Aug,Aer Lingus Limited,1.0
+2025,Aug,Aerogen Limited,1.0
 2025,Aug,Aforestry Ltd,1.0
 2025,Aug,Agri General Staff Solutions Ltd,5.0
 2025,Aug,Ah Hospitality Limited,1.0
@@ -8819,14 +8839,14 @@ Year,Month,Company,Total
 2025,Aug,Alif Private Limited,2.0
 2025,Aug,Alizashanza Medics Limited,1.0
 2025,Aug,All Fresh Wholesale Limited,1.0
-2025,Aug,All In Care Limited,4.0
+2025,Aug,All In Care Limited,3.0
 2025,Aug,Allanbay Limited,2.0
 2025,Aug,Allergan Pharmaceuticals Ireland Ulc,1.0
 2025,Aug,Allianz Plc,1.0
 2025,Aug,Almadina Limited,1.0
 2025,Aug,Alpha Automation And Controls Ltd,1.0
 2025,Aug,Alphabytes Limited,1.0
-2025,Aug,Alpine Healthcare Limited,3.0
+2025,Aug,Alpine Healthcare Limited,5.0
 2025,Aug,Alter Domus (Ireland) Ltd,1.0
 2025,Aug,Amazon Data Services Ireland Limited,11.0
 2025,Aug,Amazon Development Centre Ireland Limited,26.0
@@ -8868,9 +8888,8 @@ Year,Month,Company,Total
 2025,Aug,Asian Artisan Food Limited,1.0
 2025,Aug,Astatine Limited,2.0
 2025,Aug,Athlone Town Afc Company Limited By Guarantee,1.0
-2025,Aug,Athlunkard Nursing Home Limited,1.0
+2025,Aug,Athlunkard Nursing Home Limited,2.0
 2025,Aug,Atkinsréalis Limited,1.0
-2025,Aug,Atlantic Aviation Group Limited H1,11.0
 2025,Aug,Atlantic Aviation Group Limited H2,1.0
 2025,Aug,Aubren Limited,1.0
 2025,Aug,Aura Life Limited,1.0
@@ -8904,6 +8923,7 @@ Year,Month,Company,Total
 2025,Aug,Bccm Construction Ltd,1.0
 2025,Aug,Bdo,1.0
 2025,Aug,Beacon Hospital,1.0
+2025,Aug,Beaumont Convalescent Home,2.0
 2025,Aug,Beaumont Hospital,8.0
 2025,Aug,Beaumont Residential Care Limited,1.0
 2025,Aug,Beech Tree Healthcare Limited,1.0
@@ -8995,7 +9015,6 @@ Year,Month,Company,Total
 2025,Aug,Castleblayney Plant Hire T/A Monaghan Hire,1.0
 2025,Aug,Castlebridge Manor Private Clinic Ltd,7.0
 2025,Aug,Catering Limited,1.0
-2025,Aug,Catherine Mcauley House,2.0
 2025,Aug,Cavan & Monaghan Hospital,3.0
 2025,Aug,Cavan Monaghan Mental Health Service,1.0
 2025,Aug,Cbs Consulting Engineers Ltd,1.0
@@ -9066,6 +9085,7 @@ Year,Month,Company,Total
 2025,Aug,Corcorans Engineering Enterprises Ltd,1.0
 2025,Aug,Cordavis Limited,1.0
 2025,Aug,Cork Transfer Accommodation Limited,2.0
+2025,Aug,Cork University Hospital,21.0
 2025,Aug,Cork Visionplus Limited,1.0
 2025,Aug,Cornacrieve Mushrooms Ltd,1.0
 2025,Aug,Costern Unlimited Company,8.0
@@ -9094,7 +9114,7 @@ Year,Month,Company,Total
 2025,Aug,Cytiva Ireland Limited,1.0
 2025,Aug,"D And S Roe, Ltd",1.0
 2025,Aug,D-Max Foods Limited,1.0
-2025,Aug,D.Leonard Civil Engineering Services Ltd,1.0
+2025,Aug,D. Leonard Civil Engineering Services Ltd,1.0
 2025,Aug,Dada Molly Ltd,1.0
 2025,Aug,Dae (Ireland) Ltd,1.0
 2025,Aug,Dairy Green Ventures Ltd,1.0
@@ -9151,7 +9171,7 @@ Year,Month,Company,Total
 2025,Aug,Dromoland Castle Limited,1.0
 2025,Aug,Dromone Engineering Ltd,8.0
 2025,Aug,Drumagoland Farms Limited,1.0
-2025,Aug,Drumbo Mushrooms Limited,3.0
+2025,Aug,Drumbo Mushrooms Limited,4.0
 2025,Aug,Ds Ventilation Limited,1.0
 2025,Aug,Duan Yu Gao,1.0
 2025,Aug,Dublin Aerospace Limited,2.0
@@ -9193,7 +9213,7 @@ Year,Month,Company,Total
 2025,Aug,Elite Healthcare Limited,1.0
 2025,Aug,Eliza Care Limited,3.0
 2025,Aug,Emerson Automation Solutions Ireland Limited,4.0
-2025,Aug,Emerton View Ltd,2.0
+2025,Aug,Emerton View Limited,2.0
 2025,Aug,Emg Tyres Ltd,1.0
 2025,Aug,Emmet Place Aroma Limited,2.0
 2025,Aug,Endress + Hauser (Ireland) Limited,2.0
@@ -9245,7 +9265,7 @@ Year,Month,Company,Total
 2025,Aug,Flamers Ltd,1.0
 2025,Aug,Flanagans Nursing Home Limited,5.0
 2025,Aug,Fleet Street Events Limited,1.0
-2025,Aug,Flemingstown Dairies Limited,2.0
+2025,Aug,Flemingstown Dairies Limited,1.0
 2025,Aug,Flexifi Europe Services Limited,1.0
 2025,Aug,"Fm Auditors, Tax & Business Advisors Limited",1.0
 2025,Aug,Forethought Limited,1.0
@@ -9260,6 +9280,7 @@ Year,Month,Company,Total
 2025,Aug,Galway Truck And Van Centre Ltd,4.0
 2025,Aug,Galway University Hospital,3.0
 2025,Aug,Ganlys Of Athlone,1.0
+2025,Aug,Garryduff Dairy Farm Limited,1.0
 2025,Aug,Gartner Ireland Limited,1.0
 2025,Aug,Gas Networks Ireland,1.0
 2025,Aug,Gather & Gather Ireland Limited,1.0
@@ -9281,13 +9302,13 @@ Year,Month,Company,Total
 2025,Aug,Globallogic Software And Technology Ireland Limited,2.0
 2025,Aug,Globlink Finance Consultants Limited,1.0
 2025,Aug,Globoforce Limited,2.0
-2025,Aug,Gmc Utilities Group Limited,7.0
+2025,Aug,Gmc Utilities Group Limited,8.0
 2025,Aug,Gn Lexington Properties Ltd,1.0
 2025,Aug,Gn Lin Trading Limited,1.0
 2025,Aug,Go-Ahead Transport Services (Dublin) Limited,7.0
 2025,Aug,Goggins Transport Company Limited,1.0
 2025,Aug,Golden Nursing Homes Ltd,2.0
-2025,Aug,Google Ireland Limited,33.0
+2025,Aug,Google Ireland Limited,32.0
 2025,Aug,Gortroe Nursing Home Ltd,1.0
 2025,Aug,Gourmet Inn Limited,1.0
 2025,Aug,Gourmet Tart Company Limited,5.0
@@ -9325,7 +9346,6 @@ Year,Month,Company,Total
 2025,Aug,Hcl (Ireland) Information Systems Limited,5.0
 2025,Aug,Health Information And Quality Authority (Hiqa),2.0
 2025,Aug,Health Service Executive Cho1,1.0
-2025,Aug,Health Service Executive South,21.0
 2025,Aug,Helado Limited,1.0
 2025,Aug,Heng Yuan Limited,1.0
 2025,Aug,Henghui Bubble Tea Expert Ltd,1.0
@@ -9334,7 +9354,6 @@ Year,Month,Company,Total
 2025,Aug,Heritage Homecare Limited,3.0
 2025,Aug,Hertz Europe Service Centre Limited,1.0
 2025,Aug,Hewlett-Packard Galway Limited,1.0
-2025,Aug,Hibernia Services Limited,1.0
 2025,Aug,Hillcrest Hair And Beauty Ltd,1.0
 2025,Aug,Hineys Of Crossmolina Limited,1.0
 2025,Aug,Hitachi Energy Ireland Limited,2.0
@@ -9400,6 +9419,7 @@ Year,Month,Company,Total
 2025,Aug,Jaguar Land Rover Ireland (Services) Limited,2.0
 2025,Aug,Jaite Limited,2.0
 2025,Aug,James J. O’Donnell General Engineering Works Limited,1.0
+2025,Aug,James Montgomery And John Montgomery T/A Messrs. Niall Montgomery Partners,1.0
 2025,Aug,Jane Mccorkell Design Limited,1.0
 2025,Aug,Jerry Fitzgerald,1.0
 2025,Aug,Jfk Autotech Limited,1.0
@@ -9492,9 +9512,9 @@ Year,Month,Company,Total
 2025,Aug,Liberty Information Technology Limited,2.0
 2025,Aug,Lidl Ireland Gmbh,1.0
 2025,Aug,Life Science Consultants Limited,1.0
-2025,Aug,Liffey Meats (Cavan) Unlimited Company,26.0
+2025,Aug,Liffey Meats (Cavan) Unlimited Company,31.0
 2025,Aug,Lim Riverside Limited,1.0
-2025,Aug,Lincoln Healthcare Recruitment And Training Ltd T/A Medforce,1.0
+2025,Aug,Lincoln Healthcare Recruitment And Training Ltd,1.0
 2025,Aug,Linnlee Limited,1.0
 2025,Aug,Lintbrook Limited,1.0
 2025,Aug,Little Harvard Northside Ltd.,3.0
@@ -9517,7 +9537,7 @@ Year,Month,Company,Total
 2025,Aug,Maano Foods Cork Ltd,1.0
 2025,Aug,Mace Consultancy (Ireland) Limited,1.0
 2025,Aug,Madison Hospitality Limited,1.0
-2025,Aug,Mainline Power Ltd,1.0
+2025,Aug,Mainline Power Ltd,2.0
 2025,Aug,Majara Limited,1.0
 2025,Aug,Malachy Walsh & Company Limited,1.0
 2025,Aug,Malayo Limited,1.0
@@ -9526,7 +9546,6 @@ Year,Month,Company,Total
 2025,Aug,Manna Drones Limited,1.0
 2025,Aug,Mannok Cement Ltd,4.0
 2025,Aug,Mapaex Health And Personalcare,1.0
-2025,Aug,Margaret Hilliard,1.0
 2025,Aug,Martin Jennings Wholesale Ltd,3.0
 2025,Aug,Martin O'Callaghan Limited,2.0
 2025,Aug,Martin Ryan Haulage Limited,2.0
@@ -9625,8 +9644,9 @@ Year,Month,Company,Total
 2025,Aug,Neueda Technologies Fs Limited,1.0
 2025,Aug,New Abbey House Ltd,1.0
 2025,Aug,Newbrook Nursing Home Unlimited Company,1.0
+2025,Aug,Newman Home Builders & Sons Limited,1.0
 2025,Aug,Newmarket Nursing Home Limited,4.0
-2025,Aug,Newpark Care Centre Limited,1.0
+2025,Aug,Newpark Care Centre Ltd,1.0
 2025,Aug,Newpark Construction Limited,1.0
 2025,Aug,Ngs Products (Shannon) Ltd,1.0
 2025,Aug,Nickyjallure T/A Number Sixty One,1.0
@@ -9639,6 +9659,7 @@ Year,Month,Company,Total
 2025,Aug,Novacoast Eu Limited,1.0
 2025,Aug,Novartis Ireland Limited,1.0
 2025,Aug,Novegen Limited,1.0
+2025,Aug,Nra,1.0
 2025,Aug,Nt R&D Logistics Systems Limited,37.0
 2025,Aug,Ntt Data Services Ireland Limited,5.0
 2025,Aug,Ntt Data Uk Limited,1.0
@@ -9670,7 +9691,7 @@ Year,Month,Company,Total
 2025,Aug,Oracle Emea Ltd,1.0
 2025,Aug,Orangeseed Dac,1.0
 2025,Aug,Orbital Welding Solutions,1.0
-2025,Aug,Orchard Community Care,1.0
+2025,Aug,Orchard Community Care Limited,1.0
 2025,Aug,Ormond Healthcare Ltd,1.0
 2025,Aug,Ornua Co-Operative Limited,1.0
 2025,Aug,Osa Accountants Limited,1.0
@@ -9698,7 +9719,7 @@ Year,Month,Company,Total
 2025,Aug,Pegaso Limited,1.0
 2025,Aug,People Pro Hr Limited,1.0
 2025,Aug,Pera Mediterranean Bbq Limited,1.0
-2025,Aug,Permanent Tsb Plc,3.0
+2025,Aug,Permanent Tsb Public Limited Company,3.0
 2025,Aug,Personio Group Se,1.0
 2025,Aug,Peter Corrigan Consulting Engineers Limited,1.0
 2025,Aug,Peter O'Brien & Sons (Landscaping) Ltd,1.0
@@ -9732,6 +9753,7 @@ Year,Month,Company,Total
 2025,Aug,Privapath Diagnostics Limited,1.0
 2025,Aug,Pro-Riso Dental Clinic Limited,1.0
 2025,Aug,Process Engineering Specialists Limited,1.0
+2025,Aug,Procloud Horizon Limited,1.0
 2025,Aug,Procore Technologies Construction Software Limited,1.0
 2025,Aug,Prodieco Limited,1.0
 2025,Aug,Project Management Limited,2.0
@@ -9744,6 +9766,7 @@ Year,Month,Company,Total
 2025,Aug,Quinn Downes Limited,1.0
 2025,Aug,R. S. L. (Ireland) Limited,1.0
 2025,Aug,Rabat Ltd,1.0
+2025,Aug,Rabobank Dublin,1.0
 2025,Aug,Radiance Star Limited,3.0
 2025,Aug,Radley Engineering Limited,1.0
 2025,Aug,Rahat Perveen Holdings Limited,1.0
@@ -9773,6 +9796,7 @@ Year,Month,Company,Total
 2025,Aug,Riada Care Limited,1.0
 2025,Aug,Rice Cantillon Farms Ltd,1.0
 2025,Aug,Richtech Engineering Ltd,1.0
+2025,Aug,Ring'S Family Farm Limited,1.0
 2025,Aug,Robinson Distribution Ltd,1.0
 2025,Aug,Rocatil Limited,1.0
 2025,Aug,Rockwell Constructions Limited,17.0
@@ -9789,6 +9813,7 @@ Year,Month,Company,Total
 2025,Aug,Rt Commercial Painters Ltd.,2.0
 2025,Aug,Rue Gilt Groupe Limited Ireland,1.0
 2025,Aug,Runways Information Services Limited,1.0
+2025,Aug,Rushmore Nursing Home Limited,1.0
 2025,Aug,Ryanair Dac,1.0
 2025,Aug,Ryanair Labs Limited,1.0
 2025,Aug,Ryans Investments Unlimited Company,13.0
@@ -9813,6 +9838,7 @@ Year,Month,Company,Total
 2025,Aug,Sciforce Ireland Limited,1.0
 2025,Aug,Screen Market Research Company Limited,1.0
 2025,Aug,Sd Worx,1.0
+2025,Aug,Sdr Restaurants Limited,2.0
 2025,Aug,Sdsf Ltd,1.0
 2025,Aug,Seamus Brennan,1.0
 2025,Aug,Secto Services Limited,2.0
@@ -9855,7 +9881,7 @@ Year,Month,Company,Total
 2025,Aug,Snowflake Computing Ireland Limited,1.0
 2025,Aug,Social Fabric Cafe Limited,1.0
 2025,Aug,Social Innovation Growth Fund Ireland Clg,1.0
-2025,Aug,Software Labs Campus Unlimited Company,15.0
+2025,Aug,Software Labs Campus Unlimited Company,14.0
 2025,Aug,Softworks Limited,1.0
 2025,Aug,Softworks Ltd,2.0
 2025,Aug,Sol Pilates Limited,1.0
@@ -9869,7 +9895,7 @@ Year,Month,Company,Total
 2025,Aug,Sonra Intelligence Limited,1.0
 2025,Aug,Soraghan Auto Retail,1.0
 2025,Aug,Soti Ireland Ltd,2.0
-2025,Aug,South East Technological University,3.0
+2025,Aug,South East Technological University,2.0
 2025,Aug,South Infirmary Victoria University Hospital,1.0
 2025,Aug,South Tipperary General Hospital,5.0
 2025,Aug,Southern Control Systems Ltd,1.0
@@ -9898,7 +9924,7 @@ Year,Month,Company,Total
 2025,Aug,Starrus Eco Holding Limited T/A Panda,1.0
 2025,Aug,State Street International (Ireland) Limited,2.0
 2025,Aug,Staunton Foods Ltd.,2.0
-2025,Aug,Stephen Quinn Stone Mason Ltd,1.0
+2025,Aug,Stephen Quinn Stone Mason Limited,1.0
 2025,Aug,Stephenson Transport Ltd,1.0
 2025,Aug,Stepping Stones Care Limited,1.0
 2025,Aug,Sterling Pharma Ringaskiddy Limited,1.0
@@ -9976,6 +10002,7 @@ Year,Month,Company,Total
 2025,Aug,The Westport Plaza And Castlecourt Hotel Resort Unlimited Company,1.0
 2025,Aug,Thebethhelem Grace Limited,1.0
 2025,Aug,Thistlemill Ltd,1.0
+2025,Aug,Thomas Treanor,1.0
 2025,Aug,Three Ireland (Hutchison) Limited,1.0
 2025,Aug,Ti Rushmore Limited,1.0
 2025,Aug,Tierney Kitchens Retail Ltd,1.0
@@ -9993,7 +10020,7 @@ Year,Month,Company,Total
 2025,Aug,Townlink Construction,1.0
 2025,Aug,Tricel (Killarney) Unlimited Company,1.0
 2025,Aug,Trinity Biotech Manufacturing Limited,3.0
-2025,Aug,Trinity Support & Care Services Ltd,2.0
+2025,Aug,Trinity Support & Care Services Ltd,1.0
 2025,Aug,Triur Construction Limited,1.0
 2025,Aug,Turgan Limited,1.0
 2025,Aug,Turner & Townsend Ltd,8.0
@@ -10021,6 +10048,7 @@ Year,Month,Company,Total
 2025,Aug,Urban Health Limited,1.0
 2025,Aug,Urban Pizza Limited,1.0
 2025,Aug,Utmost Services Ireland Ltd,1.0
+2025,Aug,Valcao Ltd T/A Bluebird Care,1.0
 2025,Aug,Valentia Community Health & Welfare Association Clg,1.0
 2025,Aug,Vanguard Group (Ireland) Limited,1.0
 2025,Aug,Vantive Manufacturing Limited,2.0
@@ -10046,7 +10074,7 @@ Year,Month,Company,Total
 2025,Aug,Wegoyoba Limited,1.0
 2025,Aug,Wells Fargo Bank International,1.0
 2025,Aug,Welltel (Ireland) Limited,1.0
-2025,Aug,Weltec Engineering Ltd,9.0
+2025,Aug,Weltec Engineering Ltd,8.0
 2025,Aug,Westford Public House Limited,1.0
 2025,Aug,Wexford General Hospital,4.0
 2025,Aug,Whisbay Ltd,3.0
@@ -10095,3 +10123,1347 @@ Year,Month,Company,Total
 2025,Aug,Zoetis Belgium S.A.,1.0
 2025,Aug,Zs Retailers Limited,1.0
 2025,Aug,Áth Trasna Medical Centre,1.0
+2025,Sep,24Hr Care Services Limited,3.0
+2025,Sep,2K Games Dublin Limited,2.0
+2025,Sep,5 Star Stay Ltd.,1.0
+2025,Sep,A Chef Kebab Pizza,1.0
+2025,Sep,A Willi Ltd,1.0
+2025,Sep,Aa Business And Employment Solutions Limited,1.0
+2025,Sep,Aag Hangar 1 Limited,3.0
+2025,Sep,Aarval Limited,1.0
+2025,Sep,Abbey Blue Legal Limited (Employer),1.0
+2025,Sep,Abbey Haven Care Centre Nursing Home Ltd,3.0
+2025,Sep,Abbey Machinery Limited,4.0
+2025,Sep,Abbey Physiotherapy Clinic,1.0
+2025,Sep,Abbot Close Nursing Home Ltd,5.0
+2025,Sep,Abbott Ireland,16.0
+2025,Sep,Abbvie Ireland Nl Bv,2.0
+2025,Sep,Abtran Unlimited Company,1.0
+2025,Sep,Accel Lifts Limited,1.0
+2025,Sep,Accelerating Change Together Company Limited By Guarantee,1.0
+2025,Sep,Accenture Limited,18.0
+2025,Sep,Accident Repair Management Ltd,1.0
+2025,Sep,Accountancy & Business College (Ireland) Ltd,3.0
+2025,Sep,Accountaxassist Accountants Limited,1.0
+2025,Sep,Aclare Nursing Home Ltd,1.0
+2025,Sep,Acs Drives And Control Systems Limited,1.0
+2025,Sep,Activision Blizzard Ireland Ltd,1.0
+2025,Sep,Acuity Digital Ireland Limited,1.0
+2025,Sep,Ad Biorefine Consultancy Ltd,1.0
+2025,Sep,Advanced Laboratory Testing Ltd.,1.0
+2025,Sep,Advanced Manufacturing Control Systems Limited,1.0
+2025,Sep,Aecom Ireland Limited,1.0
+2025,Sep,Aerogen Limited,1.0
+2025,Sep,Affidea Diagnostics Ireland Limited,2.0
+2025,Sep,Agenbite Limited,1.0
+2025,Sep,Aidan Doherty Transport Ltd,1.0
+2025,Sep,Aishling Pharma Ltd,1.0
+2025,Sep,Aisling Dino Limited,1.0
+2025,Sep,Aja Propoerties Limited,1.0
+2025,Sep,Ajm Prime Catering Ltd,1.0
+2025,Sep,Al Khair Restaurant Limited,1.0
+2025,Sep,Alan Mulligan Contracts Limited,1.0
+2025,Sep,Albany Beck Ireland Limited,1.0
+2025,Sep,Alexion Pharma International Operations Limited,4.0
+2025,Sep,Ali & Manoj Ventures Limited,2.0
+2025,Sep,Alif Private Limited,2.0
+2025,Sep,All About Healthcare Limited,2.0
+2025,Sep,All Blooms,1.0
+2025,Sep,All In Care Limited,6.0
+2025,Sep,All Star Food Limited,1.0
+2025,Sep,Allanbay Limited,1.0
+2025,Sep,Allergan Pharmaceuticals Ireland Ulc,2.0
+2025,Sep,Alliance Medical Diagnostic Imaging Ltd,1.0
+2025,Sep,Allianz Global Life Dac,1.0
+2025,Sep,Allied Fire Protection Ltd,1.0
+2025,Sep,"Allied Irish Banks, Public Limited Company",16.0
+2025,Sep,Almac Sciences (Ireland) Limited,1.0
+2025,Sep,Alpha Wolves Volleyball Academy Limited,1.0
+2025,Sep,Alsaya Holdings Limited,2.0
+2025,Sep,Alter Domus Fund Services (Ireland) Limited,2.0
+2025,Sep,Amazon Data Services Ireland Limited,6.0
+2025,Sep,Amazon Development Centre Ireland Limited,40.0
+2025,Sep,Amazon Ireland Support Services Ltd,11.0
+2025,Sep,Amazon Web Services Emea Sarl,7.0
+2025,Sep,Amber Health Care Limited,2.0
+2025,Sep,Ambf Electrical Services Ltd,3.0
+2025,Sep,Amcor Flexibles Sligo Limited,1.0
+2025,Sep,Analog Devices International Unlimited Company,11.0
+2025,Sep,Andemare Limited,2.0
+2025,Sep,Anglo Beef Processors Ireland Unlimited Company,2.0
+2025,Sep,Anglo Beef Processors Unlimited Ireland,1.0
+2025,Sep,Aoc Dane Taverns Limited,1.0
+2025,Sep,Aon Ireland Limited,3.0
+2025,Sep,Aperee Living Tralee Limited,1.0
+2025,Sep,Apollo Electrical Limited,1.0
+2025,Sep,Apple Distribution International Limited,6.0
+2025,Sep,Apple Operations Limited,1.0
+2025,Sep,Appleby Jewellers Ltd,1.0
+2025,Sep,Applewood Homecare Ltd,2.0
+2025,Sep,Applied Materials Ireland Limited,2.0
+2025,Sep,Applied Process Company Ltd,1.0
+2025,Sep,Applus Inspection Services Ireland Ltd,13.0
+2025,Sep,Aptiv Global Operations Limited,1.0
+2025,Sep,Araglen House Nursing Home Limited,2.0
+2025,Sep,Aragonda Trading Ltd,1.0
+2025,Sep,Ard Precision Irl Ltd,1.0
+2025,Sep,Ardcastlin Limited,1.0
+2025,Sep,Argon & Co Business Transformation Ireland Limited,1.0
+2025,Sep,Arisu Korean Restaurant Limited,2.0
+2025,Sep,Arklow Chinese Takeaway Limited,1.0
+2025,Sep,Arlo Technologies International Limited,1.0
+2025,Sep,Arm Ireland Limited,1.0
+2025,Sep,Armando Nuhaj,1.0
+2025,Sep,Arnotree Limited,2.0
+2025,Sep,Ash Tree Productions Dac,3.0
+2025,Sep,Ashdale Catering Ltd,1.0
+2025,Sep,Ashford House Nursing Home Limited,2.0
+2025,Sep,Ashgrove Fireproofing Ltd,1.0
+2025,Sep,Ashlawn Nursing Home Limited,1.0
+2025,Sep,Ashley Martin Ltd,2.0
+2025,Sep,Asm Tech Ltd,1.0
+2025,Sep,Aspiegel Se,1.0
+2025,Sep,"Astellas Ireland Co.,Limited",1.0
+2025,Sep,Astrazeneca Pharmaceuticals (Ireland) Designated Activity Company,1.0
+2025,Sep,Astreya Consultancy Ireland Limited,2.0
+2025,Sep,Atex And Verification Services Ltd.,1.0
+2025,Sep,Athlone Pharmaceuticals Ltd,1.0
+2025,Sep,Athlunkard Nursing Home Limited,1.0
+2025,Sep,Athora Ireland Services Ltd.,1.0
+2025,Sep,Atlanta Nursing Home Ltd,1.0
+2025,Sep,Atlantic Aviation Group Limited H2,5.0
+2025,Sep,Atlantic Projects Company Limited,1.0
+2025,Sep,Atlantic Rose Fishing Co Ltd,1.0
+2025,Sep,Authorized Property Company Unlimited,1.0
+2025,Sep,Auto Conversions Limited,1.0
+2025,Sep,Autoflip Ireland Limited,1.0
+2025,Sep,Avanacar Ltd,1.0
+2025,Sep,Avista Clg,2.0
+2025,Sep,Avonmore Electrical Co. Ltd.,1.0
+2025,Sep,Bake Box Limited,1.0
+2025,Sep,Balbriggan Cricket Club Company Limited By Guarantee,1.0
+2025,Sep,Baldoyle Auto Centre Limited,1.0
+2025,Sep,Balfeside Limited,1.0
+2025,Sep,Ballina Motor Factors Limited,1.0
+2025,Sep,Ballincurrig Care Centre Ltd,1.0
+2025,Sep,Ballinvinny Dairy Farm Ltd,1.0
+2025,Sep,Ballyblood Dairy Farm Ltd,1.0
+2025,Sep,Ballyconnell Pig Farms Ulc,1.0
+2025,Sep,Ballyeightera Farm Limited,1.0
+2025,Sep,Ballygorman Construction Limited,19.0
+2025,Sep,Ballyshannon Bloodstock Ltd,1.0
+2025,Sep,Balreask Farms Limited,1.0
+2025,Sep,Bank Of America Europe Dac,3.0
+2025,Sep,Bank Of China (Europe) S.A.,1.0
+2025,Sep,Bank Of Ireland Group Plc,6.0
+2025,Sep,Banner Healthcare Limited,3.0
+2025,Sep,Barclays Bank Ireland Plc,1.0
+2025,Sep,Barelle Limited,1.0
+2025,Sep,Barnardos Ireland,1.0
+2025,Sep,Barretstown,3.0
+2025,Sep,Barry Dolan,1.0
+2025,Sep,Bartra Op Co (Northwood Nh) Limited,4.0
+2025,Sep,Bartra Opco (Beaumont Nh) Limited,19.0
+2025,Sep,Bartra Opco (Clondalkin Nh Pres) Limited,6.0
+2025,Sep,Bartra Opco No.1 Limited,1.0
+2025,Sep,Basf Ireland Designated Activity Company,1.0
+2025,Sep,Baycal Limited,1.0
+2025,Sep,Baylam Home Health Care Ltd,1.0
+2025,Sep,Bccm Construction Ltd,1.0
+2025,Sep,Bdo,1.0
+2025,Sep,Be Independent Home Care,5.0
+2025,Sep,Beacon Hospital,2.0
+2025,Sep,Beaumont Convalescent Home,1.0
+2025,Sep,Beaumont Hospital,4.0
+2025,Sep,Beechfield Manor Nursing Home Limited,1.0
+2025,Sep,Belcarrig Concrete Ltd,1.0
+2025,Sep,Bellurgan Precision Engineering Ltd,3.0
+2025,Sep,Belmont Care Limited T/A Belmont Nursing Home,2.0
+2025,Sep,Belvedere Leisure Company Limited,1.0
+2025,Sep,Bernard Kavanagh And Sons Ltd,1.0
+2025,Sep,Bhd Restaurant Limited,1.0
+2025,Sep,Bidac,1.0
+2025,Sep,Bigger Stage Limited,3.0
+2025,Sep,Bilingual Early Learning Childcare Limited,1.0
+2025,Sep,Binarii Labs Limited,1.0
+2025,Sep,Binary Consulting Limited,1.0
+2025,Sep,Biomarin International Limited,1.0
+2025,Sep,Bite Of Great China Limited,1.0
+2025,Sep,Black Shamrock Limited,2.0
+2025,Sep,Blackberry Stables Ltd,1.0
+2025,Sep,Blackrock Cottage Development Ltd,1.0
+2025,Sep,Blackrock Healthcare Group Unlimited,9.0
+2025,Sep,Blackwater Mechanical & Fabrication Services Limited,2.0
+2025,Sep,Blessington Stone + Concrete Plant Hire Ltd,2.0
+2025,Sep,Blg Asset Review And Control Limited,1.0
+2025,Sep,Bloodaxe 1 Productions Dac,1.0
+2025,Sep,Bluebird Care Dublin South Limited,4.0
+2025,Sep,Bluestone Personnel Limited,2.0
+2025,Sep,Bmc Eirco Refrigeration Ltd.,1.0
+2025,Sep,Bmc Nursing Home Limited,2.0
+2025,Sep,Bny Mellon Fund Services (Ireland) Dac,3.0
+2025,Sep,Bocadillo Limited,1.0
+2025,Sep,Bolton Abbey,1.0
+2025,Sep,Bon Secours Health System Clg,8.0
+2025,Sep,Bon Secours Health System Clg T/A Bon Secours Hospital Tralee,3.0
+2025,Sep,Bon Secours Health System Company Limited By Guarantee,2.0
+2025,Sep,Bon Secours Health Systems,4.0
+2025,Sep,Boogran Limited,2.0
+2025,Sep,Bookwise Consulting Ltd,1.0
+2025,Sep,Boran Packaging Limited,4.0
+2025,Sep,Boston Scientific Cork,3.0
+2025,Sep,Boston Scientific Ireland Limited,13.0
+2025,Sep,Boston Scientific Limited,1.0
+2025,Sep,Botanic Food Company Limited,2.0
+2025,Sep,Brady Shipman Martin,1.0
+2025,Sep,"Bragan Truck, Van And 4X4 Accessories Limited",1.0
+2025,Sep,Brampton Care Ltd,1.0
+2025,Sep,Branch Healthcare Limited,2.0
+2025,Sep,Brass Fox Wicklow Limited,1.0
+2025,Sep,Brehon Care Ulc,1.0
+2025,Sep,Brelon Builders Limited,1.0
+2025,Sep,Bridgelynn Limited,1.0
+2025,Sep,Brigthonpeking Limited,1.0
+2025,Sep,Broadridge Ireland Limited,1.0
+2025,Sep,Brooklodge Nursing Home Limited,2.0
+2025,Sep,Brooklyn Restaurant Ardkeen Limited,1.0
+2025,Sep,Brookridge Farm Ltd,1.0
+2025,Sep,Brother Baghin Limited,1.0
+2025,Sep,Brown Bag Films Unlimited Company,2.0
+2025,Sep,Brown Brothers Harriman Fund Administration Services (Ireland) Limited,1.0
+2025,Sep,Brymore House Nursing Home Ltd,2.0
+2025,Sep,Bs2 Limited,2.0
+2025,Sep,Bucca Foods Ltd,1.0
+2025,Sep,Built It Construction,1.0
+2025,Sep,Bull And Beak Limited,1.0
+2025,Sep,Bundoran Physiotherapy Ltd,1.0
+2025,Sep,Burgerchick (Limerick) Limited,2.0
+2025,Sep,Burgerchick Castletroy Limited,1.0
+2025,Sep,Bus Atha Cliath - Dublin Bus,4.0
+2025,Sep,Bwg Foods Unlimited Company,1.0
+2025,Sep,Byrne & Peers Limited,1.0
+2025,Sep,C S Fish Limited,2.0
+2025,Sep,Caceis Ireland Limited,1.0
+2025,Sep,Cairn Homes Construction Ltd,2.0
+2025,Sep,Callinan Coaches Limited,3.0
+2025,Sep,Camphill Communities Of Ireland,1.0
+2025,Sep,Cannakill Farm Limited,2.0
+2025,Sep,Capella Workplace Solutions Ltd,1.0
+2025,Sep,Capgemini Ireland Limited,3.0
+2025,Sep,Capital Switchgear Limited,1.0
+2025,Sep,Carcharger Ev Limited,1.0
+2025,Sep,Careaboutyou Limited,4.0
+2025,Sep,Carechoice (Macroom) Ltd,2.0
+2025,Sep,Carechoice Ballynoe Limited,1.0
+2025,Sep,Carechoice Clonakilty Limited,1.0
+2025,Sep,Carechoice Finglas Limited,2.0
+2025,Sep,Carechoice Montenotte Limited,3.0
+2025,Sep,Carechoice Swords Two Limited,3.0
+2025,Sep,Cargotec Engineering Ireland Limited,1.0
+2025,Sep,Carhue Piggeries Limited,1.0
+2025,Sep,Caring Hands Ltd,1.0
+2025,Sep,Carlos & Jun Co. Limited,1.0
+2025,Sep,Carmen Ling Limited,1.0
+2025,Sep,Carnalway Freight Limited,1.0
+2025,Sep,Carne Global Financial Services Ltd,1.0
+2025,Sep,Carnehill Contracting Limited,1.0
+2025,Sep,Carrons Haulage,2.0
+2025,Sep,Carton Brothers Unlimited Company,6.0
+2025,Sep,Cashel Care Limited,1.0
+2025,Sep,Cashsnapp Limited,1.0
+2025,Sep,Castle Homecare Limited,2.0
+2025,Sep,Castleblayney Plant Hire T/A Monaghan Hire,2.0
+2025,Sep,Castlebridge Manor Private Clinic Ltd,1.0
+2025,Sep,Castlecor Farms Limited,1.0
+2025,Sep,Castlerea Nursing Home,1.0
+2025,Sep,Cava Restaurant Ltd,1.0
+2025,Sep,Cavan & Monaghan Hospital,3.0
+2025,Sep,Ccb Leasing (International) Corporation Dac,1.0
+2025,Sep,Celestica Ireland Limited,1.0
+2025,Sep,Celsius Live Fit International Dac,2.0
+2025,Sep,Cg Business Consulting Ltd,1.0
+2025,Sep,Chang Thai Catering Ltd,1.0
+2025,Sep,Channel Mechanics Technologies Ltd,1.0
+2025,Sep,Charlene Murphy,1.0
+2025,Sep,Charles O'Sullivan Ltd.,1.0
+2025,Sep,Charles River Laboratories Ireland Ltd,4.0
+2025,Sep,Charlie'S Childcare Limited,1.0
+2025,Sep,Charter Medical Group Limited,1.0
+2025,Sep,Chase Paymentech Europe Limited,1.0
+2025,Sep,Chatthai Foods Limited,1.0
+2025,Sep,Checkback International Ltd,1.0
+2025,Sep,Chen & Yi Limited,1.0
+2025,Sep,Cherry Grove Nursing Home Limited,1.0
+2025,Sep,Cheshire Foundation Of Ireland Company Limited By Guarantee,2.0
+2025,Sep,Chewbay Limited,1.0
+2025,Sep,Children'S Health Ireland,6.0
+2025,Sep,Chire Consultants Ltd,1.0
+2025,Sep,Chuen Ching International Limited,1.0
+2025,Sep,Churchill Stone Ltd,1.0
+2025,Sep,Circle K Procurement And Brands Limited,2.0
+2025,Sep,Citco Fund Services (Ireland) Limited,1.0
+2025,Sep,Citi Bus Ltd,4.0
+2025,Sep,Citibank Europe Plc,3.0
+2025,Sep,Citywest Foods Services Limited,1.0
+2025,Sep,Cj Hannon Construction Limited,2.0
+2025,Sep,Clancy Project Management Ltd,1.0
+2025,Sep,Clanwilliam Health (Socrates) Limited,1.0
+2025,Sep,Clare Drains Environmental Ltd.,1.0
+2025,Sep,Clare Road Hotel Services Limited,1.0
+2025,Sep,Clarus Property Services Limited,1.0
+2025,Sep,"Clearstream Fund Centre S.A., Cork Branch",3.0
+2025,Sep,Cleary & Doyle Construction Limited,2.0
+2025,Sep,Clemac Regional Home Care Services Limited,3.0
+2025,Sep,Clg Food Limited,1.0
+2025,Sep,Clifton Scannell Emerson Associates,1.0
+2025,Sep,Clonlahy Dairy Farm Limited,1.0
+2025,Sep,Clonmorris Services Limited,1.0
+2025,Sep,Clontarf Lotts Limited,1.0
+2025,Sep,Clorox Ireland Limited,1.0
+2025,Sep,Cloud Cafe Cuisine Ltd,1.0
+2025,Sep,Clune Mushrooms Ltd,1.0
+2025,Sep,Cma Cgm Shipping (Ireland) Ltd,1.0
+2025,Sep,Cobra Ocp Limited,1.0
+2025,Sep,Coffey Construction (I) Ltd,1.0
+2025,Sep,Cognizant Technology Solutions Ireland Limited,6.0
+2025,Sep,Colgate-Palmolive Support Services,1.0
+2025,Sep,Collen Construction Ltd,1.0
+2025,Sep,Collins Transport Rathcoole Limited,1.0
+2025,Sep,Colonel Productions Two Dac,3.0
+2025,Sep,Comet Care Limited,1.0
+2025,Sep,Comfort Care Limited,1.0
+2025,Sep,Commercial Diesel & Electrical Limited,1.0
+2025,Sep,Commission For Regulation Of Utilities,2.0
+2025,Sep,"Commissioning Agents Ireland, Limited",2.0
+2025,Sep,Communicare Agency Limited,1.0
+2025,Sep,Compass Informatics Limited,1.0
+2025,Sep,Compucal Calibration Solutions Ltd,1.0
+2025,Sep,Connaught Electronics Limited,1.0
+2025,Sep,Connemara Coast Hospitality Limited,1.0
+2025,Sep,Connolly Hospital,1.0
+2025,Sep,Connolly Meats Limited,2.0
+2025,Sep,Cooley Nursing Home Ltd,1.0
+2025,Sep,Coolmore Property Developments Ltd,1.0
+2025,Sep,Cora Consulting Engineers Ltd,1.0
+2025,Sep,Cork City Council,1.0
+2025,Sep,Cork University Hospital,40.0
+2025,Sep,Cornacrieve Mushrooms Ltd,1.0
+2025,Sep,Cosgrave Nursing Consultancy Limited,3.0
+2025,Sep,Cosmo Pharmaceuticals Nv,1.0
+2025,Sep,Costern Unlimited Company,6.0
+2025,Sep,Counter Products Marketing (Ireland) Limited,1.0
+2025,Sep,County Waterford Farm Relief Services Limited,3.0
+2025,Sep,Cpl Solutions Limited,1.0
+2025,Sep,Cpp Innovation Limited,1.0
+2025,Sep,Cregg Labour Solutions Limited,1.0
+2025,Sep,Crooked House Theatre Company,1.0
+2025,Sep,Cross Atlantic Properties Limited,1.0
+2025,Sep,Crowleys Dfk Unlimited Company,1.0
+2025,Sep,Crystal Air Ltd,1.0
+2025,Sep,Cs Stays Limited,1.0
+2025,Sep,Csc Finance Holding Ireland Limited,1.0
+2025,Sep,Csh Childcare Services,1.0
+2025,Sep,Cuala Senior Care Limited,5.0
+2025,Sep,Cube Dental Co. Ltd,1.0
+2025,Sep,Cubic Telecom Limited,3.0
+2025,Sep,Cully Automation Limited,1.0
+2025,Sep,Cumming Group Ireland Limited,1.0
+2025,Sep,Curran Aluminium And P.V.C. Limited,1.0
+2025,Sep,Cv Homecare Solutions Ltd,4.0
+2025,Sep,Cwire Retail 17 Limited,1.0
+2025,Sep,Cwire Retail 3 Ltd,1.0
+2025,Sep,Cwire Retail Holdings Limited,1.0
+2025,Sep,Cygnum Timber Frame Ltd,8.0
+2025,Sep,Cóir Infrastructure Limited,2.0
+2025,Sep,Cúram Altranais:Paediatric Adult Case Management Service Ltd,1.0
+2025,Sep,D. Leonard Civil Engineering Services Ltd,1.0
+2025,Sep,Da Vincis Restaurant Ltd,1.0
+2025,Sep,Daa Public Limited Company,2.0
+2025,Sep,Daiichi Sankyo Ireland Limited,1.0
+2025,Sep,Daikin Europe N.V. Ireland Office,1.0
+2025,Sep,Dairyglen Products Limited,1.0
+2025,Sep,Daleside Plant Sales And Repairs Ltd,1.0
+2025,Sep,Dangs Chinese And Thai Takeaway Limited,1.0
+2025,Sep,Daniels Farm Ltd,1.0
+2025,Sep,Daniel’S Barber Shop,1.0
+2025,Sep,Danu Home Care,6.0
+2025,Sep,Darcy-Mullen Home Care Services,1.0
+2025,Sep,Darouiche Holdings Limited,2.0
+2025,Sep,Darragh Mcardle Engineering Limited,1.0
+2025,Sep,Datadog Ireland Limited,1.0
+2025,Sep,Davencrest Limited,2.0
+2025,Sep,Daves Central Kitchen Limited,2.0
+2025,Sep,David Kenneally Construction Limited,1.0
+2025,Sep,David O' Flaherty,1.0
+2025,Sep,Davy Byrnes Limited,1.0
+2025,Sep,Dawn Farm Foods,1.0
+2025,Sep,Dawn Meats Ireland Uc,14.0
+2025,Sep,Ddat Ireland Technology Limited,1.0
+2025,Sep,De Roiste Loistiochta Teoranta,1.0
+2025,Sep,Declan & Mary French Limited,1.0
+2025,Sep,Deel Ireland Eor Ltd,1.0
+2025,Sep,Def Restaurant Limited,1.0
+2025,Sep,Delisle Taverns Ltd.,1.0
+2025,Sep,Deloitte Ireland Llp,8.0
+2025,Sep,Depaul Ireland,1.0
+2025,Sep,Depuy Ireland Unlimited Company,1.0
+2025,Sep,Design Kitchen Concepts Ltd,1.0
+2025,Sep,Dexcom International Ltd.,1.0
+2025,Sep,Dfds Logistics Contracts (Ireland) Ltd,2.0
+2025,Sep,Dhg Burlington Road Limited,1.0
+2025,Sep,Dhl Global Forwarding (Ireland) Limited,1.0
+2025,Sep,Digit Game Studios Ltd,1.0
+2025,Sep,Digitalwell Managed Services Unlimited,1.0
+2025,Sep,Diva Design & Software Limited,1.0
+2025,Sep,Dolce Boubon Boutique,1.0
+2025,Sep,Domanska Ltd,1.0
+2025,Sep,Donal Kiely,1.0
+2025,Sep,Donegal Meat Processors Unlimited Company,13.0
+2025,Sep,Dony Engineering Limited,1.0
+2025,Sep,Doran Management Financial Services Limited,2.0
+2025,Sep,Downey'S Auto Stop Limited,1.0
+2025,Sep,Dr Michael Cambpell,1.0
+2025,Sep,Dr. Frances Little,1.0
+2025,Sep,Dream Road Limited,1.0
+2025,Sep,Droimnín Nursing Home Limited,3.0
+2025,Sep,Drumderrig House Nursing Home Limited,1.0
+2025,Sep,Drumderry Aggregate Ltd,1.0
+2025,Sep,Drumloman Pork Ltd,2.0
+2025,Sep,Drunken Fish Limited,1.0
+2025,Sep,Dspd Limited,1.0
+2025,Sep,Dsw Homecare Services Limited,2.0
+2025,Sep,Dublin Aerospace Limited,3.0
+2025,Sep,Dublin Ink Social Club Limited,1.0
+2025,Sep,Dublin Moon Limited,1.0
+2025,Sep,Dublin Simon Community,2.0
+2025,Sep,Duggan Systems Ltd,2.0
+2025,Sep,Dulane Hospitality Limited,1.0
+2025,Sep,Dunboyne Nursing Home,1.0
+2025,Sep,Duo Aa Limited,1.0
+2025,Sep,Dynamic Safety Solutions Eu Ltd,1.0
+2025,Sep,Dún Laoghaire Rathdown County Council,2.0
+2025,Sep,E And R Formwork Limited,3.0
+2025,Sep,E&I Engineering Limited,1.0
+2025,Sep,E.J.King Bar Limited,1.0
+2025,Sep,Easyflyers Logistics (Ireland) Limited,1.0
+2025,Sep,Eaton Square Limited,1.0
+2025,Sep,Ebay Europe Services Limited,7.0
+2025,Sep,Ecocem Ireland Limited,1.0
+2025,Sep,Edward Sawat Ltd.,1.0
+2025,Sep,Egis Engineering Limited,3.0
+2025,Sep,Eida Software Solutions Ltd,1.0
+2025,Sep,Eileen Brogan,1.0
+2025,Sep,Eircom Limited,1.0
+2025,Sep,Eirgrid Plc,3.0
+2025,Sep,Eisnerampermko Limited,1.0
+2025,Sep,Elder Nursing Homes Charleville Ltd,1.0
+2025,Sep,Elecnor Servicios Y Proyectos In Ireland Limited,1.0
+2025,Sep,Electoclare Limited,1.0
+2025,Sep,Electricity Supply Board,5.0
+2025,Sep,Eli Lilly Cork Limited,2.0
+2025,Sep,Eli Lilly Kinsale Limited,7.0
+2025,Sep,Eliza Care Limited,4.0
+2025,Sep,Embecta Penel Limited,1.0
+2025,Sep,Embrace Community Services Limited,2.0
+2025,Sep,Emeraldstay Management Limited,1.0
+2025,Sep,Emerson Automation Solutions Ireland Limited,9.0
+2025,Sep,Empire Events And Dj’S Limited,1.0
+2025,Sep,Enable Ireland Disability Services,1.0
+2025,Sep,Energywise Savings Ireland Ltd,1.0
+2025,Sep,Enernoc Ireland Limited,2.0
+2025,Sep,Enfer Medical Ltd,1.0
+2025,Sep,Engineering Support & Services Ltd,2.0
+2025,Sep,Enva Ireland Limited,4.0
+2025,Sep,Eolas Technologies Ltd,1.0
+2025,Sep,Ergoservices Ltd,1.0
+2025,Sep,Erne Concrete Pumping (Ireland) Limited,1.0
+2025,Sep,Ernst & Young,25.0
+2025,Sep,Ethos Engineering Ltd,1.0
+2025,Sep,Eugene Brennan & Jean Grace,1.0
+2025,Sep,Euram Air Leases (Ireland) Ltd,1.0
+2025,Sep,Eurasia Express Ireland Distribution Ltd,1.0
+2025,Sep,Eurocare Healthcare Ltd,2.0
+2025,Sep,Eurofins Scientific (Ireland) Limited,1.0
+2025,Sep,European Refreshments Unlimited Company,2.0
+2025,Sep,Eventbrite Operations (Ie) Limited,1.0
+2025,Sep,Eveo Solutions Limited,1.0
+2025,Sep,Exact Comms Eu Limited,1.0
+2025,Sep,F & M Hurley Plant Hire (Schull) Limited,1.0
+2025,Sep,Fabricio Schneider Dias,1.0
+2025,Sep,Fairfield Nursing Home Ltd.,1.0
+2025,Sep,Fairlawns Nursing Home Limited,2.0
+2025,Sep,Fairways Hotel Management Limited,1.0
+2025,Sep,Farm Solutions Ltd,3.0
+2025,Sep,Favara Ltd,1.0
+2025,Sep,Feakle Gas And Plumbing Ltd.,3.0
+2025,Sep,Fenor Pig Farms Limited,1.0
+2025,Sep,Fenton Commercials Limited,1.0
+2025,Sep,Field Management Ireland Limited,1.0
+2025,Sep,First Care Beneavin Manor Ltd,2.0
+2025,Sep,First Trust Global Portfolios Management Limited,1.0
+2025,Sep,Firstcare Beneavin Lodge Limited,3.0
+2025,Sep,Firstcare Blainroe Lodge Limited,1.0
+2025,Sep,Firstcare Mountpleasant Lodge Ltd,1.0
+2025,Sep,Fisher Scientific Ireland Limited,1.0
+2025,Sep,Flamers Ltd,1.0
+2025,Sep,Flanagans Nursing Home Limited,6.0
+2025,Sep,Flemingstown Dairies Limited,1.0
+2025,Sep,Flexifi Europe Services Limited,1.0
+2025,Sep,Flexitech Limited,1.0
+2025,Sep,Forest Laboratories Ireland Limited,1.0
+2025,Sep,Forest Palace Limited,1.0
+2025,Sep,Forever Lucky Food Court Limited,1.0
+2025,Sep,Fortem Capital Limited,1.0
+2025,Sep,Fostervale Limited,1.0
+2025,Sep,Fountain Dale Limited,2.0
+2025,Sep,Foxfield Properties Ltd,1.0
+2025,Sep,Foxit Ireland Operations Limited,1.0
+2025,Sep,Foxview Farm Limited,1.0
+2025,Sep,Freshly Chopped Smithfield Limited,1.0
+2025,Sep,Full Health Medical Ltd,1.0
+2025,Sep,Furryhill Farm Limited,1.0
+2025,Sep,Fáisc Miotail Eireann Teoranta,3.0
+2025,Sep,G & T Gallen Ltd,2.0
+2025,Sep,G.B.S. & Co(Accounting)Limited,1.0
+2025,Sep,G.C.E Property Construction Limited,1.0
+2025,Sep,Gaillot Et Gray Limited,1.0
+2025,Sep,Gallarus Industry Solutions Limited,1.0
+2025,Sep,Galway Tool And Mould Innovations Ltd,1.0
+2025,Sep,Galway University Hospital,3.0
+2025,Sep,Gannons City Recovery And Recycling Services Ltd,1.0
+2025,Sep,Gas Networks Ireland,1.0
+2025,Sep,Gather & Gather Ireland Limited,1.0
+2025,Sep,Gdc Construction Services Limited,5.0
+2025,Sep,Ge Healthcare Ireland Limited,1.0
+2025,Sep,Gemcon Limited,1.0
+2025,Sep,General Logistics Systems Ireland Limited,1.0
+2025,Sep,General Paints Limited,1.0
+2025,Sep,Genpact Ireland Private Limited,2.0
+2025,Sep,Gerson Lehrman Group (Ireland) Limited,1.0
+2025,Sep,Get Noticed,1.0
+2025,Sep,Gill Ventures Limited,1.0
+2025,Sep,Glanua Ireland Limited,5.0
+2025,Sep,Glenageary Nursing Home Limited,1.0
+2025,Sep,Glencarrow Ltd. T/A Professional Computer Services,1.0
+2025,Sep,Glendonagh Residential Home,2.0
+2025,Sep,Glenferry Coaches Limited,5.0
+2025,Sep,Glenilen Farm Limited,1.0
+2025,Sep,Glenlorn Limited,1.0
+2025,Sep,Glenveagh Contracting Ltd,3.0
+2025,Sep,Global Asian Restaurants Limited,1.0
+2025,Sep,Globalization Partners International Ireland Ltd,1.0
+2025,Sep,Globallogic Software And Technology Ireland Limited,1.0
+2025,Sep,Globoforce Limited,3.0
+2025,Sep,Go-Ahead Transport Services (Dublin) Limited,2.0
+2025,Sep,Golden Spices Limited,1.0
+2025,Sep,Google Cloud Emea Limited,1.0
+2025,Sep,Google Ireland Limited,16.0
+2025,Sep,Gourmet Burger Kitchen Ireland Limited,1.0
+2025,Sep,Grangefern Developments Limited,1.0
+2025,Sep,Grant Thornton Corporate Finance Limited,2.0
+2025,Sep,Great Southern Hotel Killarney Ltd,1.0
+2025,Sep,Greatech Integration (Ireland) Limited,1.0
+2025,Sep,Greenfield Foods Limited,1.0
+2025,Sep,Greenstreets Environmental Resources,1.0
+2025,Sep,Greenvalley Transport Plant Hire Limited,2.0
+2025,Sep,Gresham House Asset Management Resources (Ireland) Ltd.,1.0
+2025,Sep,Gridbeyond Limited,1.0
+2025,Sep,Grifols Worldwide Operations Limited,1.0
+2025,Sep,Gsa Cleaning Limited,1.0
+2025,Sep,Guidewire Software (Ireland) Limited,1.0
+2025,Sep,Gutyiera Limited,1.0
+2025,Sep,H.A O'Neil Limited,1.0
+2025,Sep,H.P.& Associates Limited,1.0
+2025,Sep,Haandi Foods Limited,1.0
+2025,Sep,Hackett Homecare Ltd,1.0
+2025,Sep,Hall Power Ltd T/A Epower,1.0
+2025,Sep,Hall Transport Ltd.,1.0
+2025,Sep,Hallquar Engineering Serives Ltd Ta Enexiv,1.0
+2025,Sep,Hamilton Uk Services Limited,2.0
+2025,Sep,Hangrys Takeaway Limerick Limited,1.0
+2025,Sep,Hanrahan Carpentry Limited,1.0
+2025,Sep,Hanrahard Farms Ltd,1.0
+2025,Sep,Haven Bay Care Centre Limited,5.0
+2025,Sep,Hcl (Ireland) Information Systems Limited,3.0
+2025,Sep,Headcount Solutions Limited,1.0
+2025,Sep,Health Service Executive,1.0
+2025,Sep,Heanet,1.0
+2025,Sep,Heatec Plumbing Contractors Limited,1.0
+2025,Sep,Herbie Stephenson Limited,2.0
+2025,Sep,Heritage Confectionary,1.0
+2025,Sep,Hibernia Investments Limited,1.0
+2025,Sep,Hibernia Services Limited,1.0
+2025,Sep,Hidden Valley Restaurant Limited,1.0
+2025,Sep,Higtyr Construction Ltd,2.0
+2025,Sep,Hikker Kroscen Construction Solutions Limited,1.0
+2025,Sep,Hill-Top Poultry Limited,1.0
+2025,Sep,Hilltop Capital Limited,1.0
+2025,Sep,Hitchmough Kinnear & Co.,1.0
+2025,Sep,Hl Commodity Foods Manufacturing Limited,1.0
+2025,Sep,Hmck Healthcare Limited,1.0
+2025,Sep,Ho Chinese Takeaway Limited,1.0
+2025,Sep,Holden Motor Company,1.0
+2025,Sep,Holy Faith Convent,4.0
+2025,Sep,Holy Family Nursing Home Limited,2.0
+2025,Sep,Home And Away Care Limited,1.0
+2025,Sep,Homecare & Health Services Ireland Ltd,2.0
+2025,Sep,Homecare Adaption Construction Ltd,1.0
+2025,Sep,Homecarer Trusted Independent Living,1.0
+2025,Sep,Hope Autism Care Centre,5.0
+2025,Sep,Hossain Bd Food Limited,1.0
+2025,Sep,Hotel Merrion Limited,1.0
+2025,Sep,Hsbc Continental Europe,1.0
+2025,Sep,Hse Mid West,2.0
+2025,Sep,Hse Mrh Portlaoise,1.0
+2025,Sep,Hse National Drug Treatment Centre,1.0
+2025,Sep,Hua Da Limited,1.0
+2025,Sep,Huawei Technologies (Ireland) Co Ltd,2.0
+2025,Sep,Hubspot Ireland Limited,2.0
+2025,Sep,Hugh Courtney Limited,2.0
+2025,Sep,Hugh Hourican,1.0
+2025,Sep,Huntsman (Western) Bottlers Limited,1.0
+2025,Sep,Hyde Ltd.,1.0
+2025,Sep,Hyper Trust Limited T/A Leopardstown Inn,2.0
+2025,Sep,Hzb Restaurant Limited,1.0
+2025,Sep,Iarnród Éireann - Irish Rail,2.0
+2025,Sep,Ibec Ltd,1.0
+2025,Sep,Ibm Global Services Limited,1.0
+2025,Sep,Ibm Ireland Product Distribution Limited,1.0
+2025,Sep,Icds Constructors Limited,5.0
+2025,Sep,Iggy Madden Transport Limited,2.0
+2025,Sep,Iher Energy Services Ltd,1.0
+2025,Sep,Imk Property Investment Limited,1.0
+2025,Sep,Impact Engineering Limited,1.0
+2025,Sep,Imperial Garden Ltd,1.0
+2025,Sep,Inchicore Community Creche & Afterschool,1.0
+2025,Sep,Indeff Limited,1.0
+2025,Sep,Industrial And Domestic Furniture (Tullamore) Ltd,3.0
+2025,Sep,Industrial And Life Science Solutions Limited,1.0
+2025,Sep,Infineon Technologies Ireland Limited,1.0
+2025,Sep,Inflight Audio Unlimited Company,1.0
+2025,Sep,Infosys Limited,6.0
+2025,Sep,Ing Bank N.V.,1.0
+2025,Sep,Iniscare Limited,6.0
+2025,Sep,Innopharma Technology Limited,1.0
+2025,Sep,Innvik Retail Limited,1.0
+2025,Sep,Instructional Design Services Limited,1.0
+2025,Sep,Integra Lifesciences (Ireland) Limited,1.0
+2025,Sep,Integrity Communications,2.0
+2025,Sep,Intel Ireland Limited,1.0
+2025,Sep,Intercambio Study Travel Limited,2.0
+2025,Sep,Intercom R&D Unlimited Company,1.0
+2025,Sep,Interlink Ireland Limited,1.0
+2025,Sep,Inua Athlone General Partner Limited,1.0
+2025,Sep,Ip Passenger Services Limited,2.0
+2025,Sep,Iqvia Rds Ireland Ltd,1.0
+2025,Sep,Irish Bacon Slicers Limited,1.0
+2025,Sep,Irish Dog Foods Limited,7.0
+2025,Sep,Irish Green Building Council Company Limited By Guarantee,1.0
+2025,Sep,Irish International Trading Corporation (Cork) Plc,1.0
+2025,Sep,Irish Life Financial Services Ltd,2.0
+2025,Sep,Irish Life Investment Managers Limited,1.0
+2025,Sep,Iristani Properties Limited,1.0
+2025,Sep,Irving Oil Whitegate Refinery Limited,1.0
+2025,Sep,Ivan Mcgivney,1.0
+2025,Sep,Ivan Rybak,1.0
+2025,Sep,J.A. Seaview Ltd,1.0
+2025,Sep,J.P. Ryan Limited,2.0
+2025,Sep,Jamestown Manufacturing Limited,5.0
+2025,Sep,Jasmine Palace (Limerick) Limited,1.0
+2025,Sep,Jb Plus Ltd. T/A Halfway House,1.0
+2025,Sep,Jc Mortgages Limited,1.0
+2025,Sep,Jehan'S Heaven Caucasian Cuisine Limited,1.0
+2025,Sep,Jemi Ventures Limited,1.0
+2025,Sep,Jfs Bike Ltd,1.0
+2025,Sep,Jiankang Restaurant Limited,1.0
+2025,Sep,Jie Xu Limited,1.0
+2025,Sep,Jj Rhatigan & Company Unlimited Company,1.0
+2025,Sep,Jjxy Import And Export Limited,1.0
+2025,Sep,Jk Autozone Limited,1.0
+2025,Sep,Jmc Masonry Limited,1.0
+2025,Sep,Joe Duffy Motors Limited,4.0
+2025,Sep,Joe Mallon (Motors) Limited,3.0
+2025,Sep,Joe Norris Motors Limited,1.0
+2025,Sep,Joel Francis,1.0
+2025,Sep,Johann Designs Limited,1.0
+2025,Sep,John De Barra Limited,1.0
+2025,Sep,John Kelleher (Salthill) Limited,1.0
+2025,Sep,Johnson And Johnson Vision Care Ireland Unlimited Company,10.0
+2025,Sep,Johnson Auto Limited,1.0
+2025,Sep,Jp Morgan Se – Dublin Branch,3.0
+2025,Sep,Jpmorgan Hedge Fund Services (Ireland) Limited,1.0
+2025,Sep,Jri America Inc,1.0
+2025,Sep,Jsa Limited,1.0
+2025,Sep,Kamagames Limited,1.0
+2025,Sep,Kaseya Limited,2.0
+2025,Sep,Kavanagh Meats Enniscorthy,1.0
+2025,Sep,Kdj Medical Limited,1.0
+2025,Sep,Kdk Scaffolding Ltd,10.0
+2025,Sep,Keegan Quarries Limited,1.0
+2025,Sep,Keelings Retail Unlimited Company,1.0
+2025,Sep,Keeper Pictures Limited,1.0
+2025,Sep,Keeraun Hospitality Limited,1.0
+2025,Sep,Keeva Consulting Limited,3.0
+2025,Sep,Kel-Tech Engineering,22.0
+2025,Sep,Kellogg Europe Trading Limited,1.0
+2025,Sep,Kellton Tech Limited,1.0
+2025,Sep,Kelly'S Resort Hotel,1.0
+2025,Sep,Kenal Restaurants Ltd,1.0
+2025,Sep,Kennedy'S Food Store Limited,1.0
+2025,Sep,Kepak Cork Unlimited Company,1.0
+2025,Sep,Kepak Longford Unlimited Company,1.0
+2025,Sep,Kernel Construction Limited,1.0
+2025,Sep,Kerrigans Factory Shop Ltd,1.0
+2025,Sep,Kerry Fish Trawlers Limited,2.0
+2025,Sep,Kerry Group Services International Ltd,1.0
+2025,Sep,Kerry Group Services Ltd,1.0
+2025,Sep,Keta Products Limited,1.0
+2025,Sep,Kevin Connolly Car Sales Unlimited Company,10.0
+2025,Sep,Kevin O’Leary (Bandon) Ltd,1.0
+2025,Sep,Kiernan Farms (Aughafad),1.0
+2025,Sep,Kilbrew Recuperation And Nursing Care Ltd,1.0
+2025,Sep,"Kilkenny, Carlow And District Farm Relief Services Society Limited",1.0
+2025,Sep,Killeline Nursing Home Ltd,1.0
+2025,Sep,Killeshal Precast Concrete Ltd,1.0
+2025,Sep,Killucan Nursing Centre Limited,1.0
+2025,Sep,Kilnashee Childcare Limited,1.0
+2025,Sep,Kilrush District Hospital Clg,1.0
+2025,Sep,Kilsaran Concrete Unlimited Company,1.0
+2025,Sep,Kilsaran Precast Limited,1.0
+2025,Sep,King And Moffatt Ireland Ltd,13.0
+2025,Sep,Kingmek Ltd,1.0
+2025,Sep,Kingspan Tate Ltd,1.0
+2025,Sep,Kinvara House Ltd,1.0
+2025,Sep,Kkr Alternative Investment Management Unlimited Company,1.0
+2025,Sep,Knc Construction Limited,6.0
+2025,Sep,Knegare Nursing Home Holdings Limited,1.0
+2025,Sep,Knigh Farm Ltd,1.0
+2025,Sep,Knockbrack Catering Limited,1.0
+2025,Sep,Knockrobin Nursing Home Ltd,1.0
+2025,Sep,Kp Crown Dental Limited,1.0
+2025,Sep,Kpmg,1.0
+2025,Sep,Krc Motors Ltd T/A Carrs Garage,1.0
+2025,Sep,Kurgan Construction Limited,2.0
+2025,Sep,Kvl Construction Limited,2.0
+2025,Sep,La Siciliana Limited,2.0
+2025,Sep,Ladgrove Stores Limited,2.0
+2025,Sep,Lam Research (Ireland) Limited,1.0
+2025,Sep,Lane Clark & Peacock Ireland Limited,1.0
+2025,Sep,Laois Scaffolding Services Limited,5.0
+2025,Sep,Larchfield Park Care Centre,1.0
+2025,Sep,Laurem Construction Ltd,1.0
+2025,Sep,Lavina Nursing Agency Limited,1.0
+2025,Sep,Lawson House Nursing Home Ltd,3.0
+2025,Sep,Lean Touch Solutions Limited,1.0
+2025,Sep,Leatrans Limited,2.0
+2025,Sep,Lee Overlay Partners Ltd,1.0
+2025,Sep,Leonard Steel Limited,1.0
+2025,Sep,Lesv Limited,2.0
+2025,Sep,Letterkenny University Hospital,1.0
+2025,Sep,Lexisnexis Risk Solutions (Europe) Limited,2.0
+2025,Sep,Lgt Fund Managers (Ireland) Limited,1.0
+2025,Sep,Liam & Patrick Hennessy,1.0
+2025,Sep,Liberty Homecare Limited,1.0
+2025,Sep,Liberty Information Technology Limited,1.0
+2025,Sep,Lidl Ireland Gmbh,1.0
+2025,Sep,Liebherr Container Cranes Ltd,1.0
+2025,Sep,Liffey Meats (Cavan) Unlimited Company,28.0
+2025,Sep,Lifi Construction Limited,1.0
+2025,Sep,Limerick City & County Council,2.0
+2025,Sep,Lincoln Healthcare Recruitment And Training Ltd,1.0
+2025,Sep,Linders Finglas Turvey Limited,1.0
+2025,Sep,Linkedin Ireland Unlimited Company,1.0
+2025,Sep,Lintrol Limited,1.0
+2025,Sep,Little Harvard Childcare Limited,2.0
+2025,Sep,Little Harvard Northside Ltd.,1.0
+2025,Sep,Little Island Recovery Limited,1.0
+2025,Sep,Little Sisters Of The Poor,2.0
+2025,Sep,Lk Bansal Limited,1.0
+2025,Sep,Lm Ericsson Limited,2.0
+2025,Sep,Lomdavting Limited,1.0
+2025,Sep,Lotus Automation Ireland Ltd,1.0
+2025,Sep,Lotus Care Limited,1.0
+2025,Sep,Lsm Engineering Limited,1.0
+2025,Sep,Lsmq,1.0
+2025,Sep,M&M Moore Limited,1.0
+2025,Sep,M.J. Quinn Unlimited Company,1.0
+2025,Sep,M.R. Concrete (Ireland) Limited,1.0
+2025,Sep,M/S Peter Catherine Paul Purcell,1.0
+2025,Sep,Maap Childcare Limited,1.0
+2025,Sep,Mackeys Commercials Ltd,1.0
+2025,Sep,Macs Engine Repairs,1.0
+2025,Sep,Madra Entertainment Limited,1.0
+2025,Sep,Mahad Catering Limited,1.0
+2025,Sep,Mainline Power Ltd,1.0
+2025,Sep,Majestic Restaurants Limited,1.0
+2025,Sep,Malone Farm Machinery Limited,2.0
+2025,Sep,Malvern Medical Group,1.0
+2025,Sep,Managewise Limited,1.0
+2025,Sep,Manakau Ltd,1.0
+2025,Sep,Manna Drones Limited,1.0
+2025,Sep,Manning Asian Food Limited,1.0
+2025,Sep,Maracrest Limited,1.0
+2025,Sep,Margaret Hamill,1.0
+2025,Sep,Margaret Hilliard,1.0
+2025,Sep,Mark Lohan Fitted Furniture Ltd,1.0
+2025,Sep,Markhor Club Ltd,1.0
+2025,Sep,Martin Jennings Wholesale Ltd,1.0
+2025,Sep,Martin Ryan Haulage Limited,3.0
+2025,Sep,Mastek Limited,2.0
+2025,Sep,Mastercard Ireland Limited,10.0
+2025,Sep,Matbuild Ltd.,1.0
+2025,Sep,Mater Private Network,1.0
+2025,Sep,Matthew & Son Cafe Limited,1.0
+2025,Sep,Max & Juice Limited,1.0
+2025,Sep,Maya Data Privacy Limited,1.0
+2025,Sep,Mayo Mental Health Services,2.0
+2025,Sep,Mayo University Hospital,4.0
+2025,Sep,Mazars,3.0
+2025,Sep,Mbryonics Limited,4.0
+2025,Sep,Mc Nena Construction Ltd,1.0
+2025,Sep,Mcbreen Environmental Drain Services Ltd,1.0
+2025,Sep,Mccormack Farms Limited,1.0
+2025,Sep,Mcd Garden Sheds Ltd,1.0
+2025,Sep,Mcdonald International Ltd,1.0
+2025,Sep,Mcdonnell Bros (Agricultural Suppliers) Ltd,1.0
+2025,Sep,Mcga Limited,2.0
+2025,Sep,Mckesson Cork Business Solutions Unlimited Company,1.0
+2025,Sep,Mediavest Ltd,1.0
+2025,Sep,Mediolanum International Funds Limited,1.0
+2025,Sep,Meghen Group Limited,1.0
+2025,Sep,Meltdown Massive Ltd.,1.0
+2025,Sep,Mercer Global Investments Europe Limited,1.0
+2025,Sep,Merck Millipore Limited,2.0
+2025,Sep,Meta Platforms Ireland Limited,5.0
+2025,Sep,Metaltech Engineering Ltd,2.0
+2025,Sep,Metalworks Fabrication Limited,1.0
+2025,Sep,Metlife Services Eeig,1.0
+2025,Sep,Mf Engineering And Design Limited,1.0
+2025,Sep,Michael Cronin (Readymix) Unlimited Company,3.0
+2025,Sep,Michael Harrington Plant Hire Beara Ltd,1.0
+2025,Sep,Michael Kennedy,1.0
+2025,Sep,Microbyte Limited,1.0
+2025,Sep,Microsoft Ireland Operations Limited,4.0
+2025,Sep,Microsoft Ireland Research Unlimited Company,1.0
+2025,Sep,Midland Regional Hospital At Tullamore,1.0
+2025,Sep,Midwest Healthcare Ltd. T/A Kareplus Midwest,1.0
+2025,Sep,Millbrae Lodge Nursing Home Ltd,2.0
+2025,Sep,Millenium Walk Dac,1.0
+2025,Sep,Ming Kang Limited,1.0
+2025,Sep,Mirha & Aliha Limited,1.0
+2025,Sep,Mishal Limited,1.0
+2025,Sep,Mitsui & Co Europe Ltd,1.0
+2025,Sep,Mj Environmental Techniques Ltd,6.0
+2025,Sep,Mk Green Precision Garage Limited,1.0
+2025,Sep,Mly Food Limited,1.0
+2025,Sep,Mmc Children Services,1.0
+2025,Sep,Mmmmad Costume And Gifts Ltd,1.0
+2025,Sep,Mms Multi Euro Services Dac,1.0
+2025,Sep,Modern Morsels Limited,2.0
+2025,Sep,Moffett Automated Storage Ltd,1.0
+2025,Sep,Monasterevin Motors Limited,1.0
+2025,Sep,Monster Energy Limited,1.0
+2025,Sep,Mooncoin Rcc Ltd,1.0
+2025,Sep,Moore Seafoods Limited,3.0
+2025,Sep,Moorehall Healthcare (Drogheda) Limited,1.0
+2025,Sep,Moorehall Living Limited,1.0
+2025,Sep,Moradaview Ltd T/A Vaughans & The Good House,1.0
+2025,Sep,Moran Plumbing & Heating Limited,1.0
+2025,Sep,Morbid Productions Dac,2.0
+2025,Sep,Mori King Limited,2.0
+2025,Sep,Mortons Of Galway,1.0
+2025,Sep,Motorola Solutions Ireland Ltd.,5.0
+2025,Sep,Mott Macdonald Ireland Ltd.,1.0
+2025,Sep,Motver Ltd.,1.0
+2025,Sep,Mountain Lodge Nursing Home Limited,1.0
+2025,Sep,Mountain View Dairies Ltd.,1.0
+2025,Sep,Mountbellew Nursing Home Limited,2.0
+2025,Sep,Move On Orbit Limited,1.0
+2025,Sep,Mowlam Healthcare Services Unlimited Company,14.0
+2025,Sep,Moy Materials Limited,1.0
+2025,Sep,Moyglare Nursing Home Ltd,1.0
+2025,Sep,Mpc Civil Engineering Ltd,1.0
+2025,Sep,Mpjg Farms Limited,1.0
+2025,Sep,Mpm Nursing Home Ltd,2.0
+2025,Sep,Mr Alan Kenny,1.0
+2025,Sep,Mr Pat Casey,1.0
+2025,Sep,Mr Ritesh Cannoo,1.0
+2025,Sep,Msd International Gmbh T/A Msd Ireland (Biotech Dublin),2.0
+2025,Sep,Msd International Gmbh T/A Msd Ireland (Brinny),3.0
+2025,Sep,Msd International Gmbh T/A Msd Ireland (Carlow),1.0
+2025,Sep,Msd International Gmbh T/A Msd Ireland (Dunboyne Biologics),3.0
+2025,Sep,Mulan Catering Limited,1.0
+2025,Sep,Mullaly Repairs Ltd,1.0
+2025,Sep,Mulligan & Haines Hospitality Ltd,1.0
+2025,Sep,Munroe Kids Klub,1.0
+2025,Sep,Munster Drain And Tube Cleaning Limited,2.0
+2025,Sep,Murphy Geospatial Limited,1.0
+2025,Sep,Murphy International Ltd,2.0
+2025,Sep,Murphy Machinery (Kilkenny) Ltd,3.0
+2025,Sep,Musgrave Limited,1.0
+2025,Sep,My Life By Estrela Hall Limited,1.0
+2025,Sep,Na Woods Property Services Limited,1.0
+2025,Sep,Naas General Hospital,5.0
+2025,Sep,Namo Comida Mexicana Ireland Ltd,2.0
+2025,Sep,National Co-Operative Farm Relief Services Limited,1.0
+2025,Sep,National Treasury Management Agency,1.0
+2025,Sep,Nazareth Care Ireland,2.0
+2025,Sep,Nbc Global Finance Limited,1.0
+2025,Sep,Nearform Limited,1.0
+2025,Sep,Needham Haulage Limited,1.0
+2025,Sep,Neodyne Limited,1.0
+2025,Sep,Netapp Ireland Limited,2.0
+2025,Sep,Neville Hotels Ulc,1.0
+2025,Sep,New Ross Community Hospital Clg,1.0
+2025,Sep,Newbrook Nursing Home Unlimited Company,1.0
+2025,Sep,Newcastle West Nursing Home Limited,4.0
+2025,Sep,Ngai'S Ltd,1.0
+2025,Sep,Nginx International Limited,1.0
+2025,Sep,Nhc Construction Limited,1.0
+2025,Sep,Niall Thomas Dowling,1.0
+2025,Sep,Nicholas O'Dwyer Limited,1.0
+2025,Sep,Nico & Joe Limited,1.0
+2025,Sep,Nielsen Media Watch Ireland Limited,1.0
+2025,Sep,Nirocon Limited,1.0
+2025,Sep,Nish Transport Limited,1.0
+2025,Sep,Nmj Haulage & Road Sweeping Services Limited,1.0
+2025,Sep,Noel C Duggan Structural Steel Ltd,1.0
+2025,Sep,Noel Noonan Fabrications Ltd,1.0
+2025,Sep,Noevro Limited,1.0
+2025,Sep,Noragg Limited,1.0
+2025,Sep,Norwood Nursing Home Ltd,1.0
+2025,Sep,Novartis Ireland Limited,1.0
+2025,Sep,Novelplast Teoranta,1.0
+2025,Sep,Nowin Ltd,2.0
+2025,Sep,Nrg'S Indian Imports Limited,1.0
+2025,Sep,Nsk Healthcare Ltd.,1.0
+2025,Sep,Nt R&D Logistics Systems Limited,5.0
+2025,Sep,Ntt Data Services Ireland Limited,3.0
+2025,Sep,Nui Galway,2.0
+2025,Sep,Nupita Limited,1.0
+2025,Sep,Nurture Childcare Limited,1.0
+2025,Sep,Nurture Early Learning Company Limited,1.0
+2025,Sep,Nypro Limited,2.0
+2025,Sep,O'Brien Transport (Newbawn) Ltd,2.0
+2025,Sep,O'Carroll Fitzgerald Project & Commercial Management Limited,1.0
+2025,Sep,"O'Connor, Sutton, Cronin & Associates Limited",1.0
+2025,Sep,O'Reilly Bros. Limited,1.0
+2025,Sep,O'Sullivan Rock Breaking Limited,2.0
+2025,Sep,O'Sullivans Pharmacies & Beauticians (Sarsfield Street) Ltd,1.0
+2025,Sep,Oaklands Garage Limited,1.0
+2025,Sep,Odyssey Social Care Limited,10.0
+2025,Sep,Ogham Engineering Ltd.,1.0
+2025,Sep,Oikos Contracts Ltd,1.0
+2025,Sep,Okayu Limited,1.0
+2025,Sep,Om Jai Maa Restaurants Limited,1.0
+2025,Sep,Omega Nursing Home Limited,4.0
+2025,Sep,Omnisys Limited,1.0
+2025,Sep,Oneview Ltd,1.0
+2025,Sep,Optum Services (Ireland) Limited,5.0
+2025,Sep,Orcases Consultancy Services,1.0
+2025,Sep,Orchard Community Care Limited,1.0
+2025,Sep,Orchidford Ltd./Ballydague Farm,1.0
+2025,Sep,Oriel Attachments Limited,1.0
+2025,Sep,Oriental Cook-In Takeaway Limited,1.0
+2025,Sep,Ormond Healthcare Ltd,5.0
+2025,Sep,Oseng Ltd,1.0
+2025,Sep,Osl Engineering Services Ltd,1.0
+2025,Sep,Our Lady Of Lourdes Hospital Drogheda,1.0
+2025,Sep,Our Lady'S Manor Clg,1.0
+2025,Sep,Outside Garden Design Ltd,1.0
+2025,Sep,Ove Arup & Partners Ireland Limited,2.0
+2025,Sep,Oyster Digital Solutions Limited,1.0
+2025,Sep,P & G Callaghan Windows Ltd,1.0
+2025,Sep,P & S Dairy Farm Ltd,1.0
+2025,Sep,Paladar Limited,1.0
+2025,Sep,Panda Asian Foods Limited,1.0
+2025,Sep,Panda Inn Chinese Limited,1.0
+2025,Sep,Paperblanks Ltd.,1.0
+2025,Sep,Parke House Nursing Home Limited,3.0
+2025,Sep,Parknageragh Pig Breeders Company Limited,2.0
+2025,Sep,Parma Motors Limited,1.0
+2025,Sep,Parnell Road Stepdown Facility Limited,7.0
+2025,Sep,Parsons Farm Limited,1.0
+2025,Sep,Pasta Bella Limited,1.0
+2025,Sep,Pat Joe & Sean Cronin,1.0
+2025,Sep,Patrick Costello,1.0
+2025,Sep,Paul Henry Tailoring Limited,1.0
+2025,Sep,Paul Mcgrail Limited,1.0
+2025,Sep,Paul Nolan Racing Ltd,1.0
+2025,Sep,Paulo Ribeiro'S Limited,1.0
+2025,Sep,Paypal Europe Services Limited,1.0
+2025,Sep,Payzaar Limited,1.0
+2025,Sep,Pdas Limited,2.0
+2025,Sep,People Pro Hr Limited,1.0
+2025,Sep,Permanent Tsb Public Limited Company,3.0
+2025,Sep,Pfizer Ireland Pharmaceuticals Unlimited Company,1.0
+2025,Sep,Philipstown Engineering Limited,4.0
+2025,Sep,Phoenix Tyre Company Limited,1.0
+2025,Sep,Pinestream Ltd,1.0
+2025,Sep,Pipe Arc Ltd,2.0
+2025,Sep,Piper'S Trade Limited,1.0
+2025,Sep,Pj Fahy Transport Ltd,1.0
+2025,Sep,Pj Martley Ltd,1.0
+2025,Sep,Pkf Brenson Lawlor Limited,1.0
+2025,Sep,Platinum Home Care Limited,6.0
+2025,Sep,Plr Worldwide Sales Limited,1.0
+2025,Sep,Poolville Limited,1.0
+2025,Sep,Porsche International Financing Dac,1.0
+2025,Sep,Port Walls Limited,1.0
+2025,Sep,Portfolio Concentrate Solutions Unlimited Company,1.0
+2025,Sep,Portiuncula University Hospital,2.0
+2025,Sep,Powercomm Engineering Limited,2.0
+2025,Sep,Ppd Development Ireland Limited,5.0
+2025,Sep,Precision Utility Mapping Ireland Limited,1.0
+2025,Sep,Pricewaterhousecoopers,4.0
+2025,Sep,Principal Facilities Limited,1.0
+2025,Sep,Privet Productions,22.0
+2025,Sep,Procter & Gamble Ireland,1.0
+2025,Sep,Prodig Attachments Ltd,1.0
+2025,Sep,Profound Consulting Limited,1.0
+2025,Sep,Project Management Limited,1.0
+2025,Sep,Proofpoint Ireland Limited,2.0
+2025,Sep,Psc Biotech Limited,3.0
+2025,Sep,Ptc (Ssi) Unlimited Company,1.0
+2025,Sep,Pudaxa Limited,1.0
+2025,Sep,Punjabi House Restaurant Limited,1.0
+2025,Sep,"Pure Irish Ice Limited,",2.0
+2025,Sep,Qt Technologies Ireland Limited,5.0
+2025,Sep,Quality First Limited,1.0
+2025,Sep,Quality Food & Beverages Limited,1.0
+2025,Sep,Quantex Limited,1.0
+2025,Sep,Quilter Insulation Limited,1.0
+2025,Sep,Quinn Downes Limited,1.0
+2025,Sep,Qxcy Restaurant Limited,1.0
+2025,Sep,Rachel Barry,1.0
+2025,Sep,Radiance Star Limited,1.0
+2025,Sep,Radio Telefis Eireann,1.0
+2025,Sep,Rah Home Care,2.0
+2025,Sep,Railway Union Cricket Club,1.0
+2025,Sep,Rbk Management Services Limited,1.0
+2025,Sep,Rcc Engineering Ltd,1.0
+2025,Sep,Rdf Planning And Architecture Limited,1.0
+2025,Sep,Realdeal Foods Limited,1.0
+2025,Sep,Realtime Technologies Ltd,1.0
+2025,Sep,Red Hat Limited,1.0
+2025,Sep,Redac One Limited,1.0
+2025,Sep,Redwood Extended Care Facility Uc,18.0
+2025,Sep,Reefer Tech Refrigeration Limited,1.0
+2025,Sep,Reeves Catering Limited,1.0
+2025,Sep,Refresh Hospitality Services Limited,1.0
+2025,Sep,Regeneron Ireland Dac,2.0
+2025,Sep,Regional Hospital Mullingar,2.0
+2025,Sep,Rekhi Trading Limited,1.0
+2025,Sep,Renrew Limited,1.0
+2025,Sep,Resilience Healthcare Limited,9.0
+2025,Sep,Reso Health,1.0
+2025,Sep,Retail Display Manufacturing (Ireland) Limited,2.0
+2025,Sep,Retail Solutions Ltd,1.0
+2025,Sep,Retella Limited,2.0
+2025,Sep,Revive Environmental International Limited,3.0
+2025,Sep,Reynolds Motor Engineering Ltd T/A Paul Reynolds Commercials,1.0
+2025,Sep,Richard Brabazon,1.0
+2025,Sep,Rippling Ireland Limited,1.0
+2025,Sep,River Hampton Wood Trade Limited,1.0
+2025,Sep,Rizpoint Limited,1.0
+2025,Sep,Rmg Pigs,1.0
+2025,Sep,Robust Property Services Limited,1.0
+2025,Sep,Rockwell Constructions Limited,2.0
+2025,Sep,Roland Foresty Ltd,1.0
+2025,Sep,Rosapenna Hotel Management Limited,1.0
+2025,Sep,Roscommon University Hospital,1.0
+2025,Sep,Rosderra Irish Meats Group Uc,7.0
+2025,Sep,Roseville Nursing Home Ltd,1.0
+2025,Sep,Rossclare Nursing Home Limited,3.0
+2025,Sep,Roundhill Farm Ltd,1.0
+2025,Sep,Royal College Of Surgeons In Ireland,1.0
+2025,Sep,Royal Garden Chinese Cuisine Limited,1.0
+2025,Sep,Rps Group Limited,2.0
+2025,Sep,Rr Resources Limited,1.0
+2025,Sep,Rsa Insurance Ireland Designated Activity Company,1.0
+2025,Sep,Rsm Ireland Business Advisory Limited,3.0
+2025,Sep,Rub Edibrac Holdings Ltd,1.0
+2025,Sep,Rush Malone Limited,1.0
+2025,Sep,Ryan Hanley Limited,4.0
+2025,Sep,Ryder Surveys Limited,1.0
+2025,Sep,S & R Tyres Limited,2.0
+2025,Sep,S Dolan Farms Ltd,1.0
+2025,Sep,S&F Global Fresh Exotics Limited,1.0
+2025,Sep,S.Y.P Ventures Limited,1.0
+2025,Sep,Sa Gofonez Limited,1.0
+2025,Sep,Safari Childcare Ltd.,1.0
+2025,Sep,Saint John Of God Hospital Company Limited By Guarantee,7.0
+2025,Sep,Sajjad Makhdoom Consultancy Services Ltd.,1.0
+2025,Sep,Sales Armour Limited,1.0
+2025,Sep,Salus Global Recruitment Limited,1.0
+2025,Sep,Sandisk International Limited,1.0
+2025,Sep,Sandvik Mining & Construction Logistics Ltd,2.0
+2025,Sep,Sanorgan Limited,1.0
+2025,Sep,Saotharlann Chonamara Teo,1.0
+2025,Sep,Sau Auto Traders Limited,1.0
+2025,Sep,Saucy Vgn Ltd,1.0
+2025,Sep,Scf Processing Limited,1.0
+2025,Sep,Schneider Electric Ireland Limited,1.0
+2025,Sep,Scott Tallon Walker Limited,1.0
+2025,Sep,Sdeal Ltd,1.0
+2025,Sep,Sds (Structural Design Solutions) Limited,1.0
+2025,Sep,Seaquest Engineering Limited,1.0
+2025,Sep,Seclusion Properties Limited,1.0
+2025,Sep,Sehmus Borak,1.0
+2025,Sep,Sei Investments - Global Fund Services Limited,3.0
+2025,Sep,Sensational Kids Clg,1.0
+2025,Sep,Sensei Cork Café Limited,2.0
+2025,Sep,Seqbiome Limited,1.0
+2025,Sep,Servicenow International Treasury Limited,1.0
+2025,Sep,Servicenow Ireland Limited,1.0
+2025,Sep,Servisource Healthcare Limited,3.0
+2025,Sep,Ses Smart Energy Systems Ltd.,1.0
+2025,Sep,Setanta Vehicle Importers Ltd,1.0
+2025,Sep,Setanta Vehicle Sales North Ltd,2.0
+2025,Sep,Sfdc Ireland Limited,5.0
+2025,Sep,Sgnh Ltd,1.0
+2025,Sep,Shanid Ltd,1.0
+2025,Sep,Shannon Estuary Hotels Limited,1.0
+2025,Sep,Sharpcrest Limited,1.0
+2025,Sep,Shavo Ltd,1.0
+2025,Sep,Sheelin Mushrooms Ltd,5.0
+2025,Sep,Shi Yun Wang Limited,1.0
+2025,Sep,Shujiuxiang Ltd,1.0
+2025,Sep,Shun Construction Limited,1.0
+2025,Sep,Siemens Energy Limited,1.0
+2025,Sep,Siemens Healthcare Medical Solutions Limited,1.0
+2025,Sep,Signacare Bunclody Limited,1.0
+2025,Sep,Silver Hill Foods Unlimited Company,2.0
+2025,Sep,Silver Leaf Catering Ltd,1.0
+2025,Sep,Silver Stream Health Care Limited,1.0
+2025,Sep,Silver Stream Healthcare Management Limited,4.0
+2025,Sep,Silverdock Limited,1.0
+2025,Sep,Sino-Eu Union International (Irl) Trading Limited,1.0
+2025,Sep,Sirius Xm Ireland Limited,4.0
+2025,Sep,Six Ways Cuisine Limited,1.0
+2025,Sep,Skibbereen Residential Care Centre Ltd,2.0
+2025,Sep,Sleepless Server Solutions Ltd,1.0
+2025,Sep,Sligo Ballincar Hospitality Limited,1.0
+2025,Sep,Sligo University Hospital,2.0
+2025,Sep,Slmw Restaurant Limited,2.0
+2025,Sep,Smartbox Group Ltd,1.0
+2025,Sep,Sms Facilities,1.0
+2025,Sep,Sn Foods Limited,2.0
+2025,Sep,Snipp Interactive Limited,1.0
+2025,Sep,Soapbox Labs Ltd,1.0
+2025,Sep,Soba Asian Cork Limited,2.0
+2025,Sep,Sobi Analytics Limited,2.0
+2025,Sep,Software Labs Campus Unlimited Company,11.0
+2025,Sep,Solar Spa Limited,1.0
+2025,Sep,Solarwinds Software Europe Dac,1.0
+2025,Sep,Solution Out Limited,1.0
+2025,Sep,Sonas Nursing Homes Management Co. Ltd,1.0
+2025,Sep,Sontai Data Solutions Limited,1.0
+2025,Sep,Soti Ireland Ltd,3.0
+2025,Sep,South Dublin County Council,1.0
+2025,Sep,South East Technological University,2.0
+2025,Sep,South Tipperary General Hospital,3.0
+2025,Sep,Sparkoo Technologies Ireland Co Limited,2.0
+2025,Sep,Specialist Medical Services Locums Ltd,1.0
+2025,Sep,Specialist Technical Engineering Services (Sts Group),2.0
+2025,Sep,Spectrum Health Limited,2.0
+2025,Sep,Spot The Pig Limited,1.0
+2025,Sep,Squarespace Ireland Limited,1.0
+2025,Sep,Ss&C Wealth And Insurance Ireland Ltd,1.0
+2025,Sep,St James Hospital Board,3.0
+2025,Sep,St Luke'S Radiation Oncology Network,1.0
+2025,Sep,St Mary'S Nursing Home Unlimited Company,1.0
+2025,Sep,St. David'S Nursing Home Limited,1.0
+2025,Sep,St. Luke'S General Hospital,4.0
+2025,Sep,St. Michael'S House,1.0
+2025,Sep,St. Michael'S Nursing Home Limited,1.0
+2025,Sep,St. Vincent'S Healthcare Group,2.0
+2025,Sep,State Street International (Ireland) Limited,2.0
+2025,Sep,State Street Technology (Ireland) Ltd,1.0
+2025,Sep,Stateline Transport Limited,1.0
+2025,Sep,Staunton Sports Ltd T/A Elverys Sports,1.0
+2025,Sep,Stephen Phelan Limited,1.0
+2025,Sep,Stephen Quinn Stone Mason Limited,1.0
+2025,Sep,Stephen Winters,1.0
+2025,Sep,Stephenson Transport Ltd,1.0
+2025,Sep,Stewarts Care Designated Activity Company,1.0
+2025,Sep,Stillorgan Park Hotel Limited,1.0
+2025,Sep,Storey Broe Nursing Services Ltd,4.0
+2025,Sep,Strandbray Management Limited,1.0
+2025,Sep,Strategic Edge Consulting Limited,1.0
+2025,Sep,Strike Digital Limited,1.0
+2025,Sep,Stripe Technology Company Limited,3.0
+2025,Sep,Structure Tone Limited,1.0
+2025,Sep,Summerun Limited,1.0
+2025,Sep,Summerville Healthcare Limited,2.0
+2025,Sep,Sunacrest Ltd,1.0
+2025,Sep,Sunbeam House Services Clg,2.0
+2025,Sep,Sunderland Farms Ltd.,1.0
+2025,Sep,Supermac'S Ireland Limited,1.0
+2025,Sep,Surehaul (Irl) Limited,2.0
+2025,Sep,Suretank Limited,9.0
+2025,Sep,Switzer Optical Limited T/A Elizabeth Switzer Optometrist,1.0
+2025,Sep,Swords Laboratories Unlimited Company,1.0
+2025,Sep,Synergy Engineering Ltd,1.0
+2025,Sep,Sysco Foods Ireland Unlimited Company,1.0
+2025,Sep,T. Nolan & Sons Limited,2.0
+2025,Sep,Tadiam Limited,1.0
+2025,Sep,Tailbay Limited,1.0
+2025,Sep,Tallaght University Hospital,7.0
+2025,Sep,Tallaght West Childhood Development Initiative,1.0
+2025,Sep,Tara Winthrop Private Clinic Limited,2.0
+2025,Sep,Tarrant International Transport Limited,1.0
+2025,Sep,Tata Consultancy Services Ireland Limited,3.0
+2025,Sep,Tata Consultancy Services Limited,8.0
+2025,Sep,Tata Elxsi Limited,1.0
+2025,Sep,Td Freight Limited,1.0
+2025,Sep,Teach Altranais Charna Cuideachta Neamhtheoranta,1.0
+2025,Sep,Team Pro Limited,1.0
+2025,Sep,Technological University Of The Shannon: Midlands Midwest,1.0
+2025,Sep,Techstar It Limited,1.0
+2025,Sep,Telus International Services Limited - Reseller,2.0
+2025,Sep,Temple Inns Limited,1.0
+2025,Sep,Templeogue Taverns Limited Rev,1.0
+2025,Sep,Teresa Horan T/A Chrysalis Montessori & Afterschool,1.0
+2025,Sep,Terra Firma Stone Limited,3.0
+2025,Sep,Thaima Asian Cuisine Limited,1.0
+2025,Sep,"The 1772 Foundation, Inc.",1.0
+2025,Sep,The Brindley Manor Federation Of Nursing Homes Ltd,1.0
+2025,Sep,The Cartoon Saloon Ltd,1.0
+2025,Sep,The Curragower,1.0
+2025,Sep,The Dragon Commanders Limited,1.0
+2025,Sep,The Engine Room,1.0
+2025,Sep,The Fruit People Limited,1.0
+2025,Sep,The Hospital For The Relief Of Poor Lying-In Women Dublin,1.0
+2025,Sep,The K Club Limited,1.0
+2025,Sep,The Kitchen Catering Bbq,1.0
+2025,Sep,The Little Willows Preschool Ltd,1.0
+2025,Sep,The National Ballet Of Ireland,3.0
+2025,Sep,The National Maternity Hospital,3.0
+2025,Sep,The Phoenix Bistro Limited,1.0
+2025,Sep,The Residence Pl Limited,3.0
+2025,Sep,The Temple Grill Limited,1.0
+2025,Sep,Thermaform Ltd,2.0
+2025,Sep,Thermo Fisher Scientific Cork Limited,1.0
+2025,Sep,Think Ahead Limited,1.0
+2025,Sep,Thistlemill Ltd,1.0
+2025,Sep,Thomas Street Taverns Ltd,1.0
+2025,Sep,Thomas Treanor,1.0
+2025,Sep,Thomond Care Services Limited,3.0
+2025,Sep,Thomond Communications Ltd,1.0
+2025,Sep,Thomond Electrical & Mechanical Services Limited,1.0
+2025,Sep,Thompsons R&B Limited,1.0
+2025,Sep,Thornmont Limited,1.0
+2025,Sep,Thoroughbred Country Company Limited,1.0
+2025,Sep,Three Ireland (Hutchison) Limited,2.0
+2025,Sep,Three Rivers Farms Limited,1.0
+2025,Sep,Ti Rushmore Limited,2.0
+2025,Sep,Tiktok Technology Limited,7.0
+2025,Sep,Tim And Andrew O Callaghan,1.0
+2025,Sep,Tir Na Nog Fishing Limited,2.0
+2025,Sep,Tizzard Holdings Unlimited Company,5.0
+2025,Sep,Tlc Health Services Ltd,13.0
+2025,Sep,Tli Group Limited,7.0
+2025,Sep,Toasttab Ireland Limited,1.0
+2025,Sep,Tokyo Electron Europe Limited,1.0
+2025,Sep,Tom Moloney,1.0
+2025,Sep,Tomi Food Concepts Ltd,1.0
+2025,Sep,Torbuild Limited,1.0
+2025,Sep,Torc Candles Ltd,1.0
+2025,Sep,Tralee Warriors Basketball Club Glg,1.0
+2025,Sep,Tram Chowder Ltd,1.0
+2025,Sep,Travglen Limited,2.0
+2025,Sep,Treaty Software Limited,1.0
+2025,Sep,Treehouse Media Limited,3.0
+2025,Sep,Trend Micro Emea Ltd,2.0
+2025,Sep,Trinity Support & Care Services Ltd,2.0
+2025,Sep,Tritech Engineering Limited,1.0
+2025,Sep,Turbotem Limited,1.0
+2025,Sep,Turgan Limited,1.0
+2025,Sep,Turkish Airlines Inc,1.0
+2025,Sep,Turtle Tots Ireland Limited,1.0
+2025,Sep,Tusla - Child And Family Agency,5.0
+2025,Sep,Twilio Ireland Limited,1.0
+2025,Sep,Tyretech & Associates Sales & Services Limited,1.0
+2025,Sep,U.S. Bank Europe Dac,2.0
+2025,Sep,U.S. Direct E-Commerce Limited,1.0
+2025,Sep,Uisce Éireann,8.0
+2025,Sep,Ultan Technologies Limited,1.0
+2025,Sep,Underhill Investments Limited,1.0
+2025,Sep,Unicef Ireland,1.0
+2025,Sep,Uniphar Wholesale Limited,1.0
+2025,Sep,Universal Electronic Legend Limited,1.0
+2025,Sep,University College Cork,1.0
+2025,Sep,University College Dublin,3.0
+2025,Sep,University Hospital Kerry,6.0
+2025,Sep,University Hospital Waterford,2.0
+2025,Sep,University Limerick Hospitals Group,18.0
+2025,Sep,University Of Dublin,3.0
+2025,Sep,University Of Limerick,1.0
+2025,Sep,Univet Ltd,1.0
+2025,Sep,Uppercross Enterprises Limited,1.0
+2025,Sep,Urban Health Limited,1.0
+2025,Sep,Valentia Nursing Home Ltd,1.0
+2025,Sep,Valeo Foods (Ireland),1.0
+2025,Sep,Vanguard Group (Ireland) Limited,1.0
+2025,Sep,Vanta Technology Ireland I Limited,1.0
+2025,Sep,Verizon Services Ireland Limited,2.0
+2025,Sep,Version 1 Software Limited,3.0
+2025,Sep,Vibe Coding Limited,1.0
+2025,Sep,Victoria Healthcare Organisation Limited,5.0
+2025,Sep,Viecura Medical Ltd,1.0
+2025,Sep,Vistatec Limited,1.0
+2025,Sep,Vita Safety Systems Ltd.,1.0
+2025,Sep,Vitalograph Ireland Ltd,1.0
+2025,Sep,Vurzol Limited,1.0
+2025,Sep,Wade Mcphilemy Teoranta,1.0
+2025,Sep,Wainbg Limited,1.0
+2025,Sep,Walk Long Foods Limited,1.0
+2025,Sep,Walsh Mushrooms Golden Unlimited Company,5.0
+2025,Sep,Ward Automation Ltd.,1.0
+2025,Sep,Waters Technologies Ireland Limited,1.0
+2025,Sep,Watershed Company Limited,1.0
+2025,Sep,We Love Duck Ltd,1.0
+2025,Sep,Wei Kee Limited,1.0
+2025,Sep,Weiwen Catering Limited,1.0
+2025,Sep,Weltec Engineering Ltd,7.0
+2025,Sep,Werlay Limited,1.0
+2025,Sep,West Pier Restaurant Limited,1.0
+2025,Sep,Westford Public House Limited,1.0
+2025,Sep,Westpond Lodges Hotel Limited,1.0
+2025,Sep,Whelan Alarms Limited,1.0
+2025,Sep,Whisbay Ltd,1.0
+2025,Sep,Whistleridge Associates Ltd,1.0
+2025,Sep,White Hart Mushrooms Ltd,6.0
+2025,Sep,Whitefriars Childcare Limited,1.0
+2025,Sep,Whitelands Building Services Ltd,1.0
+2025,Sep,Whl Trading Ltd,2.0
+2025,Sep,Wicklow County Council,1.0
+2025,Sep,Wild Atlantic Pictures Limited,9.0
+2025,Sep,Wildcard Films Two,1.0
+2025,Sep,"William, John And Sarah Kehoe",1.0
+2025,Sep,Willis Towers Watson (Ireland) Limited,1.0
+2025,Sep,Wills Bros Limited,2.0
+2025,Sep,Winthrop Technologies Limited,1.0
+2025,Sep,Wipro Limited - Irish Branch,1.0
+2025,Sep,Wisdompath Limited,1.0
+2025,Sep,Wishmill Ltd,2.0
+2025,Sep,Woodie'S Diy Limited,1.0
+2025,Sep,Woodville Pig Farms Unlimited Company,1.0
+2025,Sep,Workday Limited,5.0
+2025,Sep,Worrell Harvesting Ltd,1.0
+2025,Sep,Wpx Restaurant Limited,1.0
+2025,Sep,Wuxi Biologics Ireland Limited,18.0
+2025,Sep,Wuxi Vaccines Ireland Limited,3.0
+2025,Sep,Yacoub Limited,1.0
+2025,Sep,Yahoo Emea Limited,1.0
+2025,Sep,Yelsea Limited,3.0
+2025,Sep,Yivee Ltd,2.0
+2025,Sep,Ymj Thai & Asian Street Food,1.0
+2025,Sep,Yu Garden 2,1.0
+2025,Sep,Yukta Limited,1.0
+2025,Sep,Zenith Health Limited,1.0
+2025,Sep,Zf Digital Solutions Ireland Limited,1.0
+2025,Sep,Zinc Processors Ltd T/A Shannonside Galvanising,2.0
+2025,Sep,Zoetis Belgium S.A.,1.0
+2025,Sep,Óstan Gúgán Barra Teo,1.0
