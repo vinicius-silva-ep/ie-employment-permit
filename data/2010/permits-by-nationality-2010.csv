@@ -1,98 +1,98 @@
-Year,Country,Issued,Refused,Withdrawn
-2010,Albania,4,0,3
-2010,Algeria,7,0,0
-2010,Andorra,1,0,0
-2010,Argentina,13,1,1
-2010,Armenia,1,0,0
-2010,Australia,97,26,6
-2010,Azerbaijan,1,0,0
-2010,Bahrain,5,2,0
-2010,Bangladesh,86,30,7
-2010,Barbados,1,0,0
-2010,Belarus,36,4,1
-2010,Bosnia and Herzegovina,6,1,0
-2010,Botswana,13,2,0
-2010,Brazil,344,59,7
-2010,Bulgaria,70,8,2
-2010,Cameroon,1,1,0
-2010,Canada,100,8,4
-2010,Chile,3,0,0
-2010,China,331,99,5
-2010,Colombia,6,0,1
-2010,Croatia,27,2,0
-2010,Cuba,3,0,0
-2010,DR Congo,1,0,0
-2010,Egypt,27,5,2
-2010,El Salvador,1,0,0
-2010,Ethiopia,7,0,0
-2010,Ghana,2,1,0
-2010,Guatemala,1,0,0
-2010,India,1998,112,33
-2010,Indonesia,9,2,0
-2010,Iran,8,0,0
-2010,Iraq,3,0,0
-2010,Israel,17,0,0
-2010,Jamaica,1,0,0
-2010,Japan,39,3,0
-2010,Jordan,7,1,1
-2010,Kazakhstan,1,0,0
-2010,Kenya,7,1,0
-2010,Kuwait,6,0,0
-2010,Kyrgyzstan,2,0,1
-2010,Latvia,5,1,0
-2010,Lebanon,6,4,0
-2010,Liberia,2,0,0
-2010,Libya,0,1,0
-2010,Malawi,4,1,0
-2010,Malaysia,272,41,10
-2010,Maldives,1,0,0
-2010,Mali,1,0,0
-2010,Mauritania,2,1,0
-2010,Mauritius,27,20,1
-2010,Mexico,11,2,2
-2010,Moldova,90,16,3
-2010,Mongolia,3,0,0
-2010,Morocco,21,2,0
-2010,Myanmar,4,4,1
-2010,Nepal,33,4,1
-2010,New Zealand,62,13,2
-2010,Niger,1,1,0
-2010,Nigeria,59,18,1
-2010,North Korea,1,1,0
-2010,North Macedonia,4,0,0
-2010,Oman,2,0,0
-2010,Pakistan,166,59,5
-2010,Peru,0,1,1
-2010,Philippines,1223,109,25
-2010,Qatar,1,0,0
-2010,Romania,771,130,18
-2010,Russia,71,8,2
-2010,Samoa,2,0,0
-2010,Saudi Arabia,3,0,0
-2010,Serbia,15,3,0
-2010,Seychelles,0,1,0
-2010,Singapore,11,0,0
-2010,South Africa,201,44,13
-2010,South Korea,25,1,0
-2010,Sri Lanka,43,3,0
-2010,St. Vincent & Grenadines,0,1,0
-2010,State of Palestine,2,1,0
-2010,Sudan,3,3,0
-2010,Syria,6,5,1
-2010,Tanzania,2,0,0
-2010,Thailand,91,22,12
-2010,Tonga,2,0,0
-2010,Trinidad and Tobago,4,3,0
-2010,Tunisia,6,2,0
-2010,Turkey,56,15,4
-2010,Uganda,2,2,0
-2010,Ukraine,209,29,5
-2010,United Arab Emirates,3,0,0
-2010,United Kingdom,1,0,0
-2010,United States,382,35,16
-2010,Uruguay,3,2,0
-2010,Uzbekistan,3,2,0
-2010,Venezuela,7,0,0
-2010,Vietnam,12,4,0
-2010,Zambia,4,1,1
-2010,Zimbabwe,37,6,1
+id_country,Year,Country,Issued,Refused,Withdrawn
+2010Albania,2010,Albania,4,0,3
+2010Algeria,2010,Algeria,7,0,0
+2010Andorra,2010,Andorra,1,0,0
+2010Argentina,2010,Argentina,13,1,1
+2010Armenia,2010,Armenia,1,0,0
+2010Australia,2010,Australia,97,26,6
+2010Azerbaijan,2010,Azerbaijan,1,0,0
+2010Bahrain,2010,Bahrain,5,2,0
+2010Bangladesh,2010,Bangladesh,86,30,7
+2010Barbados,2010,Barbados,1,0,0
+2010Belarus,2010,Belarus,36,4,1
+2010Bosnia_and_Herzegovina,2010,Bosnia and Herzegovina,6,1,0
+2010Botswana,2010,Botswana,13,2,0
+2010Brazil,2010,Brazil,344,59,7
+2010Bulgaria,2010,Bulgaria,70,8,2
+2010Cameroon,2010,Cameroon,1,1,0
+2010Canada,2010,Canada,100,8,4
+2010Chile,2010,Chile,3,0,0
+2010China,2010,China,331,99,5
+2010Colombia,2010,Colombia,6,0,1
+2010Croatia,2010,Croatia,27,2,0
+2010Cuba,2010,Cuba,3,0,0
+2010DR_Congo,2010,DR Congo,1,0,0
+2010Egypt,2010,Egypt,27,5,2
+2010El_Salvador,2010,El Salvador,1,0,0
+2010Ethiopia,2010,Ethiopia,7,0,0
+2010Ghana,2010,Ghana,2,1,0
+2010Guatemala,2010,Guatemala,1,0,0
+2010India,2010,India,1998,112,33
+2010Indonesia,2010,Indonesia,9,2,0
+2010Iran,2010,Iran,8,0,0
+2010Iraq,2010,Iraq,3,0,0
+2010Israel,2010,Israel,17,0,0
+2010Jamaica,2010,Jamaica,1,0,0
+2010Japan,2010,Japan,39,3,0
+2010Jordan,2010,Jordan,7,1,1
+2010Kazakhstan,2010,Kazakhstan,1,0,0
+2010Kenya,2010,Kenya,7,1,0
+2010Kuwait,2010,Kuwait,6,0,0
+2010Kyrgyzstan,2010,Kyrgyzstan,2,0,1
+2010Latvia,2010,Latvia,5,1,0
+2010Lebanon,2010,Lebanon,6,4,0
+2010Liberia,2010,Liberia,2,0,0
+2010Libya,2010,Libya,0,1,0
+2010Malawi,2010,Malawi,4,1,0
+2010Malaysia,2010,Malaysia,272,41,10
+2010Maldives,2010,Maldives,1,0,0
+2010Mali,2010,Mali,1,0,0
+2010Mauritania,2010,Mauritania,2,1,0
+2010Mauritius,2010,Mauritius,27,20,1
+2010Mexico,2010,Mexico,11,2,2
+2010Moldova,2010,Moldova,90,16,3
+2010Mongolia,2010,Mongolia,3,0,0
+2010Morocco,2010,Morocco,21,2,0
+2010Myanmar,2010,Myanmar,4,4,1
+2010Nepal,2010,Nepal,33,4,1
+2010New_Zealand,2010,New Zealand,62,13,2
+2010Niger,2010,Niger,1,1,0
+2010Nigeria,2010,Nigeria,59,18,1
+2010North_Korea,2010,North Korea,1,1,0
+2010North_Macedonia,2010,North Macedonia,4,0,0
+2010Oman,2010,Oman,2,0,0
+2010Pakistan,2010,Pakistan,166,59,5
+2010Peru,2010,Peru,0,1,1
+2010Philippines,2010,Philippines,1223,109,25
+2010Qatar,2010,Qatar,1,0,0
+2010Romania,2010,Romania,771,130,18
+2010Russia,2010,Russia,71,8,2
+2010Samoa,2010,Samoa,2,0,0
+2010Saudi_Arabia,2010,Saudi Arabia,3,0,0
+2010Serbia,2010,Serbia,15,3,0
+2010Seychelles,2010,Seychelles,0,1,0
+2010Singapore,2010,Singapore,11,0,0
+2010South_Africa,2010,South Africa,201,44,13
+2010South_Korea,2010,South Korea,25,1,0
+2010Sri_Lanka,2010,Sri Lanka,43,3,0
+2010St._Vincent_&_Grenadines,2010,St. Vincent & Grenadines,0,1,0
+2010State_of_Palestine,2010,State of Palestine,2,1,0
+2010Sudan,2010,Sudan,3,3,0
+2010Syria,2010,Syria,6,5,1
+2010Tanzania,2010,Tanzania,2,0,0
+2010Thailand,2010,Thailand,91,22,12
+2010Tonga,2010,Tonga,2,0,0
+2010Trinidad_and_Tobago,2010,Trinidad and Tobago,4,3,0
+2010Tunisia,2010,Tunisia,6,2,0
+2010Turkey,2010,Turkey,56,15,4
+2010Uganda,2010,Uganda,2,2,0
+2010Ukraine,2010,Ukraine,209,29,5
+2010United_Arab_Emirates,2010,United Arab Emirates,3,0,0
+2010United_Kingdom,2010,United Kingdom,1,0,0
+2010United_States,2010,United States,382,35,16
+2010Uruguay,2010,Uruguay,3,2,0
+2010Uzbekistan,2010,Uzbekistan,3,2,0
+2010Venezuela,2010,Venezuela,7,0,0
+2010Vietnam,2010,Vietnam,12,4,0
+2010Zambia,2010,Zambia,4,1,1
+2010Zimbabwe,2010,Zimbabwe,37,6,1

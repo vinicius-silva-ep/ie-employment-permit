@@ -1,96 +1,96 @@
-Year,Country,Issued,Refused,Withdrawn
-2014,Afghanistan,1,0,0
-2014,Albania,4,0,0
-2014,Algeria,1,0,0
-2014,Angola,1,0,0
-2014,Argentina,26,3,0
-2014,Armenia,4,0,1
-2014,Australia,80,5,2
-2014,Azerbaijan,2,0,0
-2014,Bahrain,4,0,1
-2014,Bangladesh,42,10,5
-2014,Belarus,10,0,0
-2014,Benin,1,0,0
-2014,Bolivia,1,1,0
-2014,Bosnia and Herzegovina,5,0,0
-2014,Botswana,7,1,0
-2014,Brazil,167,34,4
-2014,Cameroon,2,0,0
-2014,Canada,120,9,4
-2014,Chile,3,0,0
-2014,China,262,40,5
-2014,Colombia,7,0,0
-2014,Costa Rica,7,0,0
-2014,Cuba,1,0,0
-2014,Dominican Republic,2,0,0
-2014,Egypt,76,7,1
-2014,Eritrea,1,0,0
-2014,Eswatini,1,0,0
-2014,Ethiopia,1,0,0
-2014,Georgia,2,0,0
-2014,Ghana,2,0,0
-2014,India,1657,65,43
-2014,Indonesia,7,0,0
-2014,Iran,11,3,1
-2014,Iraq,23,1,1
-2014,Israel,276,6,8
-2014,Japan,96,6,1
-2014,Jordan,15,1,0
-2014,Kazakhstan,7,0,0
-2014,Kenya,8,0,0
-2014,Kuwait,3,0,0
-2014,Kyrgyzstan,1,0,1
-2014,Latvia,0,1,0
-2014,Lebanon,28,1,0
-2014,Liberia,0,1,0
-2014,Libya,3,1,0
-2014,Malaysia,177,39,9
-2014,Mauritania,1,0,1
-2014,Mauritius,64,23,3
-2014,Mexico,27,1,1
-2014,Moldova,4,1,1
-2014,Monaco,1,0,0
-2014,Morocco,12,1,0
-2014,Myanmar,3,0,0
-2014,Nepal,11,4,0
-2014,New Zealand,42,6,0
-2014,Nicaragua,2,0,0
-2014,Niger,1,0,0
-2014,Nigeria,89,6,4
-2014,North Macedonia,1,0,0
-2014,Oman,3,0,0
-2014,Pakistan,507,41,17
-2014,Paraguay,2,0,0
-2014,Peru,3,0,0
-2014,Philippines,122,23,2
-2014,Qatar,1,0,0
-2014,Romania,1,0,0
-2014,Russia,111,4,2
-2014,Saint Kitts & Nevis,2,1,0
-2014,Saudi Arabia,4,0,0
-2014,Serbia,17,3,0
-2014,Seychelles,1,0,0
-2014,Singapore,7,4,0
-2014,Somalia,1,0,0
-2014,South Africa,90,34,0
-2014,South Korea,32,5,2
-2014,Sri Lanka,40,8,2
-2014,State of Palestine,5,0,0
-2014,Sudan,125,12,1
-2014,Syria,17,2,1
-2014,Tanzania,3,1,0
-2014,Thailand,18,8,0
-2014,Trinidad and Tobago,15,1,2
-2014,Tunisia,4,0,0
-2014,Turkey,116,9,1
-2014,Uganda,1,0,0
-2014,Ukraine,91,6,2
-2014,United Arab Emirates,7,0,0
-2014,United Kingdom,1,0,0
-2014,United States,685,54,15
-2014,Uruguay,1,0,0
-2014,Uzbekistan,1,0,0
-2014,Venezuela,37,4,0
-2014,Vietnam,5,2,0
-2014,Zambia,0,2,0
-2014,Zimbabwe,6,2,0
+id_country,Year,Country,Issued,Refused,Withdrawn
+2014Afghanistan,2014,Afghanistan,1,0,0
+2014Albania,2014,Albania,4,0,0
+2014Algeria,2014,Algeria,1,0,0
+2014Angola,2014,Angola,1,0,0
+2014Argentina,2014,Argentina,26,3,0
+2014Armenia,2014,Armenia,4,0,1
+2014Australia,2014,Australia,80,5,2
+2014Azerbaijan,2014,Azerbaijan,2,0,0
+2014Bahrain,2014,Bahrain,4,0,1
+2014Bangladesh,2014,Bangladesh,42,10,5
+2014Belarus,2014,Belarus,10,0,0
+2014Benin,2014,Benin,1,0,0
+2014Bolivia,2014,Bolivia,1,1,0
+2014Bosnia_and_Herzegovina,2014,Bosnia and Herzegovina,5,0,0
+2014Botswana,2014,Botswana,7,1,0
+2014Brazil,2014,Brazil,167,34,4
+2014Cameroon,2014,Cameroon,2,0,0
+2014Canada,2014,Canada,120,9,4
+2014Chile,2014,Chile,3,0,0
+2014China,2014,China,262,40,5
+2014Colombia,2014,Colombia,7,0,0
+2014Costa_Rica,2014,Costa Rica,7,0,0
+2014Cuba,2014,Cuba,1,0,0
+2014Dominican_Republic,2014,Dominican Republic,2,0,0
+2014Egypt,2014,Egypt,76,7,1
+2014Eritrea,2014,Eritrea,1,0,0
+2014Eswatini,2014,Eswatini,1,0,0
+2014Ethiopia,2014,Ethiopia,1,0,0
+2014Georgia,2014,Georgia,2,0,0
+2014Ghana,2014,Ghana,2,0,0
+2014India,2014,India,1657,65,43
+2014Indonesia,2014,Indonesia,7,0,0
+2014Iran,2014,Iran,11,3,1
+2014Iraq,2014,Iraq,23,1,1
+2014Israel,2014,Israel,276,6,8
+2014Japan,2014,Japan,96,6,1
+2014Jordan,2014,Jordan,15,1,0
+2014Kazakhstan,2014,Kazakhstan,7,0,0
+2014Kenya,2014,Kenya,8,0,0
+2014Kuwait,2014,Kuwait,3,0,0
+2014Kyrgyzstan,2014,Kyrgyzstan,1,0,1
+2014Latvia,2014,Latvia,0,1,0
+2014Lebanon,2014,Lebanon,28,1,0
+2014Liberia,2014,Liberia,0,1,0
+2014Libya,2014,Libya,3,1,0
+2014Malaysia,2014,Malaysia,177,39,9
+2014Mauritania,2014,Mauritania,1,0,1
+2014Mauritius,2014,Mauritius,64,23,3
+2014Mexico,2014,Mexico,27,1,1
+2014Moldova,2014,Moldova,4,1,1
+2014Monaco,2014,Monaco,1,0,0
+2014Morocco,2014,Morocco,12,1,0
+2014Myanmar,2014,Myanmar,3,0,0
+2014Nepal,2014,Nepal,11,4,0
+2014New_Zealand,2014,New Zealand,42,6,0
+2014Nicaragua,2014,Nicaragua,2,0,0
+2014Niger,2014,Niger,1,0,0
+2014Nigeria,2014,Nigeria,89,6,4
+2014North_Macedonia,2014,North Macedonia,1,0,0
+2014Oman,2014,Oman,3,0,0
+2014Pakistan,2014,Pakistan,507,41,17
+2014Paraguay,2014,Paraguay,2,0,0
+2014Peru,2014,Peru,3,0,0
+2014Philippines,2014,Philippines,122,23,2
+2014Qatar,2014,Qatar,1,0,0
+2014Romania,2014,Romania,1,0,0
+2014Russia,2014,Russia,111,4,2
+2014Saint_Kitts_&_Nevis,2014,Saint Kitts & Nevis,2,1,0
+2014Saudi_Arabia,2014,Saudi Arabia,4,0,0
+2014Serbia,2014,Serbia,17,3,0
+2014Seychelles,2014,Seychelles,1,0,0
+2014Singapore,2014,Singapore,7,4,0
+2014Somalia,2014,Somalia,1,0,0
+2014South_Africa,2014,South Africa,90,34,0
+2014South_Korea,2014,South Korea,32,5,2
+2014Sri_Lanka,2014,Sri Lanka,40,8,2
+2014State_of_Palestine,2014,State of Palestine,5,0,0
+2014Sudan,2014,Sudan,125,12,1
+2014Syria,2014,Syria,17,2,1
+2014Tanzania,2014,Tanzania,3,1,0
+2014Thailand,2014,Thailand,18,8,0
+2014Trinidad_and_Tobago,2014,Trinidad and Tobago,15,1,2
+2014Tunisia,2014,Tunisia,4,0,0
+2014Turkey,2014,Turkey,116,9,1
+2014Uganda,2014,Uganda,1,0,0
+2014Ukraine,2014,Ukraine,91,6,2
+2014United_Arab_Emirates,2014,United Arab Emirates,7,0,0
+2014United_Kingdom,2014,United Kingdom,1,0,0
+2014United_States,2014,United States,685,54,15
+2014Uruguay,2014,Uruguay,1,0,0
+2014Uzbekistan,2014,Uzbekistan,1,0,0
+2014Venezuela,2014,Venezuela,37,4,0
+2014Vietnam,2014,Vietnam,5,2,0
+2014Zambia,2014,Zambia,0,2,0
+2014Zimbabwe,2014,Zimbabwe,6,2,0

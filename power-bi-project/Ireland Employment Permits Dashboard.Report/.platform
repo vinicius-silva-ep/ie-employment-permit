@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Ireland Employment Permits Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f8518639-7b6c-4c9d-88f5-faaa6416173f"
+  }
+}
