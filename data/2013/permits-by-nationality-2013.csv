@@ -1,90 +1,90 @@
-id_country,Year,Country,Issued,Refused,Withdrawn
-2013Albania,2013,Albania,5,0,0
-2013Algeria,2013,Algeria,2,1,0
-2013Argentina,2013,Argentina,15,3,1
-2013Armenia,2013,Armenia,3,0,0
-2013Australia,2013,Australia,55,14,4
-2013Azerbaijan,2013,Azerbaijan,2,0,0
-2013Bahrain,2013,Bahrain,1,0,0
-2013Bangladesh,2013,Bangladesh,21,16,2
-2013Barbados,2013,Barbados,1,0,0
-2013Belarus,2013,Belarus,18,0,0
-2013Bolivia,2013,Bolivia,0,1,0
-2013Bosnia_and_Herzegovina,2013,Bosnia and Herzegovina,3,0,0
-2013Botswana,2013,Botswana,1,0,0
-2013Brazil,2013,Brazil,116,57,6
-2013Cameroon,2013,Cameroon,1,0,0
-2013Canada,2013,Canada,91,4,1
-2013China,2013,China,215,49,6
-2013Colombia,2013,Colombia,3,1,0
-2013Costa_Rica,2013,Costa Rica,3,0,0
-2013Croatia,2013,Croatia,11,1,0
-2013Côte_d'Ivoire,2013,Côte d'Ivoire,1,0,0
-2013Dominican_Republic,2013,Dominican Republic,1,0,0
-2013Ecuador,2013,Ecuador,1,0,0
-2013Egypt,2013,Egypt,48,6,3
-2013El_Salvador,2013,El Salvador,1,0,0
-2013Ethiopia,2013,Ethiopia,5,0,0
-2013Georgia,2013,Georgia,1,0,0
-2013Ghana,2013,Ghana,2,2,0
-2013Guatemala,2013,Guatemala,1,1,0
-2013India,2013,India,1410,101,54
-2013Indonesia,2013,Indonesia,7,0,0
-2013Iran,2013,Iran,7,0,1
-2013Iraq,2013,Iraq,3,1,0
-2013Ireland,2013,Ireland,0,1,0
-2013Israel,2013,Israel,45,1,0
-2013Jamaica,2013,Jamaica,1,0,0
-2013Japan,2013,Japan,80,4,1
-2013Jordan,2013,Jordan,5,2,0
-2013Kazakhstan,2013,Kazakhstan,6,0,0
-2013Kenya,2013,Kenya,1,0,0
-2013Kuwait,2013,Kuwait,3,0,0
-2013Kyrgyzstan,2013,Kyrgyzstan,0,0,1
-2013Latvia,2013,Latvia,2,1,0
-2013Lebanon,2013,Lebanon,25,0,0
-2013Libya,2013,Libya,2,1,0
-2013Malaysia,2013,Malaysia,81,19,2
-2013Mauritania,2013,Mauritania,2,6,0
-2013Mauritius,2013,Mauritius,27,47,2
-2013Mexico,2013,Mexico,28,2,0
-2013Moldova,2013,Moldova,3,4,0
-2013Mongolia,2013,Mongolia,1,0,0
-2013Morocco,2013,Morocco,15,3,1
-2013Nepal,2013,Nepal,12,4,0
-2013New_Zealand,2013,New Zealand,32,8,2
-2013Nicaragua,2013,Nicaragua,1,0,0
-2013Nigeria,2013,Nigeria,26,5,1
-2013North_Macedonia,2013,North Macedonia,2,1,0
-2013Pakistan,2013,Pakistan,121,30,4
-2013Paraguay,2013,Paraguay,1,1,0
-2013Peru,2013,Peru,3,0,0
-2013Philippines,2013,Philippines,211,43,9
-2013Russia,2013,Russia,99,6,3
-2013Samoa,2013,Samoa,0,3,0
-2013Saudi_Arabia,2013,Saudi Arabia,4,0,0
-2013Serbia,2013,Serbia,14,3,0
-2013Singapore,2013,Singapore,9,2,0
-2013South_Africa,2013,South Africa,79,13,3
-2013South_Korea,2013,South Korea,13,5,2
-2013Sri_Lanka,2013,Sri Lanka,9,2,0
-2013State_of_Palestine,2013,State of Palestine,1,0,0
-2013Sudan,2013,Sudan,9,4,0
-2013Syria,2013,Syria,11,0,0
-2013Tanzania,2013,Tanzania,1,0,0
-2013Thailand,2013,Thailand,38,5,0
-2013Trinidad_and_Tobago,2013,Trinidad and Tobago,1,0,0
-2013Tunisia,2013,Tunisia,3,0,0
-2013Turkey,2013,Turkey,69,9,4
-2013Turkmenistan,2013,Turkmenistan,2,0,0
-2013Uganda,2013,Uganda,2,1,0
-2013Ukraine,2013,Ukraine,84,17,1
-2013United_Arab_Emirates,2013,United Arab Emirates,3,0,0
-2013United_Kingdom,2013,United Kingdom,1,0,0
-2013United_States,2013,United States,583,24,7
-2013Uruguay,2013,Uruguay,1,0,0
-2013Uzbekistan,2013,Uzbekistan,2,1,0
-2013Venezuela,2013,Venezuela,13,1,1
-2013Vietnam,2013,Vietnam,8,1,0
-2013Zambia,2013,Zambia,2,0,0
-2013Zimbabwe,2013,Zimbabwe,11,3,0
+Year,Country,Issued,Refused,Withdrawn
+2013,Albania,5,0,0
+2013,Algeria,2,1,0
+2013,Argentina,15,3,1
+2013,Armenia,3,0,0
+2013,Australia,55,14,4
+2013,Azerbaijan,2,0,0
+2013,Bahrain,1,0,0
+2013,Bangladesh,21,16,2
+2013,Barbados,1,0,0
+2013,Belarus,18,0,0
+2013,Bolivia,0,1,0
+2013,Bosnia and Herzegovina,3,0,0
+2013,Botswana,1,0,0
+2013,Brazil,116,57,6
+2013,Cameroon,1,0,0
+2013,Canada,91,4,1
+2013,China,215,49,6
+2013,Colombia,3,1,0
+2013,Costa Rica,3,0,0
+2013,Croatia,11,1,0
+2013,Côte d'Ivoire,1,0,0
+2013,Dominican Republic,1,0,0
+2013,Ecuador,1,0,0
+2013,Egypt,48,6,3
+2013,El Salvador,1,0,0
+2013,Ethiopia,5,0,0
+2013,Georgia,1,0,0
+2013,Ghana,2,2,0
+2013,Guatemala,1,1,0
+2013,India,1410,101,54
+2013,Indonesia,7,0,0
+2013,Iran,7,0,1
+2013,Iraq,3,1,0
+2013,Ireland,0,1,0
+2013,Israel,45,1,0
+2013,Jamaica,1,0,0
+2013,Japan,80,4,1
+2013,Jordan,5,2,0
+2013,Kazakhstan,6,0,0
+2013,Kenya,1,0,0
+2013,Kuwait,3,0,0
+2013,Kyrgyzstan,0,0,1
+2013,Latvia,2,1,0
+2013,Lebanon,25,0,0
+2013,Libya,2,1,0
+2013,Malaysia,81,19,2
+2013,Mauritania,2,6,0
+2013,Mauritius,27,47,2
+2013,Mexico,28,2,0
+2013,Moldova,3,4,0
+2013,Mongolia,1,0,0
+2013,Morocco,15,3,1
+2013,Nepal,12,4,0
+2013,New Zealand,32,8,2
+2013,Nicaragua,1,0,0
+2013,Nigeria,26,5,1
+2013,North Macedonia,2,1,0
+2013,Pakistan,121,30,4
+2013,Paraguay,1,1,0
+2013,Peru,3,0,0
+2013,Philippines,211,43,9
+2013,Russia,99,6,3
+2013,Samoa,0,3,0
+2013,Saudi Arabia,4,0,0
+2013,Serbia,14,3,0
+2013,Singapore,9,2,0
+2013,South Africa,79,13,3
+2013,South Korea,13,5,2
+2013,Sri Lanka,9,2,0
+2013,State of Palestine,1,0,0
+2013,Sudan,9,4,0
+2013,Syria,11,0,0
+2013,Tanzania,1,0,0
+2013,Thailand,38,5,0
+2013,Trinidad and Tobago,1,0,0
+2013,Tunisia,3,0,0
+2013,Turkey,69,9,4
+2013,Turkmenistan,2,0,0
+2013,Uganda,2,1,0
+2013,Ukraine,84,17,1
+2013,United Arab Emirates,3,0,0
+2013,United Kingdom,1,0,0
+2013,United States,583,24,7
+2013,Uruguay,1,0,0
+2013,Uzbekistan,2,1,0
+2013,Venezuela,13,1,1
+2013,Vietnam,8,1,0
+2013,Zambia,2,0,0
+2013,Zimbabwe,11,3,0

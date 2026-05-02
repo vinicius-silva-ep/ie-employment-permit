@@ -1,103 +1,103 @@
-id_country,Year,Country,Issued,Refused,Withdrawn
-2018Afghanistan,2018,Afghanistan,6,0,0
-2018Albania,2018,Albania,12,3,0
-2018Algeria,2018,Algeria,11,3,0
-2018Angola,2018,Angola,2,0,0
-2018Argentina,2018,Argentina,55,6,0
-2018Armenia,2018,Armenia,13,0,1
-2018Australia,2018,Australia,132,20,8
-2018Azerbaijan,2018,Azerbaijan,5,0,0
-2018Bahrain,2018,Bahrain,3,0,0
-2018Bangladesh,2018,Bangladesh,41,23,3
-2018Barbados,2018,Barbados,0,1,0
-2018Belarus,2018,Belarus,17,5,0
-2018Benin,2018,Benin,1,0,0
-2018Bolivia,2018,Bolivia,0,1,0
-2018Bosnia_and_Herzegovina,2018,Bosnia and Herzegovina,7,0,0
-2018Botswana,2018,Botswana,5,3,1
-2018Brazil,2018,Brazil,1426,197,57
-2018Cameroon,2018,Cameroon,7,1,0
-2018Canada,2018,Canada,181,21,14
-2018Chile,2018,Chile,9,3,4
-2018China,2018,China,413,111,17
-2018Colombia,2018,Colombia,14,4,3
-2018Costa_Rica,2018,Costa Rica,8,1,0
-2018Cuba,2018,Cuba,2,0,0
-2018Côte_d'Ivoire,2018,Côte d'Ivoire,2,0,1
-2018DR_Congo,2018,DR Congo,1,0,0
-2018Dominican_Republic,2018,Dominican Republic,2,0,1
-2018Ecuador,2018,Ecuador,5,1,0
-2018Egypt,2018,Egypt,347,20,25
-2018El_Salvador,2018,El Salvador,3,0,0
-2018Eswatini,2018,Eswatini,1,0,0
-2018Ethiopia,2018,Ethiopia,3,2,0
-2018Fiji,2018,Fiji,0,1,0
-2018Gambia,2018,Gambia,0,0,1
-2018Georgia,2018,Georgia,9,4,1
-2018Ghana,2018,Ghana,16,0,1
-2018Guatemala,2018,Guatemala,2,0,0
-2018Haiti,2018,Haiti,1,0,0
-2018Honduras,2018,Honduras,5,0,0
-2018India,2018,India,4313,250,131
-2018Indonesia,2018,Indonesia,16,1,0
-2018Iran,2018,Iran,43,5,2
-2018Iraq,2018,Iraq,34,1,3
-2018Ireland,2018,Ireland,12,4,0
-2018Israel,2018,Israel,94,4,1
-2018Japan,2018,Japan,137,7,5
-2018Jordan,2018,Jordan,39,1,1
-2018Kazakhstan,2018,Kazakhstan,15,0,0
-2018Kenya,2018,Kenya,13,0,0
-2018Kuwait,2018,Kuwait,3,0,0
-2018Kyrgyzstan,2018,Kyrgyzstan,1,1,0
-2018Lebanon,2018,Lebanon,39,1,0
-2018Lesotho,2018,Lesotho,1,0,0
-2018Libya,2018,Libya,34,0,1
-2018Madagascar,2018,Madagascar,0,1,1
-2018Malawi,2018,Malawi,6,3,0
-2018Malaysia,2018,Malaysia,308,33,11
-2018Mauritius,2018,Mauritius,57,23,3
-2018Mexico,2018,Mexico,59,14,2
-2018Moldova,2018,Moldova,4,1,0
-2018Mongolia,2018,Mongolia,1,0,0
-2018Morocco,2018,Morocco,24,5,0
-2018Myanmar,2018,Myanmar,6,0,0
-2018Namibia,2018,Namibia,1,0,0
-2018Nepal,2018,Nepal,62,22,1
-2018New_Zealand,2018,New Zealand,56,4,9
-2018Nigeria,2018,Nigeria,223,22,19
-2018North_Macedonia,2018,North Macedonia,8,1,0
-2018Oman,2018,Oman,1,2,0
-2018Pakistan,2018,Pakistan,1026,56,58
-2018Panama,2018,Panama,0,1,0
-2018Peru,2018,Peru,7,1,1
-2018Philippines,2018,Philippines,802,63,15
-2018Russia,2018,Russia,211,7,4
-2018Samoa,2018,Samoa,1,0,0
-2018Saudi_Arabia,2018,Saudi Arabia,21,4,1
-2018Serbia,2018,Serbia,29,4,1
-2018Seychelles,2018,Seychelles,1,0,0
-2018Singapore,2018,Singapore,25,2,3
-2018South_Africa,2018,South Africa,435,68,20
-2018South_Korea,2018,South Korea,37,10,1
-2018Sri_Lanka,2018,Sri Lanka,61,4,3
-2018St._Vincent_&_Grenadines,2018,St. Vincent & Grenadines,1,1,0
-2018State_of_Palestine,2018,State of Palestine,13,0,0
-2018Sudan,2018,Sudan,515,9,24
-2018Syria,2018,Syria,23,1,0
-2018Thailand,2018,Thailand,28,8,5
-2018Trinidad_and_Tobago,2018,Trinidad and Tobago,24,1,1
-2018Tunisia,2018,Tunisia,19,6,0
-2018Turkey,2018,Turkey,272,16,8
-2018Turkmenistan,2018,Turkmenistan,1,0,0
-2018Uganda,2018,Uganda,4,0,0
-2018Ukraine,2018,Ukraine,317,19,10
-2018United_States,2018,United States,958,89,47
-2018Uruguay,2018,Uruguay,2,1,0
-2018Uzbekistan,2018,Uzbekistan,1,0,1
-2018Vanuatu,2018,Vanuatu,1,0,0
-2018Venezuela,2018,Venezuela,58,10,3
-2018Vietnam,2018,Vietnam,20,1,1
-2018Yemen,2018,Yemen,6,0,0
-2018Zambia,2018,Zambia,6,0,0
-2018Zimbabwe,2018,Zimbabwe,96,28,7
+Year,Country,Issued,Refused,Withdrawn
+2018,Afghanistan,6,0,0
+2018,Albania,12,3,0
+2018,Algeria,11,3,0
+2018,Angola,2,0,0
+2018,Argentina,55,6,0
+2018,Armenia,13,0,1
+2018,Australia,132,20,8
+2018,Azerbaijan,5,0,0
+2018,Bahrain,3,0,0
+2018,Bangladesh,41,23,3
+2018,Barbados,0,1,0
+2018,Belarus,17,5,0
+2018,Benin,1,0,0
+2018,Bolivia,0,1,0
+2018,Bosnia and Herzegovina,7,0,0
+2018,Botswana,5,3,1
+2018,Brazil,1426,197,57
+2018,Cameroon,7,1,0
+2018,Canada,181,21,14
+2018,Chile,9,3,4
+2018,China,413,111,17
+2018,Colombia,14,4,3
+2018,Costa Rica,8,1,0
+2018,Cuba,2,0,0
+2018,Côte d'Ivoire,2,0,1
+2018,DR Congo,1,0,0
+2018,Dominican Republic,2,0,1
+2018,Ecuador,5,1,0
+2018,Egypt,347,20,25
+2018,El Salvador,3,0,0
+2018,Eswatini,1,0,0
+2018,Ethiopia,3,2,0
+2018,Fiji,0,1,0
+2018,Gambia,0,0,1
+2018,Georgia,9,4,1
+2018,Ghana,16,0,1
+2018,Guatemala,2,0,0
+2018,Haiti,1,0,0
+2018,Honduras,5,0,0
+2018,India,4313,250,131
+2018,Indonesia,16,1,0
+2018,Iran,43,5,2
+2018,Iraq,34,1,3
+2018,Ireland,12,4,0
+2018,Israel,94,4,1
+2018,Japan,137,7,5
+2018,Jordan,39,1,1
+2018,Kazakhstan,15,0,0
+2018,Kenya,13,0,0
+2018,Kuwait,3,0,0
+2018,Kyrgyzstan,1,1,0
+2018,Lebanon,39,1,0
+2018,Lesotho,1,0,0
+2018,Libya,34,0,1
+2018,Madagascar,0,1,1
+2018,Malawi,6,3,0
+2018,Malaysia,308,33,11
+2018,Mauritius,57,23,3
+2018,Mexico,59,14,2
+2018,Moldova,4,1,0
+2018,Mongolia,1,0,0
+2018,Morocco,24,5,0
+2018,Myanmar,6,0,0
+2018,Namibia,1,0,0
+2018,Nepal,62,22,1
+2018,New Zealand,56,4,9
+2018,Nigeria,223,22,19
+2018,North Macedonia,8,1,0
+2018,Oman,1,2,0
+2018,Pakistan,1026,56,58
+2018,Panama,0,1,0
+2018,Peru,7,1,1
+2018,Philippines,802,63,15
+2018,Russia,211,7,4
+2018,Samoa,1,0,0
+2018,Saudi Arabia,21,4,1
+2018,Serbia,29,4,1
+2018,Seychelles,1,0,0
+2018,Singapore,25,2,3
+2018,South Africa,435,68,20
+2018,South Korea,37,10,1
+2018,Sri Lanka,61,4,3
+2018,St. Vincent & Grenadines,1,1,0
+2018,State of Palestine,13,0,0
+2018,Sudan,515,9,24
+2018,Syria,23,1,0
+2018,Thailand,28,8,5
+2018,Trinidad and Tobago,24,1,1
+2018,Tunisia,19,6,0
+2018,Turkey,272,16,8
+2018,Turkmenistan,1,0,0
+2018,Uganda,4,0,0
+2018,Ukraine,317,19,10
+2018,United States,958,89,47
+2018,Uruguay,2,1,0
+2018,Uzbekistan,1,0,1
+2018,Vanuatu,1,0,0
+2018,Venezuela,58,10,3
+2018,Vietnam,20,1,1
+2018,Yemen,6,0,0
+2018,Zambia,6,0,0
+2018,Zimbabwe,96,28,7

@@ -1,139 +1,139 @@
-id_country,Year,Country,Issued,Refused,Withdrawn
-2022Afghanistan,2022,Afghanistan,48.0,0.0,0.0
-2022Albania,2022,Albania,37.0,23.0,6.0
-2022Algeria,2022,Algeria,35.0,1.0,3.0
-2022Angola,2022,Angola,2.0,0.0,0.0
-2022Argentina,2022,Argentina,120.0,31.0,7.0
-2022Armenia,2022,Armenia,22.0,0.0,0.0
-2022Australia,2022,Australia,95.0,9.0,5.0
-2022Azerbaijan,2022,Azerbaijan,17.0,1.0,0.0
-2022Bahamas,2022,Bahamas,1.0,0.0,0.0
-2022Bahrain,2022,Bahrain,6.0,0.0,1.0
-2022Bangladesh,2022,Bangladesh,157.0,50.0,5.0
-2022Barbados,2022,Barbados,2.0,0.0,0.0
-2022Belarus,2022,Belarus,83.0,9.0,4.0
-2022Belize,2022,Belize,1.0,4.0,0.0
-2022Benin,2022,Benin,1.0,0.0,0.0
-2022Bhutan,2022,Bhutan,0.0,1.0,0.0
-2022Bolivia,2022,Bolivia,34.0,5.0,1.0
-2022Bosnia_and_Herzegovina,2022,Bosnia and Herzegovina,40.0,3.0,2.0
-2022Botswana,2022,Botswana,33.0,5.0,4.0
-2022Brazil,2022,Brazil,4304.0,451.0,365.0
-2022Brunei,2022,Brunei,7.0,0.0,2.0
-2022Bulgaria,2022,Bulgaria,1.0,0.0,0.0
-2022Burkina_Faso,2022,Burkina Faso,1.0,0.0,0.0
-2022Cambodia,2022,Cambodia,72.0,0.0,0.0
-2022Cameroon,2022,Cameroon,35.0,21.0,4.0
-2022Canada,2022,Canada,285.0,19.0,21.0
-2022Central_African_Republic,2022,Central African Republic,1.0,0.0,0.0
-2022Chad,2022,Chad,1.0,0.0,0.0
-2022Chile,2022,Chile,77.0,17.0,3.0
-2022China,2022,China,1670.0,135.0,37.0
-2022Colombia,2022,Colombia,100.0,3.0,0.0
-2022Costa_Rica,2022,Costa Rica,41.0,2.0,1.0
-2022Cuba,2022,Cuba,5.0,3.0,0.0
-2022Côte_d'Ivoire,2022,Côte d'Ivoire,6.0,1.0,0.0
-2022DR_Congo,2022,DR Congo,7.0,1.0,0.0
-2022Djibouti,2022,Djibouti,1.0,0.0,0.0
-2022Dominica,2022,Dominica,5.0,0.0,0.0
-2022Dominican_Republic,2022,Dominican Republic,7.0,0.0,1.0
-2022Ecuador,2022,Ecuador,7.0,1.0,0.0
-2022Egypt,2022,Egypt,419.0,6.0,15.0
-2022El_Salvador,2022,El Salvador,23.0,5.0,0.0
-2022Equatorial_Guinea,2022,Equatorial Guinea,3.0,0.0,0.0
-2022Eritrea,2022,Eritrea,1.0,0.0,0.0
-2022Eswatini,2022,Eswatini,4.0,0.0,0.0
-2022Ethiopia,2022,Ethiopia,10.0,1.0,1.0
-2022Fiji,2022,Fiji,3.0,3.0,0.0
-2022Gambia,2022,Gambia,2.0,0.0,0.0
-2022Georgia,2022,Georgia,16.0,4.0,1.0
-2022Ghana,2022,Ghana,138.0,18.0,0.0
-2022Grenada,2022,Grenada,2.0,0.0,0.0
-2022Guatemala,2022,Guatemala,9.0,2.0,0.0
-2022Guinea,2022,Guinea,2.0,0.0,0.0
-2022Guyana,2022,Guyana,0.0,2.0,0.0
-2022Haiti,2022,Haiti,2.0,2.0,0.0
-2022Honduras,2022,Honduras,20.0,4.0,1.0
-2022India,2022,India,15695.0,1116.0,400.0
-2022Indonesia,2022,Indonesia,74.0,5.0,10.0
-2022Iran,2022,Iran,115.0,9.0,5.0
-2022Iraq,2022,Iraq,45.0,3.0,2.0
-2022Israel,2022,Israel,375.0,7.0,8.0
-2022Jamaica,2022,Jamaica,5.0,1.0,0.0
-2022Japan,2022,Japan,279.0,12.0,2.0
-2022Jordan,2022,Jordan,74.0,3.0,2.0
-2022Kazakhstan,2022,Kazakhstan,45.0,2.0,3.0
-2022Kenya,2022,Kenya,128.0,8.0,6.0
-2022Kuwait,2022,Kuwait,2.0,0.0,0.0
-2022Kyrgyzstan,2022,Kyrgyzstan,17.0,1.0,0.0
-2022Laos,2022,Laos,2.0,0.0,0.0
-2022Latvia,2022,Latvia,1.0,0.0,0.0
-2022Lebanon,2022,Lebanon,126.0,8.0,5.0
-2022Lesotho,2022,Lesotho,6.0,0.0,0.0
-2022Libya,2022,Libya,19.0,0.0,1.0
-2022Malawi,2022,Malawi,31.0,6.0,3.0
-2022Malaysia,2022,Malaysia,726.0,60.0,33.0
-2022Maldives,2022,Maldives,2.0,0.0,0.0
-2022Mali,2022,Mali,2.0,0.0,0.0
-2022Malta,2022,Malta,1.0,0.0,0.0
-2022Mauritius,2022,Mauritius,54.0,9.0,2.0
-2022Mexico,2022,Mexico,317.0,52.0,11.0
-2022Moldova,2022,Moldova,86.0,9.0,2.0
-2022Mongolia,2022,Mongolia,11.0,11.0,0.0
-2022Montenegro,2022,Montenegro,0.0,2.0,0.0
-2022Morocco,2022,Morocco,99.0,8.0,2.0
-2022Myanmar,2022,Myanmar,5.0,5.0,0.0
-2022Namibia,2022,Namibia,6.0,0.0,0.0
-2022Nepal,2022,Nepal,262.0,36.0,10.0
-2022New_Zealand,2022,New Zealand,57.0,6.0,3.0
-2022Nicaragua,2022,Nicaragua,7.0,0.0,0.0
-2022Niger,2022,Niger,1.0,0.0,0.0
-2022Nigeria,2022,Nigeria,1121.0,167.0,56.0
-2022North_Korea,2022,North Korea,1.0,0.0,0.0
-2022North_Macedonia,2022,North Macedonia,15.0,3.0,1.0
-2022Oman,2022,Oman,22.0,0.0,4.0
-2022Pakistan,2022,Pakistan,1757.0,128.0,101.0
-2022Panama,2022,Panama,11.0,1.0,0.0
-2022Papua_New_Guinea,2022,Papua New Guinea,1.0,0.0,0.0
-2022Paraguay,2022,Paraguay,10.0,1.0,0.0
-2022Peru,2022,Peru,25.0,1.0,2.0
-2022Philippines,2022,Philippines,2203.0,300.0,98.0
-2022Qatar,2022,Qatar,1.0,0.0,0.0
-2022Russia,2022,Russia,727.0,12.0,10.0
-2022Rwanda,2022,Rwanda,1.0,0.0,0.0
-2022Saint_Kitts_&_Nevis,2022,Saint Kitts & Nevis,2.0,1.0,0.0
-2022Saint_Lucia,2022,Saint Lucia,0.0,2.0,0.0
-2022Saudi_Arabia,2022,Saudi Arabia,38.0,0.0,4.0
-2022Senegal,2022,Senegal,10.0,1.0,0.0
-2022Serbia,2022,Serbia,103.0,9.0,1.0
-2022Seychelles,2022,Seychelles,0.0,1.0,0.0
-2022Sierra_Leone,2022,Sierra Leone,1.0,0.0,0.0
-2022Singapore,2022,Singapore,52.0,4.0,2.0
-2022Somalia,2022,Somalia,6.0,0.0,0.0
-2022South_Africa,2022,South Africa,1317.0,195.0,80.0
-2022South_Korea,2022,South Korea,147.0,5.0,2.0
-2022Sri_Lanka,2022,Sri Lanka,423.0,51.0,8.0
-2022State_of_Palestine,2022,State of Palestine,24.0,2.0,0.0
-2022Sudan,2022,Sudan,607.0,14.0,44.0
-2022Syria,2022,Syria,23.0,2.0,2.0
-2022Tajikistan,2022,Tajikistan,4.0,0.0,0.0
-2022Tanzania,2022,Tanzania,19.0,3.0,0.0
-2022Thailand,2022,Thailand,504.0,84.0,8.0
-2022Togo,2022,Togo,3.0,0.0,0.0
-2022Tonga,2022,Tonga,2.0,0.0,0.0
-2022Trinidad_and_Tobago,2022,Trinidad and Tobago,22.0,3.0,4.0
-2022Tunisia,2022,Tunisia,94.0,5.0,1.0
-2022Turkey,2022,Turkey,637.0,53.0,17.0
-2022Uganda,2022,Uganda,54.0,23.0,3.0
-2022Ukraine,2022,Ukraine,593.0,42.0,46.0
-2022United_Arab_Emirates,2022,United Arab Emirates,3.0,0.0,0.0
-2022United_Kingdom,2022,United Kingdom,1.0,0.0,0.0
-2022United_States,2022,United States,1216.0,65.0,45.0
-2022Uruguay,2022,Uruguay,11.0,2.0,1.0
-2022Uzbekistan,2022,Uzbekistan,5.0,0.0,0.0
-2022Vanuatu,2022,Vanuatu,4.0,0.0,0.0
-2022Venezuela,2022,Venezuela,46.0,6.0,3.0
-2022Vietnam,2022,Vietnam,779.0,18.0,16.0
-2022Yemen,2022,Yemen,4.0,0.0,0.0
-2022Zambia,2022,Zambia,25.0,2.0,2.0
-2022Zimbabwe,2022,Zimbabwe,585.0,48.0,144.0
+Year,Country,Issued,Refused,Withdrawn
+2022,Afghanistan,48.0,0.0,0.0
+2022,Albania,37.0,23.0,6.0
+2022,Algeria,35.0,1.0,3.0
+2022,Angola,2.0,0.0,0.0
+2022,Argentina,120.0,31.0,7.0
+2022,Armenia,22.0,0.0,0.0
+2022,Australia,95.0,9.0,5.0
+2022,Azerbaijan,17.0,1.0,0.0
+2022,Bahamas,1.0,0.0,0.0
+2022,Bahrain,6.0,0.0,1.0
+2022,Bangladesh,157.0,50.0,5.0
+2022,Barbados,2.0,0.0,0.0
+2022,Belarus,83.0,9.0,4.0
+2022,Belize,1.0,4.0,0.0
+2022,Benin,1.0,0.0,0.0
+2022,Bhutan,0.0,1.0,0.0
+2022,Bolivia,34.0,5.0,1.0
+2022,Bosnia and Herzegovina,40.0,3.0,2.0
+2022,Botswana,33.0,5.0,4.0
+2022,Brazil,4304.0,451.0,365.0
+2022,Brunei,7.0,0.0,2.0
+2022,Bulgaria,1.0,0.0,0.0
+2022,Burkina Faso,1.0,0.0,0.0
+2022,Cambodia,72.0,0.0,0.0
+2022,Cameroon,35.0,21.0,4.0
+2022,Canada,285.0,19.0,21.0
+2022,Central African Republic,1.0,0.0,0.0
+2022,Chad,1.0,0.0,0.0
+2022,Chile,77.0,17.0,3.0
+2022,China,1670.0,135.0,37.0
+2022,Colombia,100.0,3.0,0.0
+2022,Costa Rica,41.0,2.0,1.0
+2022,Cuba,5.0,3.0,0.0
+2022,Côte d'Ivoire,6.0,1.0,0.0
+2022,DR Congo,7.0,1.0,0.0
+2022,Djibouti,1.0,0.0,0.0
+2022,Dominica,5.0,0.0,0.0
+2022,Dominican Republic,7.0,0.0,1.0
+2022,Ecuador,7.0,1.0,0.0
+2022,Egypt,419.0,6.0,15.0
+2022,El Salvador,23.0,5.0,0.0
+2022,Equatorial Guinea,3.0,0.0,0.0
+2022,Eritrea,1.0,0.0,0.0
+2022,Eswatini,4.0,0.0,0.0
+2022,Ethiopia,10.0,1.0,1.0
+2022,Fiji,3.0,3.0,0.0
+2022,Gambia,2.0,0.0,0.0
+2022,Georgia,16.0,4.0,1.0
+2022,Ghana,138.0,18.0,0.0
+2022,Grenada,2.0,0.0,0.0
+2022,Guatemala,9.0,2.0,0.0
+2022,Guinea,2.0,0.0,0.0
+2022,Guyana,0.0,2.0,0.0
+2022,Haiti,2.0,2.0,0.0
+2022,Honduras,20.0,4.0,1.0
+2022,India,15695.0,1116.0,400.0
+2022,Indonesia,74.0,5.0,10.0
+2022,Iran,115.0,9.0,5.0
+2022,Iraq,45.0,3.0,2.0
+2022,Israel,375.0,7.0,8.0
+2022,Jamaica,5.0,1.0,0.0
+2022,Japan,279.0,12.0,2.0
+2022,Jordan,74.0,3.0,2.0
+2022,Kazakhstan,45.0,2.0,3.0
+2022,Kenya,128.0,8.0,6.0
+2022,Kuwait,2.0,0.0,0.0
+2022,Kyrgyzstan,17.0,1.0,0.0
+2022,Laos,2.0,0.0,0.0
+2022,Latvia,1.0,0.0,0.0
+2022,Lebanon,126.0,8.0,5.0
+2022,Lesotho,6.0,0.0,0.0
+2022,Libya,19.0,0.0,1.0
+2022,Malawi,31.0,6.0,3.0
+2022,Malaysia,726.0,60.0,33.0
+2022,Maldives,2.0,0.0,0.0
+2022,Mali,2.0,0.0,0.0
+2022,Malta,1.0,0.0,0.0
+2022,Mauritius,54.0,9.0,2.0
+2022,Mexico,317.0,52.0,11.0
+2022,Moldova,86.0,9.0,2.0
+2022,Mongolia,11.0,11.0,0.0
+2022,Montenegro,0.0,2.0,0.0
+2022,Morocco,99.0,8.0,2.0
+2022,Myanmar,5.0,5.0,0.0
+2022,Namibia,6.0,0.0,0.0
+2022,Nepal,262.0,36.0,10.0
+2022,New Zealand,57.0,6.0,3.0
+2022,Nicaragua,7.0,0.0,0.0
+2022,Niger,1.0,0.0,0.0
+2022,Nigeria,1121.0,167.0,56.0
+2022,North Korea,1.0,0.0,0.0
+2022,North Macedonia,15.0,3.0,1.0
+2022,Oman,22.0,0.0,4.0
+2022,Pakistan,1757.0,128.0,101.0
+2022,Panama,11.0,1.0,0.0
+2022,Papua New Guinea,1.0,0.0,0.0
+2022,Paraguay,10.0,1.0,0.0
+2022,Peru,25.0,1.0,2.0
+2022,Philippines,2203.0,300.0,98.0
+2022,Qatar,1.0,0.0,0.0
+2022,Russia,727.0,12.0,10.0
+2022,Rwanda,1.0,0.0,0.0
+2022,Saint Kitts & Nevis,2.0,1.0,0.0
+2022,Saint Lucia,0.0,2.0,0.0
+2022,Saudi Arabia,38.0,0.0,4.0
+2022,Senegal,10.0,1.0,0.0
+2022,Serbia,103.0,9.0,1.0
+2022,Seychelles,0.0,1.0,0.0
+2022,Sierra Leone,1.0,0.0,0.0
+2022,Singapore,52.0,4.0,2.0
+2022,Somalia,6.0,0.0,0.0
+2022,South Africa,1317.0,195.0,80.0
+2022,South Korea,147.0,5.0,2.0
+2022,Sri Lanka,423.0,51.0,8.0
+2022,State of Palestine,24.0,2.0,0.0
+2022,Sudan,607.0,14.0,44.0
+2022,Syria,23.0,2.0,2.0
+2022,Tajikistan,4.0,0.0,0.0
+2022,Tanzania,19.0,3.0,0.0
+2022,Thailand,504.0,84.0,8.0
+2022,Togo,3.0,0.0,0.0
+2022,Tonga,2.0,0.0,0.0
+2022,Trinidad and Tobago,22.0,3.0,4.0
+2022,Tunisia,94.0,5.0,1.0
+2022,Turkey,637.0,53.0,17.0
+2022,Uganda,54.0,23.0,3.0
+2022,Ukraine,593.0,42.0,46.0
+2022,United Arab Emirates,3.0,0.0,0.0
+2022,United Kingdom,1.0,0.0,0.0
+2022,United States,1216.0,65.0,45.0
+2022,Uruguay,11.0,2.0,1.0
+2022,Uzbekistan,5.0,0.0,0.0
+2022,Vanuatu,4.0,0.0,0.0
+2022,Venezuela,46.0,6.0,3.0
+2022,Vietnam,779.0,18.0,16.0
+2022,Yemen,4.0,0.0,0.0
+2022,Zambia,25.0,2.0,2.0
+2022,Zimbabwe,585.0,48.0,144.0
