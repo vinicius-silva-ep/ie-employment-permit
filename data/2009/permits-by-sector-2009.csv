@@ -1,112 +1,112 @@
-id_sector,Year,Month,Sector,Issued,Refused,Withdrawn
-2009JanAgriculture_&_Fisheries,2009,Jan,Agriculture & Fisheries,18,10,1
-2009JanCatering,2009,Jan,Catering,91,44,2
-2009JanDomestic,2009,Jan,Domestic,10,2,1
-2009JanEducation,2009,Jan,Education,15,5,0
-2009JanEntertainment,2009,Jan,Entertainment,7,1,0
-2009JanIndustry,2009,Jan,Industry,60,24,1
-2009JanMedical_&_Nursing,2009,Jan,Medical & Nursing,268,39,6
-2009JanService_Industry,2009,Jan,Service Industry,256,73,7
-2009JanSport,2009,Jan,Sport,5,1,0
-2009FebAgriculture_&_Fisheries,2009,Feb,Agriculture & Fisheries,17,12,0
-2009FebCatering,2009,Feb,Catering,134,29,10
-2009FebDomestic,2009,Feb,Domestic,9,1,1
-2009FebEducation,2009,Feb,Education,15,6,1
-2009FebEntertainment,2009,Feb,Entertainment,1,1,0
-2009FebIndustry,2009,Feb,Industry,78,24,2
-2009FebMedical_&_Nursing,2009,Feb,Medical & Nursing,201,33,3
-2009FebService_Industry,2009,Feb,Service Industry,275,62,4
-2009FebSport,2009,Feb,Sport,7,1,0
-2009MarAgriculture_&_Fisheries,2009,Mar,Agriculture & Fisheries,16,8,4
-2009MarCatering,2009,Mar,Catering,86,35,1
-2009MarDomestic,2009,Mar,Domestic,6,3,0
-2009MarEducation,2009,Mar,Education,15,3,0
-2009MarEntertainment,2009,Mar,Entertainment,9,10,0
-2009MarIndustry,2009,Mar,Industry,66,11,1
-2009MarMedical_&_Nursing,2009,Mar,Medical & Nursing,174,41,1
-2009MarService_Industry,2009,Mar,Service Industry,248,63,2
-2009MarSport,2009,Mar,Sport,5,1,0
-2009AprAgriculture_&_Fisheries,2009,Apr,Agriculture & Fisheries,30,10,1
-2009AprCatering,2009,Apr,Catering,74,41,1
-2009AprDomestic,2009,Apr,Domestic,14,2,0
-2009AprEducation,2009,Apr,Education,7,4,0
-2009AprEntertainment,2009,Apr,Entertainment,2,1,0
-2009AprIndustry,2009,Apr,Industry,49,9,1
-2009AprMedical_&_Nursing,2009,Apr,Medical & Nursing,111,30,3
-2009AprService_Industry,2009,Apr,Service Industry,193,47,6
-2009AprSport,2009,Apr,Sport,4,1,0
-2009MayAgriculture_&_Fisheries,2009,May,Agriculture & Fisheries,21,6,0
-2009MayCatering,2009,May,Catering,110,43,2
-2009MayDomestic,2009,May,Domestic,26,4,0
-2009MayEducation,2009,May,Education,8,0,0
-2009MayEntertainment,2009,May,Entertainment,1,0,0
-2009MayExchange_Agreements,2009,May,Exchange Agreements,0,1,0
-2009MayIndustry,2009,May,Industry,98,14,1
-2009MayMedical_&_Nursing,2009,May,Medical & Nursing,116,23,5
-2009MayService_Industry,2009,May,Service Industry,250,35,2
-2009MaySport,2009,May,Sport,7,1,0
-2009JunAgriculture_&_Fisheries,2009,Jun,Agriculture & Fisheries,29,1,3
-2009JunCatering,2009,Jun,Catering,84,18,4
-2009JunDomestic,2009,Jun,Domestic,11,8,0
-2009JunEducation,2009,Jun,Education,15,0,0
-2009JunEntertainment,2009,Jun,Entertainment,4,1,0
-2009JunExchange_Agreements,2009,Jun,Exchange Agreements,3,0,0
-2009JunIndustry,2009,Jun,Industry,59,10,2
-2009JunMedical_&_Nursing,2009,Jun,Medical & Nursing,139,20,4
-2009JunService_Industry,2009,Jun,Service Industry,180,33,7
-2009JunSport,2009,Jun,Sport,2,1,0
-2009JulAgriculture_&_Fisheries,2009,Jul,Agriculture & Fisheries,27,3,1
-2009JulCatering,2009,Jul,Catering,90,51,5
-2009JulDomestic,2009,Jul,Domestic,6,1,1
-2009JulEducation,2009,Jul,Education,14,5,0
-2009JulEntertainment,2009,Jul,Entertainment,2,2,0
-2009JulIndustry,2009,Jul,Industry,39,11,0
-2009JulMedical_&_Nursing,2009,Jul,Medical & Nursing,222,14,4
-2009JulService_Industry,2009,Jul,Service Industry,212,29,15
-2009JulSport,2009,Jul,Sport,7,2,0
-2009AugAgriculture_&_Fisheries,2009,Aug,Agriculture & Fisheries,36,9,0
-2009AugCatering,2009,Aug,Catering,147,20,6
-2009AugDomestic,2009,Aug,Domestic,23,2,0
-2009AugEducation,2009,Aug,Education,21,2,0
-2009AugEntertainment,2009,Aug,Entertainment,7,0,0
-2009AugIndustry,2009,Aug,Industry,71,4,3
-2009AugMedical_&_Nursing,2009,Aug,Medical & Nursing,215,15,4
-2009AugService_Industry,2009,Aug,Service Industry,261,28,4
-2009AugSport,2009,Aug,Sport,7,2,0
-2009SepAgriculture_&_Fisheries,2009,Sep,Agriculture & Fisheries,25,36,2
-2009SepCatering,2009,Sep,Catering,129,111,15
-2009SepDomestic,2009,Sep,Domestic,18,11,0
-2009SepEducation,2009,Sep,Education,18,7,1
-2009SepEntertainment,2009,Sep,Entertainment,1,0,0
-2009SepExchange_Agreements,2009,Sep,Exchange Agreements,1,0,0
-2009SepIndustry,2009,Sep,Industry,68,24,3
-2009SepMedical_&_Nursing,2009,Sep,Medical & Nursing,167,43,9
-2009SepService_Industry,2009,Sep,Service Industry,237,152,11
-2009SepSport,2009,Sep,Sport,11,1,2
-2009OctAgriculture_&_Fisheries,2009,Oct,Agriculture & Fisheries,37,52,6
-2009OctCatering,2009,Oct,Catering,119,139,20
-2009OctDomestic,2009,Oct,Domestic,7,7,2
-2009OctEducation,2009,Oct,Education,25,7,0
-2009OctEntertainment,2009,Oct,Entertainment,1,1,0
-2009OctIndustry,2009,Oct,Industry,51,24,4
-2009OctMedical_&_Nursing,2009,Oct,Medical & Nursing,193,41,9
-2009OctService_Industry,2009,Oct,Service Industry,261,154,22
-2009OctSport,2009,Oct,Sport,10,0,1
-2009NovAgriculture_&_Fisheries,2009,Nov,Agriculture & Fisheries,38,34,3
-2009NovCatering,2009,Nov,Catering,115,92,26
-2009NovDomestic,2009,Nov,Domestic,15,6,2
-2009NovEducation,2009,Nov,Education,9,3,1
-2009NovEntertainment,2009,Nov,Entertainment,0,1,0
-2009NovIndustry,2009,Nov,Industry,76,27,3
-2009NovMedical_&_Nursing,2009,Nov,Medical & Nursing,167,33,4
-2009NovService_Industry,2009,Nov,Service Industry,286,81,140
-2009NovSport,2009,Nov,Sport,5,4,0
-2009DecAgriculture_&_Fisheries,2009,Dec,Agriculture & Fisheries,20,5,2
-2009DecCatering,2009,Dec,Catering,115,33,7
-2009DecDomestic,2009,Dec,Domestic,14,0,1
-2009DecEducation,2009,Dec,Education,12,3,2
-2009DecEntertainment,2009,Dec,Entertainment,4,0,0
-2009DecIndustry,2009,Dec,Industry,47,13,1
-2009DecMedical_&_Nursing,2009,Dec,Medical & Nursing,171,6,3
-2009DecService_Industry,2009,Dec,Service Industry,214,41,8
-2009DecSport,2009,Dec,Sport,7,0,0
+Year,Month,Sector,Issued,Refused,Withdrawn
+2009,Jan,Agriculture & Fisheries,18,10,1
+2009,Jan,Catering,91,44,2
+2009,Jan,Domestic,10,2,1
+2009,Jan,Education,15,5,0
+2009,Jan,Entertainment,7,1,0
+2009,Jan,Industry,60,24,1
+2009,Jan,Medical & Nursing,268,39,6
+2009,Jan,Service Industry,256,73,7
+2009,Jan,Sport,5,1,0
+2009,Feb,Agriculture & Fisheries,17,12,0
+2009,Feb,Catering,134,29,10
+2009,Feb,Domestic,9,1,1
+2009,Feb,Education,15,6,1
+2009,Feb,Entertainment,1,1,0
+2009,Feb,Industry,78,24,2
+2009,Feb,Medical & Nursing,201,33,3
+2009,Feb,Service Industry,275,62,4
+2009,Feb,Sport,7,1,0
+2009,Mar,Agriculture & Fisheries,16,8,4
+2009,Mar,Catering,86,35,1
+2009,Mar,Domestic,6,3,0
+2009,Mar,Education,15,3,0
+2009,Mar,Entertainment,9,10,0
+2009,Mar,Industry,66,11,1
+2009,Mar,Medical & Nursing,174,41,1
+2009,Mar,Service Industry,248,63,2
+2009,Mar,Sport,5,1,0
+2009,Apr,Agriculture & Fisheries,30,10,1
+2009,Apr,Catering,74,41,1
+2009,Apr,Domestic,14,2,0
+2009,Apr,Education,7,4,0
+2009,Apr,Entertainment,2,1,0
+2009,Apr,Industry,49,9,1
+2009,Apr,Medical & Nursing,111,30,3
+2009,Apr,Service Industry,193,47,6
+2009,Apr,Sport,4,1,0
+2009,May,Agriculture & Fisheries,21,6,0
+2009,May,Catering,110,43,2
+2009,May,Domestic,26,4,0
+2009,May,Education,8,0,0
+2009,May,Entertainment,1,0,0
+2009,May,Exchange Agreements,0,1,0
+2009,May,Industry,98,14,1
+2009,May,Medical & Nursing,116,23,5
+2009,May,Service Industry,250,35,2
+2009,May,Sport,7,1,0
+2009,Jun,Agriculture & Fisheries,29,1,3
+2009,Jun,Catering,84,18,4
+2009,Jun,Domestic,11,8,0
+2009,Jun,Education,15,0,0
+2009,Jun,Entertainment,4,1,0
+2009,Jun,Exchange Agreements,3,0,0
+2009,Jun,Industry,59,10,2
+2009,Jun,Medical & Nursing,139,20,4
+2009,Jun,Service Industry,180,33,7
+2009,Jun,Sport,2,1,0
+2009,Jul,Agriculture & Fisheries,27,3,1
+2009,Jul,Catering,90,51,5
+2009,Jul,Domestic,6,1,1
+2009,Jul,Education,14,5,0
+2009,Jul,Entertainment,2,2,0
+2009,Jul,Industry,39,11,0
+2009,Jul,Medical & Nursing,222,14,4
+2009,Jul,Service Industry,212,29,15
+2009,Jul,Sport,7,2,0
+2009,Aug,Agriculture & Fisheries,36,9,0
+2009,Aug,Catering,147,20,6
+2009,Aug,Domestic,23,2,0
+2009,Aug,Education,21,2,0
+2009,Aug,Entertainment,7,0,0
+2009,Aug,Industry,71,4,3
+2009,Aug,Medical & Nursing,215,15,4
+2009,Aug,Service Industry,261,28,4
+2009,Aug,Sport,7,2,0
+2009,Sep,Agriculture & Fisheries,25,36,2
+2009,Sep,Catering,129,111,15
+2009,Sep,Domestic,18,11,0
+2009,Sep,Education,18,7,1
+2009,Sep,Entertainment,1,0,0
+2009,Sep,Exchange Agreements,1,0,0
+2009,Sep,Industry,68,24,3
+2009,Sep,Medical & Nursing,167,43,9
+2009,Sep,Service Industry,237,152,11
+2009,Sep,Sport,11,1,2
+2009,Oct,Agriculture & Fisheries,37,52,6
+2009,Oct,Catering,119,139,20
+2009,Oct,Domestic,7,7,2
+2009,Oct,Education,25,7,0
+2009,Oct,Entertainment,1,1,0
+2009,Oct,Industry,51,24,4
+2009,Oct,Medical & Nursing,193,41,9
+2009,Oct,Service Industry,261,154,22
+2009,Oct,Sport,10,0,1
+2009,Nov,Agriculture & Fisheries,38,34,3
+2009,Nov,Catering,115,92,26
+2009,Nov,Domestic,15,6,2
+2009,Nov,Education,9,3,1
+2009,Nov,Entertainment,0,1,0
+2009,Nov,Industry,76,27,3
+2009,Nov,Medical & Nursing,167,33,4
+2009,Nov,Service Industry,286,81,140
+2009,Nov,Sport,5,4,0
+2009,Dec,Agriculture & Fisheries,20,5,2
+2009,Dec,Catering,115,33,7
+2009,Dec,Domestic,14,0,1
+2009,Dec,Education,12,3,2
+2009,Dec,Entertainment,4,0,0
+2009,Dec,Industry,47,13,1
+2009,Dec,Medical & Nursing,171,6,3
+2009,Dec,Service Industry,214,41,8
+2009,Dec,Sport,7,0,0

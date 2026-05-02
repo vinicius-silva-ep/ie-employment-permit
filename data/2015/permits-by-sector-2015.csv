@@ -1,107 +1,107 @@
-id_sector,Year,Month,Sector,Issued,Refused,Withdrawn
-2015JanAgriculture_&_Fisheries,2015,Jan,Agriculture & Fisheries,1,0,0
-2015JanCatering,2015,Jan,Catering,6,9,1
-2015JanDomestic,2015,Jan,Domestic,1,0,0
-2015JanEducation,2015,Jan,Education,2,0,0
-2015JanEntertainment,2015,Jan,Entertainment,3,0,0
-2015JanIndustry,2015,Jan,Industry,86,10,0
-2015JanMedical_&_Nursing,2015,Jan,Medical & Nursing,204,20,6
-2015JanService_Industry,2015,Jan,Service Industry,178,25,6
-2015JanSport,2015,Jan,Sport,0,2,0
-2015FebAgriculture_&_Fisheries,2015,Feb,Agriculture & Fisheries,2,1,0
-2015FebCatering,2015,Feb,Catering,6,19,0
-2015FebDomestic,2015,Feb,Domestic,0,1,0
-2015FebEducation,2015,Feb,Education,4,4,0
-2015FebEntertainment,2015,Feb,Entertainment,1,0,0
-2015FebIndustry,2015,Feb,Industry,115,9,0
-2015FebMedical_&_Nursing,2015,Feb,Medical & Nursing,84,6,2
-2015FebService_Industry,2015,Feb,Service Industry,158,21,3
-2015FebSport,2015,Feb,Sport,1,0,0
-2015MarAgriculture_&_Fisheries,2015,Mar,Agriculture & Fisheries,3,1,0
-2015MarCatering,2015,Mar,Catering,18,14,0
-2015MarDomestic,2015,Mar,Domestic,2,0,0
-2015MarEducation,2015,Mar,Education,6,1,1
-2015MarEntertainment,2015,Mar,Entertainment,2,0,0
-2015MarIndustry,2015,Mar,Industry,113,7,3
-2015MarMedical_&_Nursing,2015,Mar,Medical & Nursing,122,18,9
-2015MarService_Industry,2015,Mar,Service Industry,201,20,9
-2015MarSport,2015,Mar,Sport,5,2,0
-2015AprAgriculture_&_Fisheries,2015,Apr,Agriculture & Fisheries,5,3,0
-2015AprCatering,2015,Apr,Catering,14,14,0
-2015AprEducation,2015,Apr,Education,3,1,1
-2015AprEntertainment,2015,Apr,Entertainment,2,1,0
-2015AprIndustry,2015,Apr,Industry,134,14,2
-2015AprMedical_&_Nursing,2015,Apr,Medical & Nursing,192,7,6
-2015AprService_Industry,2015,Apr,Service Industry,414,31,6
-2015AprSport,2015,Apr,Sport,6,0,1
-2015MayAgriculture_&_Fisheries,2015,May,Agriculture & Fisheries,3,1,1
-2015MayCatering,2015,May,Catering,15,11,0
-2015MayDomestic,2015,May,Domestic,0,3,0
-2015MayEducation,2015,May,Education,6,0,0
-2015MayEntertainment,2015,May,Entertainment,2,0,0
-2015MayExchange_Agreements,2015,May,Exchange Agreements,1,0,1
-2015MayIndustry,2015,May,Industry,91,6,3
-2015MayMedical_&_Nursing,2015,May,Medical & Nursing,213,2,2
-2015MayService_Industry,2015,May,Service Industry,198,24,1
-2015MaySport,2015,May,Sport,5,1,0
-2015JunAgriculture_&_Fisheries,2015,Jun,Agriculture & Fisheries,4,0,0
-2015JunCatering,2015,Jun,Catering,13,7,0
-2015JunEducation,2015,Jun,Education,5,0,0
-2015JunEntertainment,2015,Jun,Entertainment,2,1,0
-2015JunExchange_Agreements,2015,Jun,Exchange Agreements,4,0,0
-2015JunIndustry,2015,Jun,Industry,74,7,1
-2015JunMedical_&_Nursing,2015,Jun,Medical & Nursing,490,1,7
-2015JunService_Industry,2015,Jun,Service Industry,226,20,7
-2015JunSport,2015,Jun,Sport,4,0,1
-2015JulAgriculture_&_Fisheries,2015,Jul,Agriculture & Fisheries,2,1,0
-2015JulCatering,2015,Jul,Catering,11,11,0
-2015JulDomestic,2015,Jul,Domestic,1,0,0
-2015JulEducation,2015,Jul,Education,12,0,0
-2015JulEntertainment,2015,Jul,Entertainment,2,0,0
-2015JulExchange_Agreements,2015,Jul,Exchange Agreements,8,0,0
-2015JulIndustry,2015,Jul,Industry,79,9,1
-2015JulMedical_&_Nursing,2015,Jul,Medical & Nursing,355,12,6
-2015JulService_Industry,2015,Jul,Service Industry,219,23,2
-2015AugCatering,2015,Aug,Catering,14,8,0
-2015AugEducation,2015,Aug,Education,3,1,2
-2015AugEntertainment,2015,Aug,Entertainment,2,1,0
-2015AugIndustry,2015,Aug,Industry,64,6,0
-2015AugMedical_&_Nursing,2015,Aug,Medical & Nursing,58,1,1
-2015AugService_Industry,2015,Aug,Service Industry,148,27,3
-2015AugSport,2015,Aug,Sport,2,0,0
-2015SeptAgriculture_&_Fisheries,2015,Sept,Agriculture & Fisheries,6,1,1
-2015SeptCatering,2015,Sept,Catering,21,15,0
-2015SeptEducation,2015,Sept,Education,6,10,1
-2015SeptEntertainment,2015,Sept,Entertainment,4,0,0
-2015SeptIndustry,2015,Sept,Industry,169,12,2
-2015SeptMedical_&_Nursing,2015,Sept,Medical & Nursing,151,17,4
-2015SeptService_Industry,2015,Sept,Service Industry,375,63,25
-2015SeptSport,2015,Sept,Sport,10,0,1
-2015OctAgriculture_&_Fisheries,2015,Oct,Agriculture & Fisheries,6,2,1
-2015OctCatering,2015,Oct,Catering,15,18,0
-2015OctDomestic,2015,Oct,Domestic,0,1,0
-2015OctEducation,2015,Oct,Education,5,1,2
-2015OctEntertainment,2015,Oct,Entertainment,3,0,0
-2015OctIndustry,2015,Oct,Industry,222,19,2
-2015OctMedical_&_Nursing,2015,Oct,Medical & Nursing,221,23,4
-2015OctService_Industry,2015,Oct,Service Industry,446,69,16
-2015OctSport,2015,Oct,Sport,0,1,1
-2015NovAgriculture_&_Fisheries,2015,Nov,Agriculture & Fisheries,4,4,0
-2015NovCatering,2015,Nov,Catering,21,26,0
-2015NovDomestic,2015,Nov,Domestic,1,2,0
-2015NovEducation,2015,Nov,Education,5,1,0
-2015NovEntertainment,2015,Nov,Entertainment,2,1,1
-2015NovExchange_Agreements,2015,Nov,Exchange Agreements,2,1,0
-2015NovIndustry,2015,Nov,Industry,207,16,2
-2015NovMedical_&_Nursing,2015,Nov,Medical & Nursing,219,33,3
-2015NovService_Industry,2015,Nov,Service Industry,276,55,4
-2015NovSport,2015,Nov,Sport,1,0,0
-2015DecAgriculture_&_Fisheries,2015,Dec,Agriculture & Fisheries,1,0,0
-2015DecCatering,2015,Dec,Catering,7,4,0
-2015DecDomestic,2015,Dec,Domestic,0,1,0
-2015DecEducation,2015,Dec,Education,4,4,0
-2015DecExchange_Agreements,2015,Dec,Exchange Agreements,1,0,0
-2015DecIndustry,2015,Dec,Industry,89,10,1
-2015DecMedical_&_Nursing,2015,Dec,Medical & Nursing,170,10,0
-2015DecService_Industry,2015,Dec,Service Industry,163,42,1
-2015DecSport,2015,Dec,Sport,0,1,0
+Year,Month,Sector,Issued,Refused,Withdrawn
+2015,Jan,Agriculture & Fisheries,1,0,0
+2015,Jan,Catering,6,9,1
+2015,Jan,Domestic,1,0,0
+2015,Jan,Education,2,0,0
+2015,Jan,Entertainment,3,0,0
+2015,Jan,Industry,86,10,0
+2015,Jan,Medical & Nursing,204,20,6
+2015,Jan,Service Industry,178,25,6
+2015,Jan,Sport,0,2,0
+2015,Feb,Agriculture & Fisheries,2,1,0
+2015,Feb,Catering,6,19,0
+2015,Feb,Domestic,0,1,0
+2015,Feb,Education,4,4,0
+2015,Feb,Entertainment,1,0,0
+2015,Feb,Industry,115,9,0
+2015,Feb,Medical & Nursing,84,6,2
+2015,Feb,Service Industry,158,21,3
+2015,Feb,Sport,1,0,0
+2015,Mar,Agriculture & Fisheries,3,1,0
+2015,Mar,Catering,18,14,0
+2015,Mar,Domestic,2,0,0
+2015,Mar,Education,6,1,1
+2015,Mar,Entertainment,2,0,0
+2015,Mar,Industry,113,7,3
+2015,Mar,Medical & Nursing,122,18,9
+2015,Mar,Service Industry,201,20,9
+2015,Mar,Sport,5,2,0
+2015,Apr,Agriculture & Fisheries,5,3,0
+2015,Apr,Catering,14,14,0
+2015,Apr,Education,3,1,1
+2015,Apr,Entertainment,2,1,0
+2015,Apr,Industry,134,14,2
+2015,Apr,Medical & Nursing,192,7,6
+2015,Apr,Service Industry,414,31,6
+2015,Apr,Sport,6,0,1
+2015,May,Agriculture & Fisheries,3,1,1
+2015,May,Catering,15,11,0
+2015,May,Domestic,0,3,0
+2015,May,Education,6,0,0
+2015,May,Entertainment,2,0,0
+2015,May,Exchange Agreements,1,0,1
+2015,May,Industry,91,6,3
+2015,May,Medical & Nursing,213,2,2
+2015,May,Service Industry,198,24,1
+2015,May,Sport,5,1,0
+2015,Jun,Agriculture & Fisheries,4,0,0
+2015,Jun,Catering,13,7,0
+2015,Jun,Education,5,0,0
+2015,Jun,Entertainment,2,1,0
+2015,Jun,Exchange Agreements,4,0,0
+2015,Jun,Industry,74,7,1
+2015,Jun,Medical & Nursing,490,1,7
+2015,Jun,Service Industry,226,20,7
+2015,Jun,Sport,4,0,1
+2015,Jul,Agriculture & Fisheries,2,1,0
+2015,Jul,Catering,11,11,0
+2015,Jul,Domestic,1,0,0
+2015,Jul,Education,12,0,0
+2015,Jul,Entertainment,2,0,0
+2015,Jul,Exchange Agreements,8,0,0
+2015,Jul,Industry,79,9,1
+2015,Jul,Medical & Nursing,355,12,6
+2015,Jul,Service Industry,219,23,2
+2015,Aug,Catering,14,8,0
+2015,Aug,Education,3,1,2
+2015,Aug,Entertainment,2,1,0
+2015,Aug,Industry,64,6,0
+2015,Aug,Medical & Nursing,58,1,1
+2015,Aug,Service Industry,148,27,3
+2015,Aug,Sport,2,0,0
+2015,Sept,Agriculture & Fisheries,6,1,1
+2015,Sept,Catering,21,15,0
+2015,Sept,Education,6,10,1
+2015,Sept,Entertainment,4,0,0
+2015,Sept,Industry,169,12,2
+2015,Sept,Medical & Nursing,151,17,4
+2015,Sept,Service Industry,375,63,25
+2015,Sept,Sport,10,0,1
+2015,Oct,Agriculture & Fisheries,6,2,1
+2015,Oct,Catering,15,18,0
+2015,Oct,Domestic,0,1,0
+2015,Oct,Education,5,1,2
+2015,Oct,Entertainment,3,0,0
+2015,Oct,Industry,222,19,2
+2015,Oct,Medical & Nursing,221,23,4
+2015,Oct,Service Industry,446,69,16
+2015,Oct,Sport,0,1,1
+2015,Nov,Agriculture & Fisheries,4,4,0
+2015,Nov,Catering,21,26,0
+2015,Nov,Domestic,1,2,0
+2015,Nov,Education,5,1,0
+2015,Nov,Entertainment,2,1,1
+2015,Nov,Exchange Agreements,2,1,0
+2015,Nov,Industry,207,16,2
+2015,Nov,Medical & Nursing,219,33,3
+2015,Nov,Service Industry,276,55,4
+2015,Nov,Sport,1,0,0
+2015,Dec,Agriculture & Fisheries,1,0,0
+2015,Dec,Catering,7,4,0
+2015,Dec,Domestic,0,1,0
+2015,Dec,Education,4,4,0
+2015,Dec,Exchange Agreements,1,0,0
+2015,Dec,Industry,89,10,1
+2015,Dec,Medical & Nursing,170,10,0
+2015,Dec,Service Industry,163,42,1
+2015,Dec,Sport,0,1,0
