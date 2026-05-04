@@ -1,0 +1,3028 @@
+Year,Month,Sector,Issued,Refused,Withdrawn,Prefix
+2009,Jan,Agriculture & Fisheries,18.0,10.0,1.0,
+2009,Jan,Catering,91.0,44.0,2.0,
+2009,Jan,Domestic,10.0,2.0,1.0,
+2009,Jan,Education,15.0,5.0,0.0,
+2009,Jan,Entertainment,7.0,1.0,0.0,
+2009,Jan,Industry,60.0,24.0,1.0,
+2009,Jan,Medical & Nursing,268.0,39.0,6.0,
+2009,Jan,Service Industry,256.0,73.0,7.0,
+2009,Jan,Sport,5.0,1.0,0.0,
+2009,Feb,Agriculture & Fisheries,17.0,12.0,0.0,
+2009,Feb,Catering,134.0,29.0,10.0,
+2009,Feb,Domestic,9.0,1.0,1.0,
+2009,Feb,Education,15.0,6.0,1.0,
+2009,Feb,Entertainment,1.0,1.0,0.0,
+2009,Feb,Industry,78.0,24.0,2.0,
+2009,Feb,Medical & Nursing,201.0,33.0,3.0,
+2009,Feb,Service Industry,275.0,62.0,4.0,
+2009,Feb,Sport,7.0,1.0,0.0,
+2009,Mar,Agriculture & Fisheries,16.0,8.0,4.0,
+2009,Mar,Catering,86.0,35.0,1.0,
+2009,Mar,Domestic,6.0,3.0,0.0,
+2009,Mar,Education,15.0,3.0,0.0,
+2009,Mar,Entertainment,9.0,10.0,0.0,
+2009,Mar,Industry,66.0,11.0,1.0,
+2009,Mar,Medical & Nursing,174.0,41.0,1.0,
+2009,Mar,Service Industry,248.0,63.0,2.0,
+2009,Mar,Sport,5.0,1.0,0.0,
+2009,Apr,Agriculture & Fisheries,30.0,10.0,1.0,
+2009,Apr,Catering,74.0,41.0,1.0,
+2009,Apr,Domestic,14.0,2.0,0.0,
+2009,Apr,Education,7.0,4.0,0.0,
+2009,Apr,Entertainment,2.0,1.0,0.0,
+2009,Apr,Industry,49.0,9.0,1.0,
+2009,Apr,Medical & Nursing,111.0,30.0,3.0,
+2009,Apr,Service Industry,193.0,47.0,6.0,
+2009,Apr,Sport,4.0,1.0,0.0,
+2009,May,Agriculture & Fisheries,21.0,6.0,0.0,
+2009,May,Catering,110.0,43.0,2.0,
+2009,May,Domestic,26.0,4.0,0.0,
+2009,May,Education,8.0,0.0,0.0,
+2009,May,Entertainment,1.0,0.0,0.0,
+2009,May,Exchange Agreements,0.0,1.0,0.0,
+2009,May,Industry,98.0,14.0,1.0,
+2009,May,Medical & Nursing,116.0,23.0,5.0,
+2009,May,Service Industry,250.0,35.0,2.0,
+2009,May,Sport,7.0,1.0,0.0,
+2009,Jun,Agriculture & Fisheries,29.0,1.0,3.0,
+2009,Jun,Catering,84.0,18.0,4.0,
+2009,Jun,Domestic,11.0,8.0,0.0,
+2009,Jun,Education,15.0,0.0,0.0,
+2009,Jun,Entertainment,4.0,1.0,0.0,
+2009,Jun,Exchange Agreements,3.0,0.0,0.0,
+2009,Jun,Industry,59.0,10.0,2.0,
+2009,Jun,Medical & Nursing,139.0,20.0,4.0,
+2009,Jun,Service Industry,180.0,33.0,7.0,
+2009,Jun,Sport,2.0,1.0,0.0,
+2009,Jul,Agriculture & Fisheries,27.0,3.0,1.0,
+2009,Jul,Catering,90.0,51.0,5.0,
+2009,Jul,Domestic,6.0,1.0,1.0,
+2009,Jul,Education,14.0,5.0,0.0,
+2009,Jul,Entertainment,2.0,2.0,0.0,
+2009,Jul,Industry,39.0,11.0,0.0,
+2009,Jul,Medical & Nursing,222.0,14.0,4.0,
+2009,Jul,Service Industry,212.0,29.0,15.0,
+2009,Jul,Sport,7.0,2.0,0.0,
+2009,Aug,Agriculture & Fisheries,36.0,9.0,0.0,
+2009,Aug,Catering,147.0,20.0,6.0,
+2009,Aug,Domestic,23.0,2.0,0.0,
+2009,Aug,Education,21.0,2.0,0.0,
+2009,Aug,Entertainment,7.0,0.0,0.0,
+2009,Aug,Industry,71.0,4.0,3.0,
+2009,Aug,Medical & Nursing,215.0,15.0,4.0,
+2009,Aug,Service Industry,261.0,28.0,4.0,
+2009,Aug,Sport,7.0,2.0,0.0,
+2009,Sep,Agriculture & Fisheries,25.0,36.0,2.0,
+2009,Sep,Catering,129.0,111.0,15.0,
+2009,Sep,Domestic,18.0,11.0,0.0,
+2009,Sep,Education,18.0,7.0,1.0,
+2009,Sep,Entertainment,1.0,0.0,0.0,
+2009,Sep,Exchange Agreements,1.0,0.0,0.0,
+2009,Sep,Industry,68.0,24.0,3.0,
+2009,Sep,Medical & Nursing,167.0,43.0,9.0,
+2009,Sep,Service Industry,237.0,152.0,11.0,
+2009,Sep,Sport,11.0,1.0,2.0,
+2009,Oct,Agriculture & Fisheries,37.0,52.0,6.0,
+2009,Oct,Catering,119.0,139.0,20.0,
+2009,Oct,Domestic,7.0,7.0,2.0,
+2009,Oct,Education,25.0,7.0,0.0,
+2009,Oct,Entertainment,1.0,1.0,0.0,
+2009,Oct,Industry,51.0,24.0,4.0,
+2009,Oct,Medical & Nursing,193.0,41.0,9.0,
+2009,Oct,Service Industry,261.0,154.0,22.0,
+2009,Oct,Sport,10.0,0.0,1.0,
+2009,Nov,Agriculture & Fisheries,38.0,34.0,3.0,
+2009,Nov,Catering,115.0,92.0,26.0,
+2009,Nov,Domestic,15.0,6.0,2.0,
+2009,Nov,Education,9.0,3.0,1.0,
+2009,Nov,Entertainment,0.0,1.0,0.0,
+2009,Nov,Industry,76.0,27.0,3.0,
+2009,Nov,Medical & Nursing,167.0,33.0,4.0,
+2009,Nov,Service Industry,286.0,81.0,140.0,
+2009,Nov,Sport,5.0,4.0,0.0,
+2009,Dec,Agriculture & Fisheries,20.0,5.0,2.0,
+2009,Dec,Catering,115.0,33.0,7.0,
+2009,Dec,Domestic,14.0,0.0,1.0,
+2009,Dec,Education,12.0,3.0,2.0,
+2009,Dec,Entertainment,4.0,0.0,0.0,
+2009,Dec,Industry,47.0,13.0,1.0,
+2009,Dec,Medical & Nursing,171.0,6.0,3.0,
+2009,Dec,Service Industry,214.0,41.0,8.0,
+2009,Dec,Sport,7.0,0.0,0.0,
+2010,Jan,Agriculture & Fisheries,37.0,10.0,2.0,
+2010,Jan,Catering,121.0,41.0,9.0,
+2010,Jan,Domestic,11.0,3.0,0.0,
+2010,Jan,Education,14.0,2.0,0.0,
+2010,Jan,Entertainment,10.0,0.0,0.0,
+2010,Jan,Industry,60.0,9.0,2.0,
+2010,Jan,Medical & Nursing,224.0,17.0,3.0,
+2010,Jan,Service Industry,269.0,34.0,4.0,
+2010,Jan,Sport,7.0,3.0,0.0,
+2010,Feb,Agriculture & Fisheries,33.0,18.0,3.0,
+2010,Feb,Catering,122.0,23.0,1.0,
+2010,Feb,Domestic,10.0,1.0,0.0,
+2010,Feb,Education,15.0,2.0,0.0,
+2010,Feb,Entertainment,1.0,1.0,0.0,
+2010,Feb,Industry,69.0,9.0,1.0,
+2010,Feb,Medical & Nursing,165.0,15.0,1.0,
+2010,Feb,Service Industry,272.0,32.0,4.0,
+2010,Feb,Sport,6.0,2.0,1.0,
+2010,Mar,Agriculture & Fisheries,30.0,14.0,0.0,
+2010,Mar,Catering,107.0,56.0,9.0,
+2010,Mar,Domestic,9.0,2.0,0.0,
+2010,Mar,Education,12.0,3.0,1.0,
+2010,Mar,Entertainment,3.0,0.0,0.0,
+2010,Mar,Industry,75.0,12.0,2.0,
+2010,Mar,Medical & Nursing,169.0,21.0,1.0,
+2010,Mar,Service Industry,246.0,56.0,12.0,
+2010,Mar,Sport,9.0,3.0,0.0,
+2010,Apr,Agriculture & Fisheries,36.0,4.0,0.0,
+2010,Apr,Catering,86.0,18.0,4.0,
+2010,Apr,Domestic,5.0,1.0,0.0,
+2010,Apr,Education,13.0,0.0,0.0,
+2010,Apr,Entertainment,8.0,0.0,0.0,
+2010,Apr,Industry,47.0,9.0,2.0,
+2010,Apr,Medical & Nursing,129.0,9.0,4.0,
+2010,Apr,Service Industry,290.0,22.0,10.0,
+2010,Apr,Sport,12.0,1.0,0.0,
+2010,May,Agriculture & Fisheries,13.0,2.0,0.0,
+2010,May,Catering,92.0,19.0,5.0,
+2010,May,Domestic,4.0,2.0,0.0,
+2010,May,Education,12.0,2.0,1.0,
+2010,May,Entertainment,4.0,0.0,0.0,
+2010,May,Industry,67.0,4.0,0.0,
+2010,May,Medical & Nursing,103.0,3.0,2.0,
+2010,May,Service Industry,228.0,30.0,7.0,
+2010,Jun,Agriculture & Fisheries,51.0,12.0,0.0,
+2010,Jun,Catering,216.0,54.0,19.0,
+2010,Jun,Domestic,12.0,1.0,2.0,
+2010,Jun,Education,33.0,5.0,2.0,
+2010,Jun,Entertainment,3.0,0.0,0.0,
+2010,Jun,Industry,108.0,13.0,4.0,
+2010,Jun,Medical & Nursing,291.0,57.0,4.0,
+2010,Jun,Service Industry,468.0,73.0,18.0,
+2010,Jun,Sport,12.0,4.0,0.0,
+2010,Jul,Agriculture & Fisheries,34.0,10.0,1.0,
+2010,Jul,Catering,149.0,25.0,2.0,
+2010,Jul,Domestic,8.0,2.0,2.0,
+2010,Jul,Education,20.0,5.0,0.0,
+2010,Jul,Entertainment,5.0,0.0,0.0,
+2010,Jul,Industry,94.0,11.0,2.0,
+2010,Jul,Medical & Nursing,238.0,22.0,5.0,
+2010,Jul,Service Industry,346.0,74.0,6.0,
+2010,Jul,Sport,5.0,1.0,0.0,
+2010,Aug,Agriculture & Fisheries,53.0,2.0,0.0,
+2010,Aug,Catering,102.0,41.0,6.0,
+2010,Aug,Domestic,4.0,1.0,0.0,
+2010,Aug,Education,18.0,0.0,0.0,
+2010,Aug,Entertainment,1.0,2.0,0.0,
+2010,Aug,Industry,53.0,6.0,1.0,
+2010,Aug,Medical & Nursing,117.0,21.0,2.0,
+2010,Aug,Service Industry,226.0,34.0,6.0,
+2010,Aug,Sport,6.0,1.0,0.0,
+2010,Sept,Agriculture & Fisheries,32.0,2.0,0.0,
+2010,Sept,Catering,157.0,83.0,2.0,
+2010,Sept,Domestic,7.0,3.0,0.0,
+2010,Sept,Education,14.0,3.0,1.0,
+2010,Sept,Entertainment,5.0,1.0,0.0,
+2010,Sept,Industry,58.0,8.0,4.0,
+2010,Sept,Medical & Nursing,162.0,20.0,2.0,
+2010,Sept,Service Industry,373.0,67.0,6.0,
+2010,Sept,Sport,13.0,3.0,0.0,
+2010,Oct,Agriculture & Fisheries,19.0,5.0,0.0,
+2010,Oct,Catering,125.0,46.0,2.0,
+2010,Oct,Domestic,5.0,4.0,1.0,
+2010,Oct,Education,10.0,4.0,0.0,
+2010,Oct,Entertainment,3.0,0.0,0.0,
+2010,Oct,Industry,49.0,10.0,1.0,
+2010,Oct,Medical & Nursing,174.0,13.0,0.0,
+2010,Oct,Service Industry,278.0,50.0,9.0,
+2010,Oct,Sport,3.0,0.0,1.0,
+2010,Nov,Agriculture & Fisheries,14.0,1.0,1.0,
+2010,Nov,Catering,68.0,11.0,2.0,
+2010,Nov,Domestic,9.0,0.0,0.0,
+2010,Nov,Education,3.0,2.0,0.0,
+2010,Nov,Entertainment,4.0,1.0,0.0,
+2010,Nov,Industry,25.0,5.0,2.0,
+2010,Nov,Medical & Nursing,67.0,3.0,2.0,
+2010,Nov,Service Industry,112.0,19.0,3.0,
+2010,Nov,Sport,2.0,0.0,0.0,
+2010,Dec,Agriculture & Fisheries,8.0,1.0,0.0,
+2010,Dec,Catering,27.0,4.0,0.0,
+2010,Dec,Domestic,2.0,0.0,0.0,
+2010,Dec,Education,7.0,1.0,0.0,
+2010,Dec,Entertainment,1.0,0.0,0.0,
+2010,Dec,Exchange Agreements,2.0,0.0,0.0,
+2010,Dec,Industry,31.0,4.0,1.0,
+2010,Dec,Medical & Nursing,45.0,8.0,1.0,
+2010,Dec,Service Industry,118.0,7.0,2.0,
+2011,Jan,Agriculture & Fisheries,6.0,4.0,0.0,
+2011,Jan,Catering,47.0,6.0,2.0,
+2011,Jan,Domestic,7.0,0.0,0.0,
+2011,Jan,Education,6.0,0.0,0.0,
+2011,Jan,Entertainment,3.0,2.0,0.0,
+2011,Jan,Industry,43.0,4.0,0.0,
+2011,Jan,Medical & Nursing,78.0,2.0,2.0,
+2011,Jan,Service Industry,138.0,17.0,4.0,
+2011,Jan,Sport,4.0,1.0,0.0,
+2011,Feb,Agriculture & Fisheries,9.0,3.0,0.0,
+2011,Feb,Catering,36.0,4.0,2.0,
+2011,Feb,Domestic,4.0,1.0,0.0,
+2011,Feb,Education,4.0,1.0,0.0,
+2011,Feb,Exchange Agreements,1.0,0.0,0.0,
+2011,Feb,Industry,29.0,5.0,0.0,
+2011,Feb,Medical & Nursing,101.0,4.0,1.0,
+2011,Feb,Service Industry,153.0,17.0,4.0,
+2011,Feb,Sport,1.0,0.0,0.0,
+2011,Mar,Agriculture & Fisheries,40.0,9.0,0.0,
+2011,Mar,Catering,58.0,12.0,2.0,
+2011,Mar,Domestic,6.0,1.0,0.0,
+2011,Mar,Education,8.0,3.0,0.0,
+2011,Mar,Entertainment,1.0,0.0,0.0,
+2011,Mar,Industry,48.0,13.0,3.0,
+2011,Mar,Medical & Nursing,130.0,10.0,6.0,
+2011,Mar,Service Industry,203.0,31.0,7.0,
+2011,Mar,Sport,4.0,0.0,0.0,
+2011,Apr,Agriculture & Fisheries,13.0,6.0,0.0,
+2011,Apr,Catering,55.0,14.0,2.0,
+2011,Apr,Domestic,3.0,1.0,0.0,
+2011,Apr,Education,6.0,0.0,0.0,
+2011,Apr,Entertainment,3.0,2.0,0.0,
+2011,Apr,Exchange Agreements,1.0,0.0,0.0,
+2011,Apr,Industry,49.0,3.0,2.0,
+2011,Apr,Medical & Nursing,95.0,7.0,1.0,
+2011,Apr,Service Industry,193.0,34.0,8.0,
+2011,Apr,Sport,6.0,1.0,1.0,
+2011,May,Agriculture & Fisheries,33.0,6.0,2.0,
+2011,May,Catering,85.0,39.0,6.0,
+2011,May,Domestic,13.0,2.0,0.0,
+2011,May,Education,16.0,2.0,0.0,
+2011,May,Entertainment,2.0,1.0,0.0,
+2011,May,Exchange Agreements,9.0,0.0,0.0,
+2011,May,Industry,61.0,6.0,1.0,
+2011,May,Medical & Nursing,209.0,24.0,13.0,
+2011,May,Service Industry,315.0,44.0,5.0,
+2011,May,Sport,7.0,2.0,0.0,
+2011,Jun,Agriculture & Fisheries,26.0,13.0,0.0,
+2011,Jun,Catering,65.0,33.0,4.0,
+2011,Jun,Domestic,6.0,3.0,0.0,
+2011,Jun,Education,6.0,1.0,0.0,
+2011,Jun,Industry,91.0,12.0,2.0,
+2011,Jun,Medical & Nursing,156.0,22.0,19.0,
+2011,Jun,Service Industry,279.0,45.0,13.0,
+2011,Jun,Sport,10.0,0.0,0.0,
+2011,Jul,Agriculture & Fisheries,19.0,6.0,1.0,
+2011,Jul,Catering,49.0,15.0,2.0,
+2011,Jul,Domestic,7.0,0.0,0.0,
+2011,Jul,Education,10.0,3.0,0.0,
+2011,Jul,Entertainment,2.0,2.0,0.0,
+2011,Jul,Industry,43.0,3.0,0.0,
+2011,Jul,Medical & Nursing,64.0,15.0,7.0,
+2011,Jul,Service Industry,154.0,48.0,7.0,
+2011,Jul,Sport,5.0,0.0,1.0,
+2011,Aug,Agriculture & Fisheries,20.0,4.0,1.0,
+2011,Aug,Catering,32.0,22.0,1.0,
+2011,Aug,Domestic,2.0,3.0,1.0,
+2011,Aug,Education,15.0,0.0,0.0,
+2011,Aug,Entertainment,2.0,1.0,0.0,
+2011,Aug,Exchange Agreements,2.0,0.0,0.0,
+2011,Aug,Industry,64.0,9.0,4.0,
+2011,Aug,Medical & Nursing,145.0,5.0,4.0,
+2011,Aug,Service Industry,197.0,33.0,2.0,
+2011,Aug,Sport,5.0,2.0,0.0,
+2011,Sep,Agriculture & Fisheries,11.0,5.0,0.0,
+2011,Sep,Catering,37.0,18.0,0.0,
+2011,Sep,Domestic,1.0,2.0,0.0,
+2011,Sep,Education,11.0,0.0,0.0,
+2011,Sep,Entertainment,4.0,1.0,0.0,
+2011,Sep,Industry,46.0,12.0,2.0,
+2011,Sep,Medical & Nursing,126.0,9.0,2.0,
+2011,Sep,Service Industry,193.0,44.0,4.0,
+2011,Sep,Sport,5.0,1.0,0.0,
+2011,Oct,Agriculture & Fisheries,12.0,3.0,0.0,
+2011,Oct,Catering,29.0,25.0,1.0,
+2011,Oct,Domestic,2.0,1.0,0.0,
+2011,Oct,Education,10.0,2.0,0.0,
+2011,Oct,Entertainment,6.0,2.0,0.0,
+2011,Oct,Exchange Agreements,1.0,0.0,0.0,
+2011,Oct,Industry,39.0,9.0,1.0,
+2011,Oct,Medical & Nursing,85.0,14.0,1.0,
+2011,Oct,Service Industry,158.0,22.0,18.0,
+2011,Oct,Sport,3.0,0.0,2.0,
+2011,Nov,Agriculture & Fisheries,17.0,5.0,1.0,
+2011,Nov,Catering,30.0,30.0,3.0,
+2011,Nov,Domestic,4.0,2.0,0.0,
+2011,Nov,Education,0.0,2.0,0.0,
+2011,Nov,Entertainment,0.0,1.0,0.0,
+2011,Nov,Exchange Agreements,7.0,0.0,0.0,
+2011,Nov,Industry,42.0,12.0,3.0,
+2011,Nov,Medical & Nursing,71.0,16.0,5.0,
+2011,Nov,Service Industry,138.0,47.0,6.0,
+2011,Nov,Sport,5.0,0.0,0.0,
+2011,Dec,Agriculture & Fisheries,10.0,4.0,1.0,
+2011,Dec,Catering,30.0,17.0,0.0,
+2011,Dec,Domestic,2.0,0.0,0.0,
+2011,Dec,Education,12.0,0.0,0.0,
+2011,Dec,Industry,50.0,11.0,0.0,
+2011,Dec,Medical & Nursing,42.0,7.0,2.0,
+2011,Dec,Service Industry,142.0,39.0,6.0,
+2011,Dec,Sport,1.0,0.0,0.0,
+2012,Jan,Agriculture & Fisheries,17.0,3.0,0.0,
+2012,Jan,Catering,37.0,22.0,1.0,
+2012,Jan,Domestic,1.0,1.0,0.0,
+2012,Jan,Education,11.0,0.0,0.0,
+2012,Jan,Entertainment,6.0,0.0,0.0,
+2012,Jan,Industry,39.0,9.0,4.0,
+2012,Jan,Medical & Nursing,79.0,12.0,0.0,
+2012,Jan,Service Industry,190.0,42.0,2.0,
+2012,Jan,Sport,1.0,2.0,0.0,
+2012,Feb,Agriculture & Fisheries,14.0,16.0,0.0,
+2012,Feb,Catering,29.0,14.0,1.0,
+2012,Feb,Domestic,4.0,1.0,0.0,
+2012,Feb,Education,5.0,0.0,0.0,
+2012,Feb,Entertainment,2.0,2.0,1.0,
+2012,Feb,Exchange Agreements,1.0,0.0,0.0,
+2012,Feb,Industry,48.0,12.0,1.0,
+2012,Feb,Medical & Nursing,75.0,11.0,2.0,
+2012,Feb,Service Industry,159.0,28.0,3.0,
+2012,Feb,Sport,2.0,0.0,0.0,
+2012,Mar,Agriculture & Fisheries,18.0,5.0,0.0,
+2012,Mar,Catering,35.0,19.0,0.0,
+2012,Mar,Domestic,5.0,0.0,0.0,
+2012,Mar,Education,2.0,3.0,0.0,
+2012,Mar,Entertainment,2.0,0.0,0.0,
+2012,Mar,Exchange Agreements,1.0,0.0,0.0,
+2012,Mar,Industry,64.0,22.0,0.0,
+2012,Mar,Medical & Nursing,52.0,5.0,1.0,
+2012,Mar,Service Industry,195.0,41.0,7.0,
+2012,Mar,Sport,4.0,1.0,0.0,
+2012,Apr,Agriculture & Fisheries,4.0,3.0,0.0,
+2012,Apr,Catering,34.0,14.0,2.0,
+2012,Apr,Domestic,3.0,0.0,1.0,
+2012,Apr,Education,5.0,1.0,0.0,
+2012,Apr,Entertainment,1.0,1.0,0.0,
+2012,Apr,Industry,39.0,9.0,1.0,
+2012,Apr,Medical & Nursing,54.0,6.0,1.0,
+2012,Apr,Service Industry,134.0,28.0,7.0,
+2012,Apr,Sport,4.0,1.0,0.0,
+2012,May,Agriculture & Fisheries,9.0,2.0,0.0,
+2012,May,Catering,35.0,12.0,2.0,
+2012,May,Domestic,6.0,2.0,0.0,
+2012,May,Education,6.0,2.0,0.0,
+2012,May,Entertainment,0.0,1.0,0.0,
+2012,May,Exchange Agreements,7.0,0.0,0.0,
+2012,May,Industry,58.0,3.0,1.0,
+2012,May,Medical & Nursing,46.0,8.0,2.0,
+2012,May,Service Industry,140.0,27.0,4.0,
+2012,May,Sport,4.0,1.0,0.0,
+2012,Jun,Agriculture & Fisheries,13.0,8.0,0.0,
+2012,Jun,Catering,21.0,51.0,2.0,
+2012,Jun,Education,0.0,1.0,0.0,
+2012,Jun,Entertainment,2.0,0.0,0.0,
+2012,Jun,Industry,95.0,5.0,4.0,
+2012,Jun,Medical & Nursing,29.0,8.0,1.0,
+2012,Jun,Service Industry,170.0,71.0,2.0,
+2012,Jun,Sport,7.0,1.0,0.0,
+2012,Jul,Agriculture & Fisheries,23.0,3.0,2.0,
+2012,Jul,Catering,26.0,15.0,46.0,
+2012,Jul,Domestic,1.0,2.0,2.0,
+2012,Jul,Education,5.0,1.0,1.0,
+2012,Jul,Entertainment,0.0,1.0,13.0,
+2012,Jul,Industry,88.0,7.0,14.0,
+2012,Jul,Medical & Nursing,34.0,8.0,6.0,
+2012,Jul,Service Industry,242.0,28.0,71.0,
+2012,Jul,Sport,7.0,1.0,0.0,
+2012,Aug,Agriculture & Fisheries,11.0,5.0,0.0,
+2012,Aug,Catering,12.0,15.0,1.0,
+2012,Aug,Domestic,3.0,1.0,0.0,
+2012,Aug,Education,8.0,2.0,0.0,
+2012,Aug,Entertainment,2.0,0.0,0.0,
+2012,Aug,Exchange Agreements,1.0,0.0,0.0,
+2012,Aug,Industry,37.0,9.0,5.0,
+2012,Aug,Medical & Nursing,59.0,3.0,2.0,
+2012,Aug,Service Industry,181.0,26.0,10.0,
+2012,Aug,Sport,5.0,2.0,0.0,
+2012,Sep,Agriculture & Fisheries,9.0,3.0,0.0,
+2012,Sep,Catering,14.0,8.0,2.0,
+2012,Sep,Domestic,4.0,0.0,0.0,
+2012,Sep,Education,12.0,2.0,0.0,
+2012,Sep,Entertainment,3.0,0.0,0.0,
+2012,Sep,Industry,73.0,3.0,2.0,
+2012,Sep,Medical & Nursing,43.0,6.0,1.0,
+2012,Sep,Service Industry,176.0,10.0,1.0,
+2012,Sep,Sport,5.0,0.0,0.0,
+2012,Oct,Agriculture & Fisheries,8.0,3.0,0.0,
+2012,Oct,Catering,18.0,13.0,0.0,
+2012,Oct,Domestic,2.0,2.0,0.0,
+2012,Oct,Education,7.0,2.0,1.0,
+2012,Oct,Entertainment,4.0,0.0,0.0,
+2012,Oct,Industry,36.0,1.0,0.0,
+2012,Oct,Medical & Nursing,58.0,5.0,1.0,
+2012,Oct,Service Industry,160.0,18.0,3.0,
+2012,Oct,Sport,4.0,0.0,1.0,
+2012,Nov,Agriculture & Fisheries,6.0,3.0,0.0,
+2012,Nov,Catering,20.0,9.0,0.0,
+2012,Nov,Domestic,1.0,2.0,0.0,
+2012,Nov,Education,5.0,0.0,0.0,
+2012,Nov,Exchange Agreements,1.0,0.0,0.0,
+2012,Nov,Industry,41.0,2.0,3.0,
+2012,Nov,Medical & Nursing,55.0,7.0,0.0,
+2012,Nov,Service Industry,202.0,27.0,3.0,
+2012,Nov,Sport,0.0,1.0,0.0,
+2012,Dec,Agriculture & Fisheries,9.0,2.0,0.0,
+2012,Dec,Catering,11.0,7.0,0.0,
+2012,Dec,Education,5.0,2.0,0.0,
+2012,Dec,Entertainment,2.0,0.0,0.0,
+2012,Dec,Industry,68.0,5.0,0.0,
+2012,Dec,Medical & Nursing,27.0,1.0,0.0,
+2012,Dec,Service Industry,147.0,19.0,2.0,
+2012,Dec,Sport,2.0,0.0,0.0,
+2013,Jan,Agriculture & Fisheries,7.0,5.0,0.0,
+2013,Jan,Catering,20.0,10.0,1.0,
+2013,Jan,Domestic,1.0,2.0,0.0,
+2013,Jan,Education,10.0,2.0,1.0,
+2013,Jan,Entertainment,6.0,0.0,0.0,
+2013,Jan,Industry,38.0,5.0,3.0,
+2013,Jan,Medical & Nursing,59.0,9.0,0.0,
+2013,Jan,Service Industry,188.0,16.0,8.0,
+2013,Jan,Sport,1.0,1.0,0.0,
+2013,Feb,Agriculture & Fisheries,5.0,1.0,0.0,
+2013,Feb,Catering,23.0,10.0,0.0,
+2013,Feb,Domestic,4.0,0.0,0.0,
+2013,Feb,Education,5.0,1.0,1.0,
+2013,Feb,Entertainment,2.0,0.0,0.0,
+2013,Feb,Industry,63.0,3.0,2.0,
+2013,Feb,Medical & Nursing,56.0,7.0,0.0,
+2013,Feb,Service Industry,154.0,24.0,8.0,
+2013,Feb,Sport,1.0,0.0,0.0,
+2013,Mar,Agriculture & Fisheries,7.0,4.0,0.0,
+2013,Mar,Catering,12.0,6.0,1.0,
+2013,Mar,Domestic,4.0,1.0,0.0,
+2013,Mar,Education,2.0,2.0,0.0,
+2013,Mar,Industry,69.0,6.0,4.0,
+2013,Mar,Medical & Nursing,32.0,5.0,1.0,
+2013,Mar,Service Industry,189.0,10.0,4.0,
+2013,Mar,Sport,4.0,1.0,0.0,
+2013,Apr,Agriculture & Fisheries,3.0,2.0,0.0,
+2013,Apr,Catering,15.0,1.0,0.0,
+2013,Apr,Education,4.0,3.0,0.0,
+2013,Apr,Entertainment,1.0,0.0,0.0,
+2013,Apr,Industry,43.0,6.0,1.0,
+2013,Apr,Medical & Nursing,36.0,4.0,0.0,
+2013,Apr,Service Industry,124.0,2.0,0.0,
+2013,Apr,Sport,4.0,0.0,0.0,
+2013,May,Agriculture & Fisheries,7.0,4.0,0.0,
+2013,May,Catering,22.0,9.0,0.0,
+2013,May,Domestic,3.0,0.0,0.0,
+2013,May,Education,8.0,1.0,0.0,
+2013,May,Entertainment,2.0,1.0,0.0,
+2013,May,Industry,87.0,3.0,3.0,
+2013,May,Medical & Nursing,34.0,6.0,1.0,
+2013,May,Service Industry,194.0,16.0,3.0,
+2013,May,Sport,2.0,0.0,0.0,
+2013,Jun,Agriculture & Fisheries,7.0,2.0,0.0,
+2013,Jun,Catering,13.0,7.0,1.0,
+2013,Jun,Domestic,2.0,0.0,0.0,
+2013,Jun,Education,7.0,3.0,0.0,
+2013,Jun,Entertainment,1.0,0.0,0.0,
+2013,Jun,Exchange Agreements,7.0,0.0,0.0,
+2013,Jun,Industry,45.0,6.0,0.0,
+2013,Jun,Medical & Nursing,36.0,8.0,1.0,
+2013,Jun,Service Industry,147.0,12.0,3.0,
+2013,Jun,Sport,3.0,1.0,0.0,
+2013,Jul,Agriculture & Fisheries,5.0,2.0,0.0,
+2013,Jul,Catering,10.0,14.0,1.0,
+2013,Jul,Domestic,2.0,0.0,0.0,
+2013,Jul,Education,7.0,1.0,0.0,
+2013,Jul,Exchange Agreements,1.0,0.0,0.0,
+2013,Jul,Industry,72.0,3.0,1.0,
+2013,Jul,Medical & Nursing,70.0,5.0,3.0,
+2013,Jul,Service Industry,170.0,13.0,7.0,
+2013,Jul,Sport,6.0,1.0,0.0,
+2013,Aug,Agriculture & Fisheries,3.0,0.0,1.0,
+2013,Aug,Catering,10.0,6.0,1.0,
+2013,Aug,Domestic,0.0,1.0,0.0,
+2013,Aug,Education,9.0,0.0,2.0,
+2013,Aug,Entertainment,4.0,1.0,0.0,
+2013,Aug,Industry,62.0,4.0,2.0,
+2013,Aug,Medical & Nursing,50.0,6.0,4.0,
+2013,Aug,Service Industry,183.0,16.0,2.0,
+2013,Aug,Sport,8.0,2.0,0.0,
+2013,Sep,Agriculture & Fisheries,5.0,1.0,0.0,
+2013,Sep,Catering,14.0,12.0,0.0,
+2013,Sep,Domestic,2.0,2.0,0.0,
+2013,Sep,Education,9.0,0.0,0.0,
+2013,Sep,Entertainment,7.0,0.0,0.0,
+2013,Sep,Industry,89.0,5.0,21.0,
+2013,Sep,Medical & Nursing,35.0,4.0,2.0,
+2013,Sep,Service Industry,238.0,23.0,4.0,
+2013,Sep,Sport,3.0,0.0,0.0,
+2013,Oct,Agriculture & Fisheries,3.0,3.0,0.0,
+2013,Oct,Catering,13.0,13.0,0.0,
+2013,Oct,Domestic,3.0,2.0,1.0,
+2013,Oct,Education,5.0,2.0,0.0,
+2013,Oct,Entertainment,5.0,0.0,0.0,
+2013,Oct,Industry,95.0,12.0,1.0,
+2013,Oct,Medical & Nursing,29.0,7.0,0.0,
+2013,Oct,Service Industry,216.0,33.0,3.0,
+2013,Oct,Sport,5.0,4.0,0.0,
+2013,Nov,Agriculture & Fisheries,7.0,3.0,0.0,
+2013,Nov,Catering,12.0,13.0,0.0,
+2013,Nov,Domestic,0.0,2.0,0.0,
+2013,Nov,Education,2.0,0.0,0.0,
+2013,Nov,Entertainment,2.0,0.0,0.0,
+2013,Nov,Industry,71.0,9.0,0.0,
+2013,Nov,Medical & Nursing,17.0,9.0,1.0,
+2013,Nov,Service Industry,171.0,27.0,5.0,
+2013,Nov,Sport,3.0,2.0,0.0,
+2013,Dec,Agriculture & Fisheries,6.0,0.0,0.0,
+2013,Dec,Catering,10.0,5.0,0.0,
+2013,Dec,Education,7.0,4.0,1.0,
+2013,Dec,Entertainment,5.0,2.0,0.0,
+2013,Dec,Industry,102.0,11.0,2.0,
+2013,Dec,Medical & Nursing,22.0,8.0,3.0,
+2013,Dec,Service Industry,158.0,19.0,7.0,
+2013,Dec,Sport,1.0,1.0,0.0,
+2014,Jan,Agriculture & Fisheries,3.0,3.0,0.0,
+2014,Jan,Catering,18.0,2.0,0.0,
+2014,Jan,Domestic,2.0,1.0,0.0,
+2014,Jan,Education,6.0,1.0,0.0,
+2014,Jan,Entertainment,7.0,0.0,0.0,
+2014,Jan,Exchange Agreements,2.0,0.0,0.0,
+2014,Jan,Industry,121.0,14.0,0.0,
+2014,Jan,Medical & Nursing,35.0,5.0,0.0,
+2014,Jan,Service Industry,254.0,38.0,2.0,
+2014,Jan,Sport,1.0,0.0,0.0,
+2014,Feb,Agriculture & Fisheries,1.0,0.0,0.0,
+2014,Feb,Catering,15.0,6.0,1.0,
+2014,Feb,Domestic,2.0,0.0,0.0,
+2014,Feb,Education,4.0,2.0,0.0,
+2014,Feb,Entertainment,2.0,1.0,0.0,
+2014,Feb,Industry,54.0,2.0,1.0,
+2014,Feb,Medical & Nursing,39.0,26.0,1.0,
+2014,Feb,Service Industry,182.0,13.0,4.0,
+2014,Feb,Sport,3.0,0.0,0.0,
+2014,Mar,Agriculture & Fisheries,3.0,1.0,0.0,
+2014,Mar,Catering,13.0,6.0,1.0,
+2014,Mar,Domestic,0.0,1.0,0.0,
+2014,Mar,Education,11.0,1.0,0.0,
+2014,Mar,Entertainment,0.0,1.0,0.0,
+2014,Mar,Industry,82.0,15.0,2.0,
+2014,Mar,Medical & Nursing,66.0,20.0,0.0,
+2014,Mar,Service Industry,174.0,16.0,2.0,
+2014,Mar,Sport,4.0,0.0,0.0,
+2014,Apr,Agriculture & Fisheries,3.0,1.0,0.0,
+2014,Apr,Catering,8.0,9.0,0.0,
+2014,Apr,Education,4.0,1.0,0.0,
+2014,Apr,Entertainment,1.0,0.0,0.0,
+2014,Apr,Industry,67.0,5.0,0.0,
+2014,Apr,Medical & Nursing,84.0,9.0,6.0,
+2014,Apr,Service Industry,143.0,25.0,2.0,
+2014,Apr,Sport,3.0,0.0,0.0,
+2014,May,Agriculture & Fisheries,1.0,3.0,0.0,
+2014,May,Catering,15.0,4.0,0.0,
+2014,May,Domestic,1.0,0.0,0.0,
+2014,May,Education,1.0,1.0,0.0,
+2014,May,Exchange Agreements,2.0,0.0,0.0,
+2014,May,Industry,97.0,3.0,1.0,
+2014,May,Medical & Nursing,87.0,7.0,2.0,
+2014,May,Service Industry,178.0,13.0,2.0,
+2014,May,Sport,2.0,0.0,0.0,
+2014,Jun,Agriculture & Fisheries,11.0,1.0,0.0,
+2014,Jun,Catering,5.0,6.0,0.0,
+2014,Jun,Domestic,0.0,1.0,0.0,
+2014,Jun,Education,3.0,0.0,1.0,
+2014,Jun,Entertainment,2.0,0.0,4.0,
+2014,Jun,Industry,132.0,4.0,6.0,
+2014,Jun,Medical & Nursing,217.0,14.0,2.0,
+2014,Jun,Service Industry,215.0,9.0,5.0,
+2014,Jun,Sport,5.0,0.0,0.0,
+2014,Jul,Agriculture & Fisheries,2.0,5.0,0.0,
+2014,Jul,Catering,27.0,11.0,1.0,
+2014,Jul,Domestic,4.0,1.0,0.0,
+2014,Jul,Education,21.0,1.0,1.0,
+2014,Jul,Entertainment,3.0,0.0,0.0,
+2014,Jul,Exchange Agreements,4.0,0.0,0.0,
+2014,Jul,Industry,140.0,11.0,2.0,
+2014,Jul,Medical & Nursing,341.0,18.0,16.0,
+2014,Jul,Service Industry,337.0,24.0,2.0,
+2014,Jul,Sport,8.0,1.0,0.0,
+2014,Aug,Agriculture & Fisheries,2.0,1.0,0.0,
+2014,Aug,Catering,25.0,3.0,0.0,
+2014,Aug,Domestic,2.0,0.0,1.0,
+2014,Aug,Education,12.0,0.0,0.0,
+2014,Aug,Entertainment,9.0,0.0,0.0,
+2014,Aug,Exchange Agreements,1.0,0.0,0.0,
+2014,Aug,Industry,70.0,1.0,1.0,
+2014,Aug,Medical & Nursing,128.0,2.0,10.0,
+2014,Aug,Service Industry,240.0,7.0,3.0,
+2014,Aug,Sport,4.0,0.0,0.0,
+2014,Sep,Agriculture & Fisheries,5.0,0.0,0.0,
+2014,Sep,Catering,42.0,5.0,1.0,
+2014,Sep,Domestic,1.0,1.0,0.0,
+2014,Sep,Education,18.0,0.0,0.0,
+2014,Sep,Entertainment,3.0,0.0,0.0,
+2014,Sep,Exchange Agreements,1.0,1.0,0.0,
+2014,Sep,Industry,184.0,3.0,6.0,
+2014,Sep,Medical & Nursing,114.0,7.0,23.0,
+2014,Sep,Service Industry,446.0,9.0,8.0,
+2014,Sep,Sport,7.0,0.0,0.0,
+2014,Oct,Catering,0.0,1.0,0.0,
+2014,Oct,Industry,1.0,0.0,0.0,
+2014,Oct,Medical & Nursing,1.0,0.0,0.0,
+2014,Oct,Service Industry,3.0,1.0,0.0,
+2014,Oct,Sport,2.0,0.0,0.0,
+2014,Nov,Catering,6.0,6.0,1.0,
+2014,Nov,Domestic,1.0,1.0,0.0,
+2014,Nov,Education,5.0,0.0,0.0,
+2014,Nov,Entertainment,1.0,0.0,0.0,
+2014,Nov,Exchange Agreements,2.0,0.0,0.0,
+2014,Nov,Industry,72.0,11.0,10.0,
+2014,Nov,Medical & Nursing,97.0,9.0,2.0,
+2014,Nov,Service Industry,159.0,19.0,4.0,
+2014,Dec,Agriculture & Fisheries,1.0,1.0,0.0,
+2014,Dec,Catering,5.0,9.0,0.0,
+2014,Dec,Education,0.0,3.0,0.0,
+2014,Dec,Industry,143.0,18.0,0.0,
+2014,Dec,Medical & Nursing,225.0,10.0,6.0,
+2014,Dec,Service Industry,179.0,19.0,1.0,
+2014,Dec,Sport,3.0,0.0,0.0,
+2015,Jan,Agriculture & Fisheries,1.0,0.0,0.0,
+2015,Jan,Catering,6.0,9.0,1.0,
+2015,Jan,Domestic,1.0,0.0,0.0,
+2015,Jan,Education,2.0,0.0,0.0,
+2015,Jan,Entertainment,3.0,0.0,0.0,
+2015,Jan,Industry,86.0,10.0,0.0,
+2015,Jan,Medical & Nursing,204.0,20.0,6.0,
+2015,Jan,Service Industry,178.0,25.0,6.0,
+2015,Jan,Sport,0.0,2.0,0.0,
+2015,Feb,Agriculture & Fisheries,2.0,1.0,0.0,
+2015,Feb,Catering,6.0,19.0,0.0,
+2015,Feb,Domestic,0.0,1.0,0.0,
+2015,Feb,Education,4.0,4.0,0.0,
+2015,Feb,Entertainment,1.0,0.0,0.0,
+2015,Feb,Industry,115.0,9.0,0.0,
+2015,Feb,Medical & Nursing,84.0,6.0,2.0,
+2015,Feb,Service Industry,158.0,21.0,3.0,
+2015,Feb,Sport,1.0,0.0,0.0,
+2015,Mar,Agriculture & Fisheries,3.0,1.0,0.0,
+2015,Mar,Catering,18.0,14.0,0.0,
+2015,Mar,Domestic,2.0,0.0,0.0,
+2015,Mar,Education,6.0,1.0,1.0,
+2015,Mar,Entertainment,2.0,0.0,0.0,
+2015,Mar,Industry,113.0,7.0,3.0,
+2015,Mar,Medical & Nursing,122.0,18.0,9.0,
+2015,Mar,Service Industry,201.0,20.0,9.0,
+2015,Mar,Sport,5.0,2.0,0.0,
+2015,Apr,Agriculture & Fisheries,5.0,3.0,0.0,
+2015,Apr,Catering,14.0,14.0,0.0,
+2015,Apr,Education,3.0,1.0,1.0,
+2015,Apr,Entertainment,2.0,1.0,0.0,
+2015,Apr,Industry,134.0,14.0,2.0,
+2015,Apr,Medical & Nursing,192.0,7.0,6.0,
+2015,Apr,Service Industry,414.0,31.0,6.0,
+2015,Apr,Sport,6.0,0.0,1.0,
+2015,May,Agriculture & Fisheries,3.0,1.0,1.0,
+2015,May,Catering,15.0,11.0,0.0,
+2015,May,Domestic,0.0,3.0,0.0,
+2015,May,Education,6.0,0.0,0.0,
+2015,May,Entertainment,2.0,0.0,0.0,
+2015,May,Exchange Agreements,1.0,0.0,1.0,
+2015,May,Industry,91.0,6.0,3.0,
+2015,May,Medical & Nursing,213.0,2.0,2.0,
+2015,May,Service Industry,198.0,24.0,1.0,
+2015,May,Sport,5.0,1.0,0.0,
+2015,Jun,Agriculture & Fisheries,4.0,0.0,0.0,
+2015,Jun,Catering,13.0,7.0,0.0,
+2015,Jun,Education,5.0,0.0,0.0,
+2015,Jun,Entertainment,2.0,1.0,0.0,
+2015,Jun,Exchange Agreements,4.0,0.0,0.0,
+2015,Jun,Industry,74.0,7.0,1.0,
+2015,Jun,Medical & Nursing,490.0,1.0,7.0,
+2015,Jun,Service Industry,226.0,20.0,7.0,
+2015,Jun,Sport,4.0,0.0,1.0,
+2015,Jul,Agriculture & Fisheries,2.0,1.0,0.0,
+2015,Jul,Catering,11.0,11.0,0.0,
+2015,Jul,Domestic,1.0,0.0,0.0,
+2015,Jul,Education,12.0,0.0,0.0,
+2015,Jul,Entertainment,2.0,0.0,0.0,
+2015,Jul,Exchange Agreements,8.0,0.0,0.0,
+2015,Jul,Industry,79.0,9.0,1.0,
+2015,Jul,Medical & Nursing,355.0,12.0,6.0,
+2015,Jul,Service Industry,219.0,23.0,2.0,
+2015,Aug,Catering,14.0,8.0,0.0,
+2015,Aug,Education,3.0,1.0,2.0,
+2015,Aug,Entertainment,2.0,1.0,0.0,
+2015,Aug,Industry,64.0,6.0,0.0,
+2015,Aug,Medical & Nursing,58.0,1.0,1.0,
+2015,Aug,Service Industry,148.0,27.0,3.0,
+2015,Aug,Sport,2.0,0.0,0.0,
+2015,Sept,Agriculture & Fisheries,6.0,1.0,1.0,
+2015,Sept,Catering,21.0,15.0,0.0,
+2015,Sept,Education,6.0,10.0,1.0,
+2015,Sept,Entertainment,4.0,0.0,0.0,
+2015,Sept,Industry,169.0,12.0,2.0,
+2015,Sept,Medical & Nursing,151.0,17.0,4.0,
+2015,Sept,Service Industry,375.0,63.0,25.0,
+2015,Sept,Sport,10.0,0.0,1.0,
+2015,Oct,Agriculture & Fisheries,6.0,2.0,1.0,
+2015,Oct,Catering,15.0,18.0,0.0,
+2015,Oct,Domestic,0.0,1.0,0.0,
+2015,Oct,Education,5.0,1.0,2.0,
+2015,Oct,Entertainment,3.0,0.0,0.0,
+2015,Oct,Industry,222.0,19.0,2.0,
+2015,Oct,Medical & Nursing,221.0,23.0,4.0,
+2015,Oct,Service Industry,446.0,69.0,16.0,
+2015,Oct,Sport,0.0,1.0,1.0,
+2015,Nov,Agriculture & Fisheries,4.0,4.0,0.0,
+2015,Nov,Catering,21.0,26.0,0.0,
+2015,Nov,Domestic,1.0,2.0,0.0,
+2015,Nov,Education,5.0,1.0,0.0,
+2015,Nov,Entertainment,2.0,1.0,1.0,
+2015,Nov,Exchange Agreements,2.0,1.0,0.0,
+2015,Nov,Industry,207.0,16.0,2.0,
+2015,Nov,Medical & Nursing,219.0,33.0,3.0,
+2015,Nov,Service Industry,276.0,55.0,4.0,
+2015,Nov,Sport,1.0,0.0,0.0,
+2015,Dec,Agriculture & Fisheries,1.0,0.0,0.0,
+2015,Dec,Catering,7.0,4.0,0.0,
+2015,Dec,Domestic,0.0,1.0,0.0,
+2015,Dec,Education,4.0,4.0,0.0,
+2015,Dec,Exchange Agreements,1.0,0.0,0.0,
+2015,Dec,Industry,89.0,10.0,1.0,
+2015,Dec,Medical & Nursing,170.0,10.0,0.0,
+2015,Dec,Service Industry,163.0,42.0,1.0,
+2015,Dec,Sport,0.0,1.0,0.0,
+2016,Jan,Agriculture & Fisheries,2.0,2.0,0.0,
+2016,Jan,Catering,7.0,11.0,1.0,
+2016,Jan,Education,3.0,1.0,0.0,
+2016,Jan,Entertainment,1.0,0.0,0.0,
+2016,Jan,Industry,153.0,6.0,21.0,
+2016,Jan,Medical & Nursing,50.0,21.0,1.0,
+2016,Jan,Service Industry,274.0,36.0,19.0,
+2016,Jan,Sport,2.0,2.0,0.0,
+2016,Feb,Agriculture & Fisheries,2.0,1.0,0.0,
+2016,Feb,Catering,19.0,24.0,0.0,
+2016,Feb,Domestic,0.0,1.0,0.0,
+2016,Feb,Education,2.0,2.0,0.0,
+2016,Feb,Entertainment,3.0,2.0,0.0,
+2016,Feb,Exchange Agreements,2.0,0.0,0.0,
+2016,Feb,Industry,188.0,11.0,1.0,
+2016,Feb,Medical & Nursing,326.0,30.0,7.0,
+2016,Feb,Service Industry,354.0,39.0,10.0,
+2016,Feb,Sport,0.0,1.0,0.0,
+2016,Mar,Agriculture & Fisheries,5.0,3.0,0.0,
+2016,Mar,Catering,25.0,25.0,1.0,
+2016,Mar,Domestic,1.0,2.0,0.0,
+2016,Mar,Education,9.0,2.0,0.0,
+2016,Mar,Entertainment,5.0,1.0,0.0,
+2016,Mar,Exchange Agreements,2.0,0.0,0.0,
+2016,Mar,Industry,204.0,14.0,4.0,
+2016,Mar,Medical & Nursing,136.0,16.0,3.0,
+2016,Mar,Service Industry,382.0,63.0,7.0,
+2016,Mar,Sport,4.0,0.0,0.0,
+2016,Apr,Agriculture & Fisheries,16.0,3.0,0.0,
+2016,Apr,Catering,35.0,38.0,0.0,
+2016,Apr,Domestic,1.0,2.0,0.0,
+2016,Apr,Education,11.0,2.0,0.0,
+2016,Apr,Entertainment,3.0,4.0,0.0,
+2016,Apr,Exchange Agreements,1.0,0.0,0.0,
+2016,Apr,Industry,148.0,36.0,2.0,
+2016,Apr,Medical & Nursing,273.0,21.0,2.0,
+2016,Apr,Service Industry,361.0,80.0,7.0,
+2016,Apr,Sport,2.0,2.0,1.0,
+2016,May,Agriculture & Fisheries,3.0,4.0,0.0,
+2016,May,Catering,39.0,21.0,0.0,
+2016,May,Domestic,0.0,1.0,0.0,
+2016,May,Education,4.0,1.0,0.0,
+2016,May,Entertainment,3.0,0.0,0.0,
+2016,May,Exchange Agreements,1.0,0.0,0.0,
+2016,May,Industry,111.0,25.0,1.0,
+2016,May,Medical & Nursing,422.0,19.0,4.0,
+2016,May,Service Industry,264.0,63.0,4.0,
+2016,May,Sport,3.0,0.0,0.0,
+2016,Jun,Agriculture & Fisheries,3.0,2.0,0.0,
+2016,Jun,Catering,18.0,27.0,1.0,
+2016,Jun,Education,15.0,1.0,0.0,
+2016,Jun,Entertainment,2.0,0.0,0.0,
+2016,Jun,Exchange Agreements,8.0,0.0,0.0,
+2016,Jun,Industry,165.0,32.0,1.0,
+2016,Jun,Medical & Nursing,472.0,33.0,9.0,
+2016,Jun,Service Industry,331.0,64.0,4.0,
+2016,Jun,Sport,6.0,0.0,1.0,
+2016,Jul,Agriculture & Fisheries,27.0,2.0,0.0,
+2016,Jul,Catering,24.0,11.0,1.0,
+2016,Jul,Domestic,4.0,0.0,0.0,
+2016,Jul,Education,16.0,6.0,0.0,
+2016,Jul,Entertainment,3.0,3.0,0.0,
+2016,Jul,Exchange Agreements,3.0,0.0,0.0,
+2016,Jul,Industry,124.0,26.0,1.0,
+2016,Jul,Medical & Nursing,519.0,33.0,8.0,
+2016,Jul,Service Industry,355.0,56.0,1.0,
+2016,Jul,Sport,6.0,1.0,0.0,
+2016,Aug,Agriculture & Fisheries,36.0,8.0,0.0,
+2016,Aug,Catering,54.0,45.0,2.0,
+2016,Aug,Domestic,1.0,0.0,0.0,
+2016,Aug,Education,9.0,8.0,0.0,
+2016,Aug,Entertainment,5.0,0.0,4.0,
+2016,Aug,Industry,209.0,71.0,4.0,
+2016,Aug,Medical & Nursing,219.0,36.0,9.0,
+2016,Aug,Service Industry,560.0,104.0,3.0,
+2016,Aug,Sport,7.0,1.0,0.0,
+2016,Sep,Agriculture & Fisheries,9.0,40.0,0.0,
+2016,Sep,Catering,11.0,1.0,0.0,
+2016,Sep,Education,5.0,3.0,0.0,
+2016,Sep,Entertainment,2.0,1.0,1.0,
+2016,Sep,Industry,76.0,22.0,1.0,
+2016,Sep,Medical & Nursing,54.0,10.0,3.0,
+2016,Sep,None specified,0.0,5.0,0.0,
+2016,Sep,Service Industry,222.0,44.0,1.0,
+2016,Sep,Sport,7.0,0.0,1.0,
+2016,Oct,Agriculture & Fisheries,18.0,0.0,0.0,
+2016,Oct,Catering,10.0,7.0,0.0,
+2016,Oct,Education,8.0,3.0,0.0,
+2016,Oct,Entertainment,4.0,0.0,0.0,
+2016,Oct,Industry,107.0,9.0,1.0,
+2016,Oct,Medical & Nursing,94.0,26.0,7.0,
+2016,Oct,None specified,4.0,15.0,2.0,
+2016,Oct,Service Industry,314.0,43.0,3.0,
+2016,Oct,Sport,3.0,1.0,0.0,
+2016,Nov,Agriculture & Fisheries,7.0,1.0,0.0,
+2016,Nov,Catering,21.0,16.0,0.0,
+2016,Nov,Domestic,0.0,1.0,0.0,
+2016,Nov,Education,6.0,3.0,0.0,
+2016,Nov,Entertainment,3.0,1.0,0.0,
+2016,Nov,Exchange Agreements,0.0,1.0,0.0,
+2016,Nov,Industry,117.0,13.0,1.0,
+2016,Nov,Medical & Nursing,291.0,26.0,8.0,
+2016,Nov,None specified,8.0,14.0,2.0,
+2016,Nov,Service Industry,341.0,43.0,3.0,
+2016,Nov,Sport,3.0,0.0,0.0,
+2016,Dec,Agriculture & Fisheries,25.0,2.0,6.0,
+2016,Dec,Catering,12.0,12.0,0.0,
+2016,Dec,Domestic,0.0,1.0,0.0,
+2016,Dec,Education,6.0,2.0,0.0,
+2016,Dec,Entertainment,1.0,0.0,0.0,
+2016,Dec,Exchange Agreements,1.0,0.0,0.0,
+2016,Dec,Industry,80.0,9.0,6.0,
+2016,Dec,Medical & Nursing,245.0,19.0,10.0,
+2016,Dec,None specified,5.0,5.0,0.0,
+2016,Dec,Service Industry,200.0,40.0,5.0,
+2016,Dec,Sport,0.0,3.0,1.0,
+2017,Jan,Agriculture & Fisheries,3.0,1.0,0.0,
+2017,Jan,Catering,7.0,11.0,1.0,
+2017,Jan,Education,2.0,2.0,0.0,
+2017,Jan,Industry,76.0,7.0,0.0,
+2017,Jan,Medical & Nursing,509.0,18.0,20.0,
+2017,Jan,None specified,1.0,10.0,1.0,
+2017,Jan,Service Industry,243.0,25.0,5.0,
+2017,Feb,Agriculture & Fisheries,12.0,7.0,0.0,
+2017,Feb,Catering,15.0,28.0,0.0,
+2017,Feb,Domestic,0.0,1.0,0.0,
+2017,Feb,Education,8.0,5.0,0.0,
+2017,Feb,Entertainment,2.0,3.0,0.0,
+2017,Feb,Exchange Agreements,2.0,0.0,0.0,
+2017,Feb,Industry,91.0,15.0,6.0,
+2017,Feb,Medical & Nursing,171.0,16.0,11.0,
+2017,Feb,None specified,14.0,27.0,3.0,
+2017,Feb,Service Industry,341.0,89.0,16.0,
+2017,Feb,Sport,2.0,1.0,0.0,
+2017,Mar,Agriculture & Fisheries,7.0,2.0,0.0,
+2017,Mar,Catering,23.0,13.0,0.0,
+2017,Mar,Domestic,0.0,0.0,1.0,
+2017,Mar,Education,4.0,2.0,1.0,
+2017,Mar,Entertainment,5.0,0.0,0.0,
+2017,Mar,Industry,135.0,19.0,3.0,
+2017,Mar,Medical & Nursing,234.0,22.0,10.0,
+2017,Mar,None specified,6.0,16.0,1.0,
+2017,Mar,Service Industry,450.0,55.0,10.0,
+2017,Mar,Sport,7.0,0.0,0.0,
+2017,Apr,Agriculture & Fisheries,6.0,0.0,0.0,
+2017,Apr,Catering,18.0,9.0,0.0,
+2017,Apr,Domestic,0.0,1.0,0.0,
+2017,Apr,Education,7.0,1.0,0.0,
+2017,Apr,Entertainment,1.0,1.0,0.0,
+2017,Apr,Industry,88.0,7.0,2.0,
+2017,Apr,Medical & Nursing,233.0,13.0,7.0,
+2017,Apr,None specified,12.0,11.0,3.0,
+2017,Apr,Service Industry,225.0,29.0,4.0,
+2017,Apr,Sport,4.0,0.0,0.0,
+2017,May,Agriculture & Fisheries,10.0,1.0,0.0,
+2017,May,Catering,14.0,24.0,1.0,
+2017,May,Domestic,0.0,1.0,0.0,
+2017,May,Education,9.0,0.0,0.0,
+2017,May,Entertainment,6.0,1.0,0.0,
+2017,May,Industry,193.0,10.0,2.0,
+2017,May,Medical & Nursing,650.0,34.0,23.0,
+2017,May,None specified,21.0,13.0,3.0,
+2017,May,Service Industry,407.0,43.0,5.0,
+2017,May,Sport,5.0,1.0,0.0,
+2017,Jun,Agriculture & Fisheries,8.0,2.0,0.0,
+2017,Jun,Catering,14.0,11.0,0.0,
+2017,Jun,Education,6.0,0.0,0.0,
+2017,Jun,Entertainment,6.0,0.0,0.0,
+2017,Jun,Exchange Agreements,1.0,0.0,0.0,
+2017,Jun,Industry,99.0,6.0,2.0,
+2017,Jun,Medical & Nursing,719.0,29.0,26.0,
+2017,Jun,None specified,7.0,15.0,1.0,
+2017,Jun,Service Industry,423.0,48.0,8.0,
+2017,Jun,Sport,5.0,0.0,0.0,
+2017,Jul,Agriculture & Fisheries,36.0,8.0,0.0,
+2017,Jul,Catering,42.0,20.0,2.0,
+2017,Jul,Education,8.0,0.0,0.0,
+2017,Jul,Entertainment,6.0,0.0,0.0,
+2017,Jul,Exchange Agreements,6.0,1.0,0.0,
+2017,Jul,Industry,146.0,31.0,0.0,
+2017,Jul,Medical & Nursing,468.0,33.0,15.0,
+2017,Jul,None specified,14.0,25.0,4.0,
+2017,Jul,Service Industry,471.0,77.0,5.0,
+2017,Jul,Sport,2.0,4.0,0.0,
+2017,Aug,Agriculture & Fisheries,15.0,9.0,0.0,
+2017,Aug,Catering,27.0,14.0,2.0,
+2017,Aug,Education,7.0,1.0,0.0,
+2017,Aug,Entertainment,8.0,0.0,0.0,
+2017,Aug,Exchange Agreements,1.0,0.0,0.0,
+2017,Aug,Industry,125.0,16.0,6.0,
+2017,Aug,Medical & Nursing,199.0,14.0,5.0,
+2017,Aug,None specified,26.0,18.0,2.0,
+2017,Aug,Service Industry,400.0,57.0,11.0,
+2017,Aug,Sport,4.0,2.0,0.0,
+2017,Sep,Agriculture & Fisheries,25.0,3.0,6.0,
+2017,Sep,Catering,34.0,19.0,1.0,
+2017,Sep,Education,5.0,3.0,0.0,
+2017,Sep,Entertainment,2.0,0.0,0.0,
+2017,Sep,Exchange Agreements,0.0,1.0,0.0,
+2017,Sep,Industry,115.0,7.0,2.0,
+2017,Sep,Medical & Nursing,186.0,23.0,3.0,
+2017,Sep,None specified,15.0,23.0,1.0,
+2017,Sep,Service Industry,485.0,58.0,10.0,
+2017,Sep,Sport,2.0,0.0,0.0,
+2017,Oct,Agriculture & Fisheries,8.0,3.0,2.0,
+2017,Oct,Catering,26.0,12.0,2.0,
+2017,Oct,Education,9.0,1.0,1.0,
+2017,Oct,Entertainment,4.0,1.0,0.0,
+2017,Oct,Exchange Agreements,3.0,0.0,0.0,
+2017,Oct,Industry,178.0,16.0,2.0,
+2017,Oct,Medical & Nursing,247.0,20.0,4.0,
+2017,Oct,None specified,27.0,15.0,0.0,
+2017,Oct,Service Industry,580.0,59.0,14.0,
+2017,Oct,Sport,5.0,1.0,0.0,
+2017,Nov,Agriculture & Fisheries,2.0,1.0,0.0,
+2017,Nov,Catering,23.0,14.0,0.0,
+2017,Nov,Education,11.0,3.0,0.0,
+2017,Nov,Entertainment,5.0,2.0,0.0,
+2017,Nov,Exchange Agreements,1.0,0.0,0.0,
+2017,Nov,Industry,138.0,7.0,1.0,
+2017,Nov,Medical & Nursing,336.0,16.0,11.0,
+2017,Nov,None specified,23.0,16.0,1.0,
+2017,Nov,Service Industry,510.0,50.0,13.0,
+2017,Nov,Sport,5.0,1.0,0.0,
+2017,Dec,Agriculture & Fisheries,20.0,3.0,1.0,
+2017,Dec,Catering,17.0,8.0,0.0,
+2017,Dec,Domestic,0.0,1.0,0.0,
+2017,Dec,Education,3.0,1.0,0.0,
+2017,Dec,Entertainment,4.0,0.0,0.0,
+2017,Dec,Exchange Agreements,3.0,0.0,0.0,
+2017,Dec,Industry,86.0,5.0,0.0,
+2017,Dec,Medical & Nursing,334.0,24.0,8.0,
+2017,Dec,None specified,8.0,8.0,4.0,
+2017,Dec,Service Industry,288.0,21.0,4.0,
+2017,Dec,Sport,2.0,1.0,1.0,
+2018,Jan,Agriculture & Fisheries,5.0,2.0,1.0,
+2018,Jan,Catering,21.0,21.0,0.0,
+2018,Jan,Domestic,1.0,1.0,0.0,
+2018,Jan,Education,5.0,5.0,0.0,
+2018,Jan,Entertainment,8.0,4.0,0.0,
+2018,Jan,Industry,177.0,13.0,3.0,
+2018,Jan,Medical & Nursing,422.0,27.0,9.0,
+2018,Jan,None specified,21.0,19.0,0.0,
+2018,Jan,Service Industry,577.0,70.0,7.0,
+2018,Jan,Sport,3.0,0.0,1.0,
+2018,Feb,Agriculture & Fisheries,2.0,0.0,0.0,
+2018,Feb,Catering,24.0,10.0,0.0,
+2018,Feb,Education,9.0,2.0,1.0,
+2018,Feb,Entertainment,9.0,2.0,0.0,
+2018,Feb,Exchange Agreements,1.0,0.0,0.0,
+2018,Feb,Industry,95.0,10.0,1.0,
+2018,Feb,Medical & Nursing,174.0,24.0,3.0,
+2018,Feb,None specified,18.0,12.0,1.0,
+2018,Feb,Service Industry,376.0,42.0,6.0,
+2018,Feb,Sport,1.0,0.0,1.0,
+2018,Mar,Agriculture & Fisheries,11.0,1.0,0.0,
+2018,Mar,Catering,52.0,42.0,0.0,
+2018,Mar,Domestic,1.0,0.0,0.0,
+2018,Mar,Education,2.0,3.0,2.0,
+2018,Mar,Entertainment,7.0,0.0,0.0,
+2018,Mar,Industry,115.0,13.0,0.0,
+2018,Mar,Medical & Nursing,180.0,22.0,4.0,
+2018,Mar,None specified,10.0,17.0,0.0,
+2018,Mar,Service Industry,391.0,41.0,3.0,
+2018,Mar,Sport,5.0,0.0,0.0,
+2018,Apr,Agriculture & Fisheries,4.0,0.0,0.0,
+2018,Apr,Catering,21.0,9.0,0.0,
+2018,Apr,Education,8.0,2.0,0.0,
+2018,Apr,Entertainment,8.0,1.0,0.0,
+2018,Apr,Exchange Agreements,1.0,0.0,0.0,
+2018,Apr,Industry,123.0,13.0,1.0,
+2018,Apr,Medical & Nursing,261.0,20.0,10.0,
+2018,Apr,None specified,13.0,11.0,1.0,
+2018,Apr,Service Industry,372.0,48.0,13.0,
+2018,Apr,Sport,2.0,1.0,0.0,
+2018,May,Agriculture & Fisheries,11.0,1.0,0.0,
+2018,May,Catering,16.0,1.0,2.0,
+2018,May,Domestic,1.0,0.0,0.0,
+2018,May,Education,7.0,1.0,0.0,
+2018,May,Entertainment,5.0,0.0,0.0,
+2018,May,Exchange Agreements,1.0,0.0,0.0,
+2018,May,Industry,145.0,8.0,1.0,
+2018,May,Medical & Nursing,570.0,12.0,20.0,
+2018,May,None specified,15.0,13.0,3.0,
+2018,May,Service Industry,392.0,39.0,14.0,
+2018,May,Sport,6.0,1.0,0.0,
+2018,Jun,Agriculture & Fisheries,3.0,0.0,0.0,
+2018,Jun,Catering,18.0,21.0,2.0,
+2018,Jun,Education,7.0,2.0,0.0,
+2018,Jun,Entertainment,3.0,0.0,0.0,
+2018,Jun,Industry,69.0,3.0,1.0,
+2018,Jun,Medical & Nursing,793.0,22.0,52.0,
+2018,Jun,None specified,6.0,14.0,7.0,
+2018,Jun,Service Industry,245.0,31.0,12.0,
+2018,Jun,Sport,2.0,0.0,0.0,
+2018,Jul,Agriculture & Fisheries,140.0,3.0,0.0,
+2018,Jul,Catering,50.0,37.0,4.0,
+2018,Jul,Domestic,2.0,1.0,0.0,
+2018,Jul,Education,6.0,3.0,0.0,
+2018,Jul,Entertainment,2.0,0.0,0.0,
+2018,Jul,Exchange Agreements,2.0,0.0,0.0,
+2018,Jul,Industry,110.0,14.0,6.0,
+2018,Jul,Medical & Nursing,380.0,25.0,15.0,
+2018,Jul,None specified,31.0,19.0,3.0,
+2018,Jul,Service Industry,467.0,39.0,19.0,
+2018,Jul,Sport,9.0,3.0,0.0,
+2018,Aug,Agriculture & Fisheries,9.0,2.0,0.0,
+2018,Aug,Catering,54.0,12.0,2.0,
+2018,Aug,Domestic,2.0,0.0,0.0,
+2018,Aug,Education,9.0,1.0,5.0,
+2018,Aug,Entertainment,6.0,0.0,1.0,
+2018,Aug,Exchange Agreements,6.0,0.0,0.0,
+2018,Aug,Industry,132.0,16.0,16.0,
+2018,Aug,Medical & Nursing,202.0,13.0,7.0,
+2018,Aug,None specified,35.0,17.0,10.0,
+2018,Aug,Service Industry,536.0,38.0,36.0,
+2018,Aug,Sport,2.0,0.0,3.0,
+2018,Sep,Agriculture & Fisheries,94.0,6.0,0.0,
+2018,Sep,Catering,17.0,6.0,3.0,
+2018,Sep,Education,4.0,1.0,1.0,
+2018,Sep,Entertainment,12.0,2.0,0.0,
+2018,Sep,Exchange Agreements,2.0,0.0,0.0,
+2018,Sep,Industry,196.0,4.0,1.0,
+2018,Sep,Medical & Nursing,210.0,16.0,7.0,
+2018,Sep,None specified,19.0,12.0,6.0,
+2018,Sep,Service Industry,684.0,38.0,13.0,
+2018,Sep,Sport,3.0,1.0,0.0,
+2018,Oct,Agriculture & Fisheries,218.0,11.0,4.0,
+2018,Oct,Catering,25.0,3.0,3.0,
+2018,Oct,Education,12.0,5.0,4.0,
+2018,Oct,Entertainment,14.0,0.0,0.0,
+2018,Oct,Industry,187.0,14.0,5.0,
+2018,Oct,Medical & Nursing,268.0,16.0,16.0,
+2018,Oct,None specified,18.0,16.0,15.0,
+2018,Oct,Service Industry,774.0,57.0,25.0,
+2018,Oct,Sport,6.0,0.0,2.0,
+2018,Nov,Agriculture & Fisheries,58.0,10.0,1.0,
+2018,Nov,Catering,44.0,20.0,1.0,
+2018,Nov,Education,7.0,9.0,1.0,
+2018,Nov,Entertainment,7.0,1.0,0.0,
+2018,Nov,Exchange Agreements,2.0,0.0,0.0,
+2018,Nov,Industry,221.0,22.0,6.0,
+2018,Nov,Medical & Nursing,411.0,21.0,25.0,
+2018,Nov,None specified,39.0,23.0,10.0,
+2018,Nov,Service Industry,714.0,81.0,26.0,
+2018,Nov,Sport,2.0,0.0,0.0,
+2018,Dec,Agriculture & Fisheries,92.0,4.0,14.0,
+2018,Dec,Catering,17.0,14.0,0.0,
+2018,Dec,Education,8.0,2.0,0.0,
+2018,Dec,Entertainment,4.0,1.0,0.0,
+2018,Dec,Exchange Agreements,1.0,0.0,0.0,
+2018,Dec,Industry,114.0,7.0,5.0,
+2018,Dec,Medical & Nursing,519.0,10.0,18.0,
+2018,Dec,None specified,21.0,5.0,3.0,
+2018,Dec,Service Industry,309.0,26.0,19.0,
+2018,Dec,Sport,2.0,0.0,0.0,
+2019,Jan,Agriculture & Fisheries,70.0,9.0,5.0,
+2019,Jan,Catering,47.0,12.0,0.0,
+2019,Jan,Education,13.0,2.0,2.0,
+2019,Jan,Entertainment,8.0,0.0,0.0,
+2019,Jan,Exchange Agreements,1.0,0.0,0.0,
+2019,Jan,Industry,254.0,22.0,3.0,
+2019,Jan,Medical & Nursing,334.0,14.0,17.0,
+2019,Jan,None specified,24.0,20.0,11.0,
+2019,Jan,Service Industry,803.0,48.0,15.0,
+2019,Jan,Sport,4.0,0.0,0.0,
+2019,Feb,Agriculture & Fisheries,40.0,18.0,9.0,
+2019,Feb,Catering,36.0,19.0,1.0,
+2019,Feb,Education,13.0,0.0,0.0,
+2019,Feb,Entertainment,3.0,0.0,2.0,
+2019,Feb,Industry,191.0,7.0,5.0,
+2019,Feb,Medical & Nursing,232.0,13.0,11.0,
+2019,Feb,None specified,28.0,20.0,5.0,
+2019,Feb,Service Industry,654.0,68.0,19.0,
+2019,Feb,Sport,5.0,0.0,0.0,
+2019,Mar,Agriculture & Fisheries,158.0,6.0,5.0,
+2019,Mar,Catering,51.0,18.0,3.0,
+2019,Mar,Education,3.0,0.0,2.0,
+2019,Mar,Entertainment,7.0,0.0,0.0,
+2019,Mar,Exchange Agreements,2.0,0.0,0.0,
+2019,Mar,Industry,153.0,15.0,10.0,
+2019,Mar,Medical & Nursing,150.0,15.0,26.0,
+2019,Mar,None specified,27.0,16.0,14.0,
+2019,Mar,Service Industry,601.0,77.0,74.0,
+2019,Mar,Sport,4.0,0.0,0.0,
+2019,Apr,Agriculture & Fisheries,114.0,2.0,1.0,
+2019,Apr,Catering,37.0,12.0,6.0,
+2019,Apr,Domestic,0.0,1.0,0.0,
+2019,Apr,Education,5.0,2.0,3.0,
+2019,Apr,Entertainment,10.0,0.0,0.0,
+2019,Apr,Industry,154.0,12.0,9.0,
+2019,Apr,Medical & Nursing,186.0,6.0,22.0,
+2019,Apr,None specified,22.0,12.0,9.0,
+2019,Apr,Service Industry,583.0,29.0,32.0,
+2019,Apr,Sport,3.0,0.0,0.0,
+2019,May,Agriculture & Fisheries,60.0,11.0,2.0,
+2019,May,Catering,46.0,15.0,2.0,
+2019,May,Education,8.0,0.0,0.0,
+2019,May,Entertainment,10.0,0.0,0.0,
+2019,May,Industry,145.0,14.0,8.0,
+2019,May,Medical & Nursing,510.0,7.0,26.0,
+2019,May,None specified,26.0,5.0,15.0,
+2019,May,Service Industry,550.0,48.0,26.0,
+2019,May,Sport,5.0,0.0,0.0,
+2019,Jun,Agriculture & Fisheries,51.0,11.0,23.0,
+2019,Jun,Catering,17.0,4.0,4.0,
+2019,Jun,Education,6.0,4.0,1.0,
+2019,Jun,Entertainment,8.0,1.0,0.0,
+2019,Jun,Industry,153.0,5.0,4.0,
+2019,Jun,Medical & Nursing,875.0,12.0,40.0,
+2019,Jun,None specified,14.0,9.0,1.0,
+2019,Jun,Service Industry,460.0,30.0,18.0,
+2019,Jun,Sport,4.0,0.0,0.0,
+2019,Jul,Agriculture & Fisheries,94.0,5.0,2.0,
+2019,Jul,Catering,50.0,8.0,1.0,
+2019,Jul,Education,18.0,0.0,1.0,
+2019,Jul,Entertainment,9.0,0.0,0.0,
+2019,Jul,Exchange Agreements,3.0,0.0,0.0,
+2019,Jul,Industry,219.0,11.0,3.0,
+2019,Jul,Medical & Nursing,513.0,13.0,20.0,
+2019,Jul,None specified,29.0,14.0,6.0,
+2019,Jul,Service Industry,718.0,57.0,36.0,
+2019,Jul,Sport,8.0,0.0,1.0,
+2019,Aug,Agriculture & Fisheries,104.0,6.0,15.0,
+2019,Aug,Catering,44.0,11.0,2.0,
+2019,Aug,Education,15.0,2.0,1.0,
+2019,Aug,Entertainment,20.0,0.0,0.0,
+2019,Aug,Exchange Agreements,2.0,0.0,0.0,
+2019,Aug,Industry,256.0,16.0,14.0,
+2019,Aug,Medical & Nursing,255.0,6.0,13.0,
+2019,Aug,None specified,22.0,10.0,4.0,
+2019,Aug,Service Industry,812.0,58.0,18.0,
+2019,Aug,Sport,3.0,0.0,0.0,
+2019,Sep,Agriculture & Fisheries,74.0,41.0,25.0,
+2019,Sep,Catering,49.0,17.0,2.0,
+2019,Sep,Domestic,1.0,0.0,0.0,
+2019,Sep,Education,11.0,5.0,2.0,
+2019,Sep,Entertainment,13.0,2.0,1.0,
+2019,Sep,Industry,206.0,25.0,4.0,
+2019,Sep,Medical & Nursing,234.0,9.0,9.0,
+2019,Sep,None specified,23.0,13.0,6.0,
+2019,Sep,Service Industry,670.0,74.0,27.0,
+2019,Sep,Sport,4.0,0.0,0.0,
+2019,Oct,Agriculture & Fisheries,157.0,6.0,11.0,
+2019,Oct,Catering,60.0,17.0,2.0,
+2019,Oct,Domestic,0.0,1.0,0.0,
+2019,Oct,Education,16.0,3.0,0.0,
+2019,Oct,Entertainment,29.0,1.0,1.0,
+2019,Oct,Industry,236.0,29.0,12.0,
+2019,Oct,Medical & Nursing,265.0,14.0,3.0,
+2019,Oct,None specified,33.0,17.0,3.0,
+2019,Oct,Service Industry,761.0,56.0,22.0,
+2019,Oct,Sport,5.0,3.0,0.0,
+2019,Nov,Agriculture & Fisheries,72.0,4.0,4.0,
+2019,Nov,Catering,45.0,11.0,0.0,
+2019,Nov,Domestic,0.0,1.0,0.0,
+2019,Nov,Education,13.0,5.0,0.0,
+2019,Nov,Entertainment,11.0,0.0,0.0,
+2019,Nov,Exchange Agreements,6.0,0.0,0.0,
+2019,Nov,Industry,211.0,20.0,1.0,
+2019,Nov,Medical & Nursing,375.0,10.0,11.0,
+2019,Nov,None specified,34.0,12.0,1.0,
+2019,Nov,Service Industry,598.0,67.0,19.0,
+2019,Nov,Sport,2.0,1.0,0.0,
+2019,Dec,Agriculture & Fisheries,15.0,2.0,1.0,
+2019,Dec,Catering,17.0,7.0,3.0,
+2019,Dec,Education,7.0,1.0,0.0,
+2019,Dec,Entertainment,7.0,1.0,1.0,
+2019,Dec,Exchange Agreements,1.0,0.0,0.0,
+2019,Dec,Industry,97.0,13.0,5.0,
+2019,Dec,Medical & Nursing,512.0,4.0,25.0,
+2019,Dec,None specified,0.0,0.0,4.0,
+2019,Dec,Service Industry,344.0,32.0,17.0,
+2019,Dec,Sport,2.0,2.0,0.0,
+2020,Jan,Information & Communication Activities,361.0,,,J
+2020,Jan,Financial & insurance Activities,73.0,,,K
+2020,Jan,"Manufacture of Computers, Electronics & Optica",6.0,,,C
+2020,Jan,"Agriculture, Forestry & Fishing",240.0,,,A
+2020,Jan,All Other Manufacturing,36.0,,,C
+2020,Jan,Manufacture of Chemicals & Pharmaceuticals,15.0,,,C
+2020,Jan,"Manufacture of Food, Drink & Tobacco",7.0,,,C
+2020,Jan,Manufacture of Medical Devices,5.0,,,C
+2020,Jan,Electricity & Gas & Air Conditioning Supply,6.0,,,D
+2020,Jan,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2020,Jan,Construction,84.0,,,F
+2020,Jan,Wholesale & Retail Trade,5.0,,,G
+2020,Jan,Transport & Storage,9.0,,,H
+2020,Jan,Accommodation & Food Services activities,92.0,,,I
+2020,Jan,"All other Professional, Scientific & Technical",5.0,,,M
+2020,Jan,"Professional, Scientific&Technical Activities",5.0,,,M
+2020,Jan,Administrative & Support Service Activities,0.0,,,N
+2020,Jan,Education,14.0,,,P
+2020,Jan,Health & Social Work Activities,300.0,,,Q
+2020,Jan,"Arts , Entertainment and Recreation",21.0,,,R
+2020,Jan,Other Service activities,46.0,,,S
+2020,Jan,Mining & Quarrying,4.0,,,B
+2020,Jan,Real Estate Activities,0.0,,,L
+2020,Jan,Public Administration & Defence,0.0,,,O
+2020,Jan,Domestic- Activities of Households as Employer,0.0,,,T
+2020,Feb,Information & Communication Activities,413.0,,,J
+2020,Feb,Financial & insurance Activities,85.0,,,K
+2020,Feb,"Manufacture of Computers, Electronics & Optica",3.0,,,C
+2020,Feb,"Agriculture, Forestry & Fishing",457.0,,,A
+2020,Feb,All Other Manufacturing,10.0,,,C
+2020,Feb,Manufacture of Chemicals & Pharmaceuticals,15.0,,,C
+2020,Feb,"Manufacture of Food, Drink & Tobacco",4.0,,,C
+2020,Feb,Manufacture of Medical Devices,2.0,,,C
+2020,Feb,Electricity & Gas & Air Conditioning Supply,5.0,,,D
+2020,Feb,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2020,Feb,Construction,42.0,,,F
+2020,Feb,Wholesale & Retail Trade,11.0,,,G
+2020,Feb,Transport & Storage,9.0,,,H
+2020,Feb,Accommodation & Food Services activities,75.0,,,I
+2020,Feb,"All other Professional, Scientific & Technical",11.0,,,M
+2020,Feb,"Professional, Scientific&Technical Activities",4.0,,,M
+2020,Feb,Administrative & Support Service Activities,1.0,,,N
+2020,Feb,Education,7.0,,,P
+2020,Feb,Health & Social Work Activities,204.0,,,Q
+2020,Feb,"Arts , Entertainment and Recreation",26.0,,,R
+2020,Feb,Other Service activities,41.0,,,S
+2020,Feb,Mining & Quarrying,1.0,,,B
+2020,Feb,Real Estate Activities,1.0,,,L
+2020,Feb,Public Administration & Defence,0.0,,,O
+2020,Feb,Domestic- Activities of Households as Employer,0.0,,,T
+2020,Mar,Information & Communication Activities,216.0,,,J
+2020,Mar,Financial & insurance Activities,54.0,,,K
+2020,Mar,"Manufacture of Computers, Electronics & Optica",6.0,,,C
+2020,Mar,"Agriculture, Forestry & Fishing",128.0,,,A
+2020,Mar,All Other Manufacturing,11.0,,,C
+2020,Mar,Manufacture of Chemicals & Pharmaceuticals,23.0,,,C
+2020,Mar,"Manufacture of Food, Drink & Tobacco",3.0,,,C
+2020,Mar,Manufacture of Medical Devices,5.0,,,C
+2020,Mar,Electricity & Gas & Air Conditioning Supply,3.0,,,D
+2020,Mar,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2020,Mar,Construction,44.0,,,F
+2020,Mar,Wholesale & Retail Trade,5.0,,,G
+2020,Mar,Transport & Storage,12.0,,,H
+2020,Mar,Accommodation & Food Services activities,30.0,,,I
+2020,Mar,"All other Professional, Scientific & Technical",10.0,,,M
+2020,Mar,"Professional, Scientific&Technical Activities",2.0,,,M
+2020,Mar,Administrative & Support Service Activities,1.0,,,N
+2020,Mar,Education,5.0,,,P
+2020,Mar,Health & Social Work Activities,591.0,,,Q
+2020,Mar,"Arts , Entertainment and Recreation",21.0,,,R
+2020,Mar,Other Service activities,50.0,,,S
+2020,Mar,Mining & Quarrying,0.0,,,B
+2020,Mar,Real Estate Activities,0.0,,,L
+2020,Mar,Public Administration & Defence,0.0,,,O
+2020,Mar,Domestic- Activities of Households as Employer,2.0,,,T
+2020,Apr,Information & Communication Activities,516.0,,,J
+2020,Apr,Financial & insurance Activities,94.0,,,K
+2020,Apr,"Manufacture of Computers, Electronics & Optica",10.0,,,C
+2020,Apr,"Agriculture, Forestry & Fishing",153.0,,,A
+2020,Apr,All Other Manufacturing,16.0,,,C
+2020,Apr,Manufacture of Chemicals & Pharmaceuticals,47.0,,,C
+2020,Apr,"Manufacture of Food, Drink & Tobacco",8.0,,,C
+2020,Apr,Manufacture of Medical Devices,5.0,,,C
+2020,Apr,Electricity & Gas & Air Conditioning Supply,7.0,,,D
+2020,Apr,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2020,Apr,Construction,65.0,,,F
+2020,Apr,Wholesale & Retail Trade,16.0,,,G
+2020,Apr,Transport & Storage,8.0,,,H
+2020,Apr,Accommodation & Food Services activities,56.0,,,I
+2020,Apr,"All other Professional, Scientific & Technical",13.0,,,M
+2020,Apr,"Professional, Scientific&Technical Activities",4.0,,,M
+2020,Apr,Administrative & Support Service Activities,1.0,,,N
+2020,Apr,Education,10.0,,,P
+2020,Apr,Health & Social Work Activities,644.0,,,Q
+2020,Apr,"Arts , Entertainment and Recreation",18.0,,,R
+2020,Apr,Other Service activities,71.0,,,S
+2020,Apr,Mining & Quarrying,2.0,,,B
+2020,Apr,Real Estate Activities,1.0,,,L
+2020,Apr,Public Administration & Defence,0.0,,,O
+2020,Apr,Domestic- Activities of Households as Employer,0.0,,,T
+2020,May,Information & Communication Activities,473.0,,,J
+2020,May,Financial & insurance Activities,79.0,,,K
+2020,May,"Manufacture of Computers, Electronics & Optica",22.0,,,C
+2020,May,"Agriculture, Forestry & Fishing",47.0,,,A
+2020,May,All Other Manufacturing,24.0,,,C
+2020,May,Manufacture of Chemicals & Pharmaceuticals,31.0,,,C
+2020,May,"Manufacture of Food, Drink & Tobacco",13.0,,,C
+2020,May,Manufacture of Medical Devices,11.0,,,C
+2020,May,Electricity & Gas & Air Conditioning Supply,8.0,,,D
+2020,May,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2020,May,Construction,58.0,,,F
+2020,May,Wholesale & Retail Trade,8.0,,,G
+2020,May,Transport & Storage,9.0,,,H
+2020,May,Accommodation & Food Services activities,64.0,,,I
+2020,May,"All other Professional, Scientific & Technical",7.0,,,M
+2020,May,"Professional, Scientific&Technical Activities",0.0,,,M
+2020,May,Administrative & Support Service Activities,3.0,,,N
+2020,May,Education,3.0,,,P
+2020,May,Health & Social Work Activities,762.0,,,Q
+2020,May,"Arts , Entertainment and Recreation",22.0,,,R
+2020,May,Other Service activities,56.0,,,S
+2020,May,Mining & Quarrying,1.0,,,B
+2020,May,Real Estate Activities,1.0,,,L
+2020,May,Public Administration & Defence,1.0,,,O
+2020,May,Domestic- Activities of Households as Employer,0.0,,,T
+2020,Jun,Information & Communication Activities,385.0,,,J
+2020,Jun,Financial & insurance Activities,97.0,,,K
+2020,Jun,"Manufacture of Computers, Electronics & Optica",19.0,,,C
+2020,Jun,"Agriculture, Forestry & Fishing",92.0,,,A
+2020,Jun,All Other Manufacturing,25.0,,,C
+2020,Jun,Manufacture of Chemicals & Pharmaceuticals,22.0,,,C
+2020,Jun,"Manufacture of Food, Drink & Tobacco",17.0,,,C
+2020,Jun,Manufacture of Medical Devices,5.0,,,C
+2020,Jun,Electricity & Gas & Air Conditioning Supply,9.0,,,D
+2020,Jun,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2020,Jun,Construction,35.0,,,F
+2020,Jun,Wholesale & Retail Trade,14.0,,,G
+2020,Jun,Transport & Storage,12.0,,,H
+2020,Jun,Accommodation & Food Services activities,115.0,,,I
+2020,Jun,"All other Professional, Scientific & Technical",9.0,,,M
+2020,Jun,"Professional, Scientific&Technical Activities",7.0,,,M
+2020,Jun,Administrative & Support Service Activities,3.0,,,N
+2020,Jun,Education,13.0,,,P
+2020,Jun,Health & Social Work Activities,627.0,,,Q
+2020,Jun,"Arts , Entertainment and Recreation",19.0,,,R
+2020,Jun,Other Service activities,56.0,,,S
+2020,Jun,Mining & Quarrying,0.0,,,B
+2020,Jun,Real Estate Activities,1.0,,,L
+2020,Jun,Public Administration & Defence,0.0,,,O
+2020,Jun,Domestic- Activities of Households as Employer,0.0,,,T
+2020,Jul,Information & Communication Activities,448.0,,,J
+2020,Jul,Financial & insurance Activities,103.0,,,K
+2020,Jul,"Manufacture of Computers, Electronics & Optica",21.0,,,C
+2020,Jul,"Agriculture, Forestry & Fishing",78.0,,,A
+2020,Jul,All Other Manufacturing,18.0,,,C
+2020,Jul,Manufacture of Chemicals & Pharmaceuticals,24.0,,,C
+2020,Jul,"Manufacture of Food, Drink & Tobacco",15.0,,,C
+2020,Jul,Manufacture of Medical Devices,6.0,,,C
+2020,Jul,Electricity & Gas & Air Conditioning Supply,18.0,,,D
+2020,Jul,Water Supply - Sewerage Waste Management & Rem,4.0,,,E
+2020,Jul,Construction,45.0,,,F
+2020,Jul,Wholesale & Retail Trade,25.0,,,G
+2020,Jul,Transport & Storage,11.0,,,H
+2020,Jul,Accommodation & Food Services activities,88.0,,,I
+2020,Jul,"All other Professional, Scientific & Technical",8.0,,,M
+2020,Jul,"Professional, Scientific&Technical Activities",12.0,,,M
+2020,Jul,Administrative & Support Service Activities,3.0,,,N
+2020,Jul,Education,10.0,,,P
+2020,Jul,Health & Social Work Activities,373.0,,,Q
+2020,Jul,"Arts , Entertainment and Recreation",28.0,,,R
+2020,Jul,Other Service activities,67.0,,,S
+2020,Jul,Mining & Quarrying,0.0,,,B
+2020,Jul,Real Estate Activities,0.0,,,L
+2020,Jul,Public Administration & Defence,0.0,,,O
+2020,Jul,Domestic- Activities of Households as Employer,0.0,,,T
+2020,Aug,Information & Communication Activities,400.0,,,J
+2020,Aug,Financial & insurance Activities,85.0,,,K
+2020,Aug,"Manufacture of Computers, Electronics & Optica",8.0,,,C
+2020,Aug,"Agriculture, Forestry & Fishing",101.0,,,A
+2020,Aug,All Other Manufacturing,11.0,,,C
+2020,Aug,Manufacture of Chemicals & Pharmaceuticals,26.0,,,C
+2020,Aug,"Manufacture of Food, Drink & Tobacco",12.0,,,C
+2020,Aug,Manufacture of Medical Devices,4.0,,,C
+2020,Aug,Electricity & Gas & Air Conditioning Supply,7.0,,,D
+2020,Aug,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2020,Aug,Construction,48.0,,,F
+2020,Aug,Wholesale & Retail Trade,10.0,,,G
+2020,Aug,Transport & Storage,8.0,,,H
+2020,Aug,Accommodation & Food Services activities,63.0,,,I
+2020,Aug,"All other Professional, Scientific & Technical",6.0,,,M
+2020,Aug,"Professional, Scientific&Technical Activities",4.0,,,M
+2020,Aug,Administrative & Support Service Activities,3.0,,,N
+2020,Aug,Education,7.0,,,P
+2020,Aug,Health & Social Work Activities,173.0,,,Q
+2020,Aug,"Arts , Entertainment and Recreation",21.0,,,R
+2020,Aug,Other Service activities,49.0,,,S
+2020,Aug,Mining & Quarrying,0.0,,,B
+2020,Aug,Real Estate Activities,0.0,,,L
+2020,Aug,Public Administration & Defence,0.0,,,O
+2020,Aug,Domestic- Activities of Households as Employer,0.0,,,T
+2020,Sep,Information & Communication Activities,466.0,,,J
+2020,Sep,Financial & insurance Activities,91.0,,,K
+2020,Sep,"Manufacture of Computers, Electronics & Optica",10.0,,,C
+2020,Sep,"Agriculture, Forestry & Fishing",76.0,,,A
+2020,Sep,All Other Manufacturing,8.0,,,C
+2020,Sep,Manufacture of Chemicals & Pharmaceuticals,25.0,,,C
+2020,Sep,"Manufacture of Food, Drink & Tobacco",4.0,,,C
+2020,Sep,Manufacture of Medical Devices,6.0,,,C
+2020,Sep,Electricity & Gas & Air Conditioning Supply,2.0,,,D
+2020,Sep,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2020,Sep,Construction,46.0,,,F
+2020,Sep,Wholesale & Retail Trade,10.0,,,G
+2020,Sep,Transport & Storage,18.0,,,H
+2020,Sep,Accommodation & Food Services activities,46.0,,,I
+2020,Sep,"All other Professional, Scientific & Technical",3.0,,,M
+2020,Sep,"Professional, Scientific&Technical Activities",5.0,,,M
+2020,Sep,Administrative & Support Service Activities,6.0,,,N
+2020,Sep,Education,8.0,,,P
+2020,Sep,Health & Social Work Activities,241.0,,,Q
+2020,Sep,"Arts , Entertainment and Recreation",22.0,,,R
+2020,Sep,Other Service activities,49.0,,,S
+2020,Sep,Mining & Quarrying,0.0,,,B
+2020,Sep,Real Estate Activities,1.0,,,L
+2020,Sep,Public Administration & Defence,0.0,,,O
+2020,Sep,Domestic- Activities of Households as Employer,0.0,,,T
+2020,Oct,Information & Communication Activities,406.0,,,J
+2020,Oct,Financial & insurance Activities,79.0,,,K
+2020,Oct,"Manufacture of Computers, Electronics & Optica",9.0,,,C
+2020,Oct,"Agriculture, Forestry & Fishing",185.0,,,A
+2020,Oct,All Other Manufacturing,15.0,,,C
+2020,Oct,Manufacture of Chemicals & Pharmaceuticals,32.0,,,C
+2020,Oct,"Manufacture of Food, Drink & Tobacco",11.0,,,C
+2020,Oct,Manufacture of Medical Devices,6.0,,,C
+2020,Oct,Electricity & Gas & Air Conditioning Supply,5.0,,,D
+2020,Oct,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2020,Oct,Construction,66.0,,,F
+2020,Oct,Wholesale & Retail Trade,9.0,,,G
+2020,Oct,Transport & Storage,13.0,,,H
+2020,Oct,Accommodation & Food Services activities,56.0,,,I
+2020,Oct,"All other Professional, Scientific & Technical",5.0,,,M
+2020,Oct,"Professional, Scientific&Technical Activities",6.0,,,M
+2020,Oct,Administrative & Support Service Activities,4.0,,,N
+2020,Oct,Education,14.0,,,P
+2020,Oct,Health & Social Work Activities,307.0,,,Q
+2020,Oct,"Arts , Entertainment and Recreation",18.0,,,R
+2020,Oct,Other Service activities,43.0,,,S
+2020,Oct,Mining & Quarrying,0.0,,,B
+2020,Oct,Real Estate Activities,1.0,,,L
+2020,Oct,Public Administration & Defence,0.0,,,O
+2020,Oct,Domestic- Activities of Households as Employer,1.0,,,T
+2020,Nov,Information & Communication Activities,365.0,,,J
+2020,Nov,Financial & insurance Activities,81.0,,,K
+2020,Nov,"Manufacture of Computers, Electronics & Optica",6.0,,,C
+2020,Nov,"Agriculture, Forestry & Fishing",130.0,,,A
+2020,Nov,All Other Manufacturing,12.0,,,C
+2020,Nov,Manufacture of Chemicals & Pharmaceuticals,23.0,,,C
+2020,Nov,"Manufacture of Food, Drink & Tobacco",5.0,,,C
+2020,Nov,Manufacture of Medical Devices,7.0,,,C
+2020,Nov,Electricity & Gas & Air Conditioning Supply,7.0,,,D
+2020,Nov,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2020,Nov,Construction,53.0,,,F
+2020,Nov,Wholesale & Retail Trade,15.0,,,G
+2020,Nov,Transport & Storage,23.0,,,H
+2020,Nov,Accommodation & Food Services activities,77.0,,,I
+2020,Nov,"All other Professional, Scientific & Technical",5.0,,,M
+2020,Nov,"Professional, Scientific&Technical Activities",11.0,,,M
+2020,Nov,Administrative & Support Service Activities,1.0,,,N
+2020,Nov,Education,8.0,,,P
+2020,Nov,Health & Social Work Activities,477.0,,,Q
+2020,Nov,"Arts , Entertainment and Recreation",13.0,,,R
+2020,Nov,Other Service activities,44.0,,,S
+2020,Nov,Mining & Quarrying,1.0,,,B
+2020,Nov,Real Estate Activities,0.0,,,L
+2020,Nov,Public Administration & Defence,0.0,,,O
+2020,Nov,Domestic- Activities of Households as Employer,0.0,,,T
+2020,Dec,Information & Communication Activities,276.0,,,J
+2020,Dec,Financial & insurance Activities,56.0,,,K
+2020,Dec,"Manufacture of Computers, Electronics & Optica",2.0,,,C
+2020,Dec,"Agriculture, Forestry & Fishing",99.0,,,A
+2020,Dec,All Other Manufacturing,16.0,,,C
+2020,Dec,Manufacture of Chemicals & Pharmaceuticals,11.0,,,C
+2020,Dec,"Manufacture of Food, Drink & Tobacco",5.0,,,C
+2020,Dec,Manufacture of Medical Devices,1.0,,,C
+2020,Dec,Electricity & Gas & Air Conditioning Supply,1.0,,,D
+2020,Dec,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2020,Dec,Construction,30.0,,,F
+2020,Dec,Wholesale & Retail Trade,7.0,,,G
+2020,Dec,Transport & Storage,11.0,,,H
+2020,Dec,Accommodation & Food Services activities,52.0,,,I
+2020,Dec,"All other Professional, Scientific & Technical",6.0,,,M
+2020,Dec,"Professional, Scientific&Technical Activities",5.0,,,M
+2020,Dec,Administrative & Support Service Activities,3.0,,,N
+2020,Dec,Education,5.0,,,P
+2020,Dec,Health & Social Work Activities,498.0,,,Q
+2020,Dec,"Arts , Entertainment and Recreation",10.0,,,R
+2020,Dec,Other Service activities,35.0,,,S
+2020,Dec,Mining & Quarrying,0.0,,,B
+2020,Dec,Real Estate Activities,1.0,,,L
+2020,Dec,Public Administration & Defence,0.0,,,O
+2020,Dec,Domestic- Activities of Households as Employer,0.0,,,T
+2021,Jan,Information & Communication Activities,494.0,,,J
+2021,Jan,Financial & insurance Activities,61.0,,,K
+2021,Jan,"Manufacture of Computers, Electronics & Optica",2.0,,,C
+2021,Jan,"Agriculture, Forestry & Fishing",53.0,,,A
+2021,Jan,All Other Manufacturing,24.0,,,C
+2021,Jan,Manufacture of Chemicals & Pharmaceuticals,39.0,,,C
+2021,Jan,"Manufacture of Food, Drink & Tobacco",10.0,,,C
+2021,Jan,Manufacture of Medical Devices,5.0,,,C
+2021,Jan,Electricity & Gas & Air Conditioning Supply,1.0,,,D
+2021,Jan,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2021,Jan,Construction,31.0,,,F
+2021,Jan,Wholesale & Retail Trade,8.0,,,G
+2021,Jan,Transport & Storage,12.0,,,H
+2021,Jan,Accommodation & Food Services activities,57.0,,,I
+2021,Jan,"All other Professional, Scientific & Technical",8.0,,,M
+2021,Jan,"Professional, Scientific&Technical Activities",5.0,,,M
+2021,Jan,Administrative & Support Service Activities,3.0,,,N
+2021,Jan,Education,7.0,,,P
+2021,Jan,Health & Social Work Activities,482.0,,,Q
+2021,Jan,"Arts , Entertainment and Recreation",10.0,,,R
+2021,Jan,Other Service activities,55.0,,,S
+2021,Jan,Mining & Quarrying,0.0,,,B
+2021,Jan,Real Estate Activities,1.0,,,L
+2021,Jan,Public Administration & Defence,0.0,,,O
+2021,Jan,Domestic- Activities of Households as Employer,0.0,,,T
+2021,Feb,Information & Communication Activities,300.0,,,J
+2021,Feb,Financial & insurance Activities,65.0,,,K
+2021,Feb,"Manufacture of Computers, Electronics & Optica",3.0,,,C
+2021,Feb,"Agriculture, Forestry & Fishing",30.0,,,A
+2021,Feb,All Other Manufacturing,16.0,,,C
+2021,Feb,Manufacture of Chemicals & Pharmaceuticals,28.0,,,C
+2021,Feb,"Manufacture of Food, Drink & Tobacco",10.0,,,C
+2021,Feb,Manufacture of Medical Devices,8.0,,,C
+2021,Feb,Electricity & Gas & Air Conditioning Supply,6.0,,,D
+2021,Feb,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2021,Feb,Construction,49.0,,,F
+2021,Feb,Wholesale & Retail Trade,12.0,,,G
+2021,Feb,Transport & Storage,20.0,,,H
+2021,Feb,Accommodation & Food Services activities,76.0,,,I
+2021,Feb,"All other Professional, Scientific & Technical",11.0,,,M
+2021,Feb,"Professional, Scientific&Technical Activities",6.0,,,M
+2021,Feb,Administrative & Support Service Activities,1.0,,,N
+2021,Feb,Education,5.0,,,P
+2021,Feb,Health & Social Work Activities,253.0,,,Q
+2021,Feb,"Arts , Entertainment and Recreation",16.0,,,R
+2021,Feb,Other Service activities,48.0,,,S
+2021,Feb,Mining & Quarrying,1.0,,,B
+2021,Feb,Real Estate Activities,0.0,,,L
+2021,Feb,Public Administration & Defence,0.0,,,O
+2021,Feb,Domestic- Activities of Households as Employer,1.0,,,T
+2021,Mar,Information & Communication Activities,307.0,,,J
+2021,Mar,Financial & insurance Activities,66.0,,,K
+2021,Mar,"Manufacture of Computers, Electronics & Optica",11.0,,,C
+2021,Mar,"Agriculture, Forestry & Fishing",76.0,,,A
+2021,Mar,All Other Manufacturing,29.0,,,C
+2021,Mar,Manufacture of Chemicals & Pharmaceuticals,15.0,,,C
+2021,Mar,"Manufacture of Food, Drink & Tobacco",15.0,,,C
+2021,Mar,Manufacture of Medical Devices,3.0,,,C
+2021,Mar,Electricity & Gas & Air Conditioning Supply,5.0,,,D
+2021,Mar,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2021,Mar,Construction,54.0,,,F
+2021,Mar,Wholesale & Retail Trade,17.0,,,G
+2021,Mar,Transport & Storage,16.0,,,H
+2021,Mar,Accommodation & Food Services activities,62.0,,,I
+2021,Mar,"All other Professional, Scientific & Technical",9.0,,,M
+2021,Mar,"Professional, Scientific&Technical Activities",5.0,,,M
+2021,Mar,Administrative & Support Service Activities,2.0,,,N
+2021,Mar,Education,4.0,,,P
+2021,Mar,Health & Social Work Activities,276.0,,,Q
+2021,Mar,"Arts , Entertainment and Recreation",17.0,,,R
+2021,Mar,Other Service activities,57.0,,,S
+2021,Mar,Mining & Quarrying,0.0,,,B
+2021,Mar,Real Estate Activities,1.0,,,L
+2021,Mar,Public Administration & Defence,0.0,,,O
+2021,Mar,Domestic- Activities of Households as Employer,0.0,,,T
+2021,Apr,Information & Communication Activities,204.0,,,J
+2021,Apr,Financial & insurance Activities,64.0,,,K
+2021,Apr,"Manufacture of Computers, Electronics & Optica",3.0,,,C
+2021,Apr,"Agriculture, Forestry & Fishing",61.0,,,A
+2021,Apr,All Other Manufacturing,17.0,,,C
+2021,Apr,Manufacture of Chemicals & Pharmaceuticals,10.0,,,C
+2021,Apr,"Manufacture of Food, Drink & Tobacco",6.0,,,C
+2021,Apr,Manufacture of Medical Devices,4.0,,,C
+2021,Apr,Electricity & Gas & Air Conditioning Supply,13.0,,,D
+2021,Apr,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2021,Apr,Construction,44.0,,,F
+2021,Apr,Wholesale & Retail Trade,3.0,,,G
+2021,Apr,Transport & Storage,14.0,,,H
+2021,Apr,Accommodation & Food Services activities,50.0,,,I
+2021,Apr,"All other Professional, Scientific & Technical",7.0,,,M
+2021,Apr,"Professional, Scientific&Technical Activities",6.0,,,M
+2021,Apr,Administrative & Support Service Activities,0.0,,,N
+2021,Apr,Education,6.0,,,P
+2021,Apr,Health & Social Work Activities,439.0,,,Q
+2021,Apr,"Arts , Entertainment and Recreation",19.0,,,R
+2021,Apr,Other Service activities,29.0,,,S
+2021,Apr,Mining & Quarrying,0.0,,,B
+2021,Apr,Real Estate Activities,0.0,,,L
+2021,Apr,Public Administration & Defence,0.0,,,O
+2021,Apr,Domestic- Activities of Households as Employer,0.0,,,T
+2021,May,Information & Communication Activities,244.0,,,J
+2021,May,Financial & insurance Activities,47.0,,,K
+2021,May,"Manufacture of Computers, Electronics & Optica",1.0,,,C
+2021,May,"Agriculture, Forestry & Fishing",75.0,,,A
+2021,May,All Other Manufacturing,15.0,,,C
+2021,May,Manufacture of Chemicals & Pharmaceuticals,9.0,,,C
+2021,May,"Manufacture of Food, Drink & Tobacco",5.0,,,C
+2021,May,Manufacture of Medical Devices,7.0,,,C
+2021,May,Electricity & Gas & Air Conditioning Supply,7.0,,,D
+2021,May,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2021,May,Construction,24.0,,,F
+2021,May,Wholesale & Retail Trade,8.0,,,G
+2021,May,Transport & Storage,6.0,,,H
+2021,May,Accommodation & Food Services activities,41.0,,,I
+2021,May,"All other Professional, Scientific & Technical",5.0,,,M
+2021,May,"Professional, Scientific&Technical Activities",1.0,,,M
+2021,May,Administrative & Support Service Activities,0.0,,,N
+2021,May,Education,4.0,,,P
+2021,May,Health & Social Work Activities,396.0,,,Q
+2021,May,"Arts , Entertainment and Recreation",14.0,,,R
+2021,May,Other Service activities,23.0,,,S
+2021,May,Mining & Quarrying,0.0,,,B
+2021,May,Real Estate Activities,0.0,,,L
+2021,May,Public Administration & Defence,0.0,,,O
+2021,May,Domestic- Activities of Households as Employer,0.0,,,T
+2021,Jun,Information & Communication Activities,327.0,,,J
+2021,Jun,Financial & insurance Activities,44.0,,,K
+2021,Jun,"Manufacture of Computers, Electronics & Optica",4.0,,,C
+2021,Jun,"Agriculture, Forestry & Fishing",127.0,,,A
+2021,Jun,All Other Manufacturing,13.0,,,C
+2021,Jun,Manufacture of Chemicals & Pharmaceuticals,19.0,,,C
+2021,Jun,"Manufacture of Food, Drink & Tobacco",6.0,,,C
+2021,Jun,Manufacture of Medical Devices,7.0,,,C
+2021,Jun,Electricity & Gas & Air Conditioning Supply,6.0,,,D
+2021,Jun,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2021,Jun,Construction,20.0,,,F
+2021,Jun,Wholesale & Retail Trade,7.0,,,G
+2021,Jun,Transport & Storage,3.0,,,H
+2021,Jun,Accommodation & Food Services activities,52.0,,,I
+2021,Jun,"All other Professional, Scientific & Technical",2.0,,,M
+2021,Jun,"Professional, Scientific&Technical Activities",2.0,,,M
+2021,Jun,Administrative & Support Service Activities,3.0,,,N
+2021,Jun,Education,5.0,,,P
+2021,Jun,Health & Social Work Activities,605.0,,,Q
+2021,Jun,"Arts , Entertainment and Recreation",32.0,,,R
+2021,Jun,Other Service activities,22.0,,,S
+2021,Jun,Mining & Quarrying,0.0,,,B
+2021,Jun,Real Estate Activities,1.0,,,L
+2021,Jun,Public Administration & Defence,0.0,,,O
+2021,Jun,Domestic- Activities of Households as Employer,0.0,,,T
+2021,Jul,Information & Communication Activities,203.0,,,J
+2021,Jul,Financial & insurance Activities,53.0,,,K
+2021,Jul,"Manufacture of Computers, Electronics & Optica",3.0,,,C
+2021,Jul,"Agriculture, Forestry & Fishing",66.0,,,A
+2021,Jul,All Other Manufacturing,10.0,,,C
+2021,Jul,Manufacture of Chemicals & Pharmaceuticals,3.0,,,C
+2021,Jul,"Manufacture of Food, Drink & Tobacco",11.0,,,C
+2021,Jul,Manufacture of Medical Devices,8.0,,,C
+2021,Jul,Electricity & Gas & Air Conditioning Supply,1.0,,,D
+2021,Jul,Water Supply - Sewerage Waste Management & Rem,0.0,,,E
+2021,Jul,Construction,26.0,,,F
+2021,Jul,Wholesale & Retail Trade,5.0,,,G
+2021,Jul,Transport & Storage,17.0,,,H
+2021,Jul,Accommodation & Food Services activities,39.0,,,I
+2021,Jul,"All other Professional, Scientific & Technical",11.0,,,M
+2021,Jul,"Professional, Scientific&Technical Activities",1.0,,,M
+2021,Jul,Administrative & Support Service Activities,0.0,,,N
+2021,Jul,Education,6.0,,,P
+2021,Jul,Health & Social Work Activities,999.0,,,Q
+2021,Jul,"Arts , Entertainment and Recreation",21.0,,,R
+2021,Jul,Other Service activities,45.0,,,S
+2021,Jul,Mining & Quarrying,0.0,,,B
+2021,Jul,Real Estate Activities,1.0,,,L
+2021,Jul,Public Administration & Defence,0.0,,,O
+2021,Jul,Domestic- Activities of Households as Employer,0.0,,,T
+2021,Aug,Information & Communication Activities,351.0,,,J
+2021,Aug,Financial & insurance Activities,92.0,,,K
+2021,Aug,"Manufacture of Computers, Electronics & Optica",6.0,,,C
+2021,Aug,"Agriculture, Forestry & Fishing",49.0,,,A
+2021,Aug,All Other Manufacturing,21.0,,,C
+2021,Aug,Manufacture of Chemicals & Pharmaceuticals,22.0,,,C
+2021,Aug,"Manufacture of Food, Drink & Tobacco",9.0,,,C
+2021,Aug,Manufacture of Medical Devices,9.0,,,C
+2021,Aug,Electricity & Gas & Air Conditioning Supply,7.0,,,D
+2021,Aug,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2021,Aug,Construction,71.0,,,F
+2021,Aug,Wholesale & Retail Trade,12.0,,,G
+2021,Aug,Transport & Storage,23.0,,,H
+2021,Aug,Accommodation & Food Services activities,136.0,,,I
+2021,Aug,"All other Professional, Scientific & Technical",12.0,,,M
+2021,Aug,"Professional, Scientific&Technical Activities",7.0,,,M
+2021,Aug,Administrative & Support Service Activities,0.0,,,N
+2021,Aug,Education,13.0,,,P
+2021,Aug,Health & Social Work Activities,452.0,,,Q
+2021,Aug,"Arts , Entertainment and Recreation",29.0,,,R
+2021,Aug,Other Service activities,53.0,,,S
+2021,Aug,Mining & Quarrying,0.0,,,B
+2021,Aug,Real Estate Activities,0.0,,,L
+2021,Aug,Public Administration & Defence,0.0,,,O
+2021,Aug,Domestic- Activities of Households as Employer,1.0,,,T
+2021,Sep,Information & Communication Activities,532.0,,,J
+2021,Sep,Financial & insurance Activities,112.0,,,K
+2021,Sep,"Manufacture of Computers, Electronics & Optica",8.0,,,C
+2021,Sep,"Agriculture, Forestry & Fishing",66.0,,,A
+2021,Sep,All Other Manufacturing,38.0,,,C
+2021,Sep,Manufacture of Chemicals & Pharmaceuticals,36.0,,,C
+2021,Sep,"Manufacture of Food, Drink & Tobacco",11.0,,,C
+2021,Sep,Manufacture of Medical Devices,9.0,,,C
+2021,Sep,Electricity & Gas & Air Conditioning Supply,12.0,,,D
+2021,Sep,Water Supply - Sewerage Waste Management & Rem,3.0,,,E
+2021,Sep,Construction,65.0,,,F
+2021,Sep,Wholesale & Retail Trade,11.0,,,G
+2021,Sep,Transport & Storage,37.0,,,H
+2021,Sep,Accommodation & Food Services activities,159.0,,,I
+2021,Sep,"All other Professional, Scientific & Technical",18.0,,,M
+2021,Sep,"Professional, Scientific&Technical Activities",20.0,,,M
+2021,Sep,Administrative & Support Service Activities,1.0,,,N
+2021,Sep,Education,8.0,,,P
+2021,Sep,Health & Social Work Activities,350.0,,,Q
+2021,Sep,"Arts , Entertainment and Recreation",35.0,,,R
+2021,Sep,Other Service activities,55.0,,,S
+2021,Sep,Mining & Quarrying,0.0,,,B
+2021,Sep,Real Estate Activities,0.0,,,L
+2021,Sep,Public Administration & Defence,2.0,,,O
+2021,Sep,Domestic- Activities of Households as Employer,0.0,,,T
+2021,Oct,Information & Communication Activities,597.0,,,J
+2021,Oct,Financial & insurance Activities,148.0,,,K
+2021,Oct,"Manufacture of Computers, Electronics & Optica",14.0,,,C
+2021,Oct,"Agriculture, Forestry & Fishing",55.0,,,A
+2021,Oct,All Other Manufacturing,16.0,,,C
+2021,Oct,Manufacture of Chemicals & Pharmaceuticals,25.0,,,C
+2021,Oct,"Manufacture of Food, Drink & Tobacco",9.0,,,C
+2021,Oct,Manufacture of Medical Devices,15.0,,,C
+2021,Oct,Electricity & Gas & Air Conditioning Supply,12.0,,,D
+2021,Oct,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2021,Oct,Construction,94.0,,,F
+2021,Oct,Wholesale & Retail Trade,15.0,,,G
+2021,Oct,Transport & Storage,42.0,,,H
+2021,Oct,Accommodation & Food Services activities,55.0,,,I
+2021,Oct,"All other Professional, Scientific & Technical",24.0,,,M
+2021,Oct,"Professional, Scientific&Technical Activities",17.0,,,M
+2021,Oct,Administrative & Support Service Activities,1.0,,,N
+2021,Oct,Education,14.0,,,P
+2021,Oct,Health & Social Work Activities,355.0,,,Q
+2021,Oct,"Arts , Entertainment and Recreation",19.0,,,R
+2021,Oct,Other Service activities,58.0,,,S
+2021,Oct,Mining & Quarrying,0.0,,,B
+2021,Oct,Real Estate Activities,1.0,,,L
+2021,Oct,Public Administration & Defence,0.0,,,O
+2021,Oct,Domestic- Activities of Households as Employer,1.0,,,T
+2021,Nov,Information & Communication Activities,506.0,,,J
+2021,Nov,Financial & insurance Activities,138.0,,,K
+2021,Nov,"Manufacture of Computers, Electronics & Optica",7.0,,,C
+2021,Nov,"Agriculture, Forestry & Fishing",113.0,,,A
+2021,Nov,All Other Manufacturing,18.0,,,C
+2021,Nov,Manufacture of Chemicals & Pharmaceuticals,29.0,,,C
+2021,Nov,"Manufacture of Food, Drink & Tobacco",11.0,,,C
+2021,Nov,Manufacture of Medical Devices,14.0,,,C
+2021,Nov,Electricity & Gas & Air Conditioning Supply,9.0,,,D
+2021,Nov,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2021,Nov,Construction,49.0,,,F
+2021,Nov,Wholesale & Retail Trade,9.0,,,G
+2021,Nov,Transport & Storage,44.0,,,H
+2021,Nov,Accommodation & Food Services activities,22.0,,,I
+2021,Nov,"All other Professional, Scientific & Technical",22.0,,,M
+2021,Nov,"Professional, Scientific&Technical Activities",12.0,,,M
+2021,Nov,Administrative & Support Service Activities,4.0,,,N
+2021,Nov,Education,7.0,,,P
+2021,Nov,Health & Social Work Activities,445.0,,,Q
+2021,Nov,"Arts , Entertainment and Recreation",25.0,,,R
+2021,Nov,Other Service activities,66.0,,,S
+2021,Nov,Mining & Quarrying,0.0,,,B
+2021,Nov,Real Estate Activities,1.0,,,L
+2021,Nov,Public Administration & Defence,1.0,,,O
+2021,Nov,Domestic- Activities of Households as Employer,0.0,,,T
+2021,Dec,Information & Communication Activities,550.0,,,J
+2021,Dec,Financial & insurance Activities,204.0,,,K
+2021,Dec,"Manufacture of Computers, Electronics & Optica",10.0,,,C
+2021,Dec,"Agriculture, Forestry & Fishing",117.0,,,A
+2021,Dec,All Other Manufacturing,31.0,,,C
+2021,Dec,Manufacture of Chemicals & Pharmaceuticals,39.0,,,C
+2021,Dec,"Manufacture of Food, Drink & Tobacco",8.0,,,C
+2021,Dec,Manufacture of Medical Devices,4.0,,,C
+2021,Dec,Electricity & Gas & Air Conditioning Supply,7.0,,,D
+2021,Dec,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2021,Dec,Construction,80.0,,,F
+2021,Dec,Wholesale & Retail Trade,13.0,,,G
+2021,Dec,Transport & Storage,31.0,,,H
+2021,Dec,Accommodation & Food Services activities,37.0,,,I
+2021,Dec,"All other Professional, Scientific & Technical",22.0,,,M
+2021,Dec,"Professional, Scientific&Technical Activities",3.0,,,M
+2021,Dec,Administrative & Support Service Activities,6.0,,,N
+2021,Dec,Education,12.0,,,P
+2021,Dec,Health & Social Work Activities,741.0,,,Q
+2021,Dec,"Arts , Entertainment and Recreation",15.0,,,R
+2021,Dec,Other Service activities,84.0,,,S
+2021,Dec,Mining & Quarrying,1.0,,,B
+2021,Dec,Real Estate Activities,1.0,,,L
+2021,Dec,Public Administration & Defence,1.0,,,O
+2021,Dec,Domestic- Activities of Households as Employer,0.0,,,T
+2022,Jan,"Agriculture, Forestry & Fishing",146.0,,,A
+2022,Jan,Mining & Quarrying,5.0,,,B
+2022,Jan,All Other Manufacturing,15.0,,,C
+2022,Jan,Manufacture of Chemicals & Pharmaceuticals,30.0,,,C
+2022,Jan,"Manufacture of Computers, Electronics & Optica",5.0,,,C
+2022,Jan,"Manufacture of Food, Drink & Tobacco",8.0,,,C
+2022,Jan,Manufacture of Medical Devices,8.0,,,C
+2022,Jan,Electricity & Gas & Air Conditioning Supply,4.0,,,D
+2022,Jan,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2022,Jan,Construction,81.0,,,F
+2022,Jan,Wholesale & Retail Trade,9.0,,,G
+2022,Jan,Transport & Storage,13.0,,,H
+2022,Jan,Accommodation & Food Services activities,51.0,,,I
+2022,Jan,Information & Communication Activities,442.0,,,J
+2022,Jan,Financial & insurance Activities,143.0,,,K
+2022,Jan,Real Estate Activities,1.0,,,L
+2022,Jan,"All other Professional, Scientific & Technical",13.0,,,M
+2022,Jan,"Professional, Scientific&Technical Activities",10.0,,,M
+2022,Jan,Administrative & Support Service Activities,2.0,,,N
+2022,Jan,Public Administration & Defence,,,,O
+2022,Jan,Education,18.0,,,P
+2022,Jan,Health & Social Work Activities,1213.0,,,Q
+2022,Jan,"Arts , Entertainment and Recreation",4.0,,,R
+2022,Jan,Other Service activities,56.0,,,S
+2022,Jan,Domestic- Activities of Households as Employer,,,,T
+2022,Feb,"Agriculture, Forestry & Fishing",149.0,,,A
+2022,Feb,Mining & Quarrying,1.0,,,B
+2022,Feb,All Other Manufacturing,36.0,,,C
+2022,Feb,Manufacture of Chemicals & Pharmaceuticals,49.0,,,C
+2022,Feb,"Manufacture of Computers, Electronics & Optica",48.0,,,C
+2022,Feb,"Manufacture of Food, Drink & Tobacco",17.0,,,C
+2022,Feb,Manufacture of Medical Devices,17.0,,,C
+2022,Feb,Electricity & Gas & Air Conditioning Supply,9.0,,,D
+2022,Feb,Water Supply - Sewerage Waste Management & Rem,4.0,,,E
+2022,Feb,Construction,136.0,,,F
+2022,Feb,Wholesale & Retail Trade,22.0,,,G
+2022,Feb,Transport & Storage,21.0,,,H
+2022,Feb,Accommodation & Food Services activities,123.0,,,I
+2022,Feb,Information & Communication Activities,934.0,,,J
+2022,Feb,Financial & insurance Activities,230.0,,,K
+2022,Feb,Real Estate Activities,,,,L
+2022,Feb,"All other Professional, Scientific & Technical",70.0,,,M
+2022,Feb,"Professional, Scientific&Technical Activities",44.0,,,M
+2022,Feb,Administrative & Support Service Activities,11.0,,,N
+2022,Feb,Public Administration & Defence,4.0,,,O
+2022,Feb,Education,13.0,,,P
+2022,Feb,Health & Social Work Activities,461.0,,,Q
+2022,Feb,"Arts , Entertainment and Recreation",14.0,,,R
+2022,Feb,Other Service activities,126.0,,,S
+2022,Feb,Domestic- Activities of Households as Employer,,,,T
+2022,Mar,"Agriculture, Forestry & Fishing",274.0,,,A
+2022,Mar,Mining & Quarrying,2.0,,,B
+2022,Mar,All Other Manufacturing,50.0,,,C
+2022,Mar,Manufacture of Chemicals & Pharmaceuticals,55.0,,,C
+2022,Mar,"Manufacture of Computers, Electronics & Optica",55.0,,,C
+2022,Mar,"Manufacture of Food, Drink & Tobacco",43.0,,,C
+2022,Mar,Manufacture of Medical Devices,26.0,,,C
+2022,Mar,Electricity & Gas & Air Conditioning Supply,18.0,,,D
+2022,Mar,Water Supply - Sewerage Waste Management & Rem,,,,E
+2022,Mar,Construction,127.0,,,F
+2022,Mar,Wholesale & Retail Trade,33.0,,,G
+2022,Mar,Transport & Storage,45.0,,,H
+2022,Mar,Accommodation & Food Services activities,175.0,,,I
+2022,Mar,Information & Communication Activities,1260.0,,,J
+2022,Mar,Financial & insurance Activities,379.0,,,K
+2022,Mar,Real Estate Activities,1.0,,,L
+2022,Mar,"All other Professional, Scientific & Technical",64.0,,,M
+2022,Mar,"Professional, Scientific&Technical Activities",69.0,,,M
+2022,Mar,Administrative & Support Service Activities,8.0,,,N
+2022,Mar,Public Administration & Defence,4.0,,,O
+2022,Mar,Education,15.0,,,P
+2022,Mar,Health & Social Work Activities,564.0,,,Q
+2022,Mar,"Arts , Entertainment and Recreation",18.0,,,R
+2022,Mar,Other Service activities,173.0,,,S
+2022,Mar,Domestic- Activities of Households as Employer,,,,T
+2022,Apr,"Agriculture, Forestry & Fishing",1407.0,,,A
+2022,Apr,Mining & Quarrying,,,,B
+2022,Apr,All Other Manufacturing,53.0,,,C
+2022,Apr,Manufacture of Chemicals & Pharmaceuticals,70.0,,,C
+2022,Apr,"Manufacture of Computers, Electronics & Optica",87.0,,,C
+2022,Apr,"Manufacture of Food, Drink & Tobacco",105.0,,,C
+2022,Apr,Manufacture of Medical Devices,28.0,,,C
+2022,Apr,Electricity & Gas & Air Conditioning Supply,16.0,,,D
+2022,Apr,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2022,Apr,Construction,109.0,,,F
+2022,Apr,Wholesale & Retail Trade,34.0,,,G
+2022,Apr,Transport & Storage,75.0,,,H
+2022,Apr,Accommodation & Food Services activities,172.0,,,I
+2022,Apr,Information & Communication Activities,872.0,,,J
+2022,Apr,Financial & insurance Activities,234.0,,,K
+2022,Apr,Real Estate Activities,3.0,,,L
+2022,Apr,"All other Professional, Scientific & Technical",56.0,,,M
+2022,Apr,"Professional, Scientific&Technical Activities",23.0,,,M
+2022,Apr,Administrative & Support Service Activities,7.0,,,N
+2022,Apr,Public Administration & Defence,6.0,,,O
+2022,Apr,Education,13.0,,,P
+2022,Apr,Health & Social Work Activities,496.0,,,Q
+2022,Apr,"Arts , Entertainment and Recreation",29.0,,,R
+2022,Apr,Other Service activities,115.0,,,S
+2022,Apr,Domestic- Activities of Households as Employer,,,,T
+2022,May,"Agriculture, Forestry & Fishing",877.0,,,A
+2022,May,Mining & Quarrying,,,,B
+2022,May,All Other Manufacturing,47.0,,,C
+2022,May,Manufacture of Chemicals & Pharmaceuticals,46.0,,,C
+2022,May,"Manufacture of Computers, Electronics & Optica",104.0,,,C
+2022,May,"Manufacture of Food, Drink & Tobacco",31.0,,,C
+2022,May,Manufacture of Medical Devices,58.0,,,C
+2022,May,Electricity & Gas & Air Conditioning Supply,19.0,,,D
+2022,May,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2022,May,Construction,131.0,,,F
+2022,May,Wholesale & Retail Trade,30.0,,,G
+2022,May,Transport & Storage,59.0,,,H
+2022,May,Accommodation & Food Services activities,303.0,,,I
+2022,May,Information & Communication Activities,1064.0,,,J
+2022,May,Financial & insurance Activities,226.0,,,K
+2022,May,Real Estate Activities,1.0,,,L
+2022,May,"All other Professional, Scientific & Technical",92.0,,,M
+2022,May,"Professional, Scientific&Technical Activities",32.0,,,M
+2022,May,Administrative & Support Service Activities,5.0,,,N
+2022,May,Public Administration & Defence,5.0,,,O
+2022,May,Education,16.0,,,P
+2022,May,Health & Social Work Activities,703.0,,,Q
+2022,May,"Arts , Entertainment and Recreation",22.0,,,R
+2022,May,Other Service activities,123.0,,,S
+2022,May,Domestic- Activities of Households as Employer,1.0,,,T
+2022,Jun,"Agriculture, Forestry & Fishing",708.0,,,A
+2022,Jun,Mining & Quarrying,1.0,,,B
+2022,Jun,All Other Manufacturing,45.0,,,C
+2022,Jun,Manufacture of Chemicals & Pharmaceuticals,24.0,,,C
+2022,Jun,"Manufacture of Computers, Electronics & Optica",29.0,,,C
+2022,Jun,"Manufacture of Food, Drink & Tobacco",34.0,,,C
+2022,Jun,Manufacture of Medical Devices,10.0,,,C
+2022,Jun,Electricity & Gas & Air Conditioning Supply,14.0,,,D
+2022,Jun,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2022,Jun,Construction,157.0,,,F
+2022,Jun,Wholesale & Retail Trade,19.0,,,G
+2022,Jun,Transport & Storage,16.0,,,H
+2022,Jun,Accommodation & Food Services activities,441.0,,,I
+2022,Jun,Information & Communication Activities,761.0,,,J
+2022,Jun,Financial & insurance Activities,198.0,,,K
+2022,Jun,Real Estate Activities,2.0,,,L
+2022,Jun,"All other Professional, Scientific & Technical",90.0,,,M
+2022,Jun,"Professional, Scientific&Technical Activities",19.0,,,M
+2022,Jun,Administrative & Support Service Activities,8.0,,,N
+2022,Jun,Public Administration & Defence,4.0,,,O
+2022,Jun,Education,14.0,,,P
+2022,Jun,Health & Social Work Activities,1141.0,,,Q
+2022,Jun,"Arts , Entertainment and Recreation",37.0,,,R
+2022,Jun,Other Service activities,104.0,,,S
+2022,Jun,Domestic- Activities of Households as Employer,,,,T
+2022,Jul,"Agriculture, Forestry & Fishing",217.0,,,A
+2022,Jul,Mining & Quarrying,,,,B
+2022,Jul,All Other Manufacturing,111.0,,,C
+2022,Jul,Manufacture of Chemicals & Pharmaceuticals,64.0,,,C
+2022,Jul,"Manufacture of Computers, Electronics & Optica",71.0,,,C
+2022,Jul,"Manufacture of Food, Drink & Tobacco",30.0,,,C
+2022,Jul,Manufacture of Medical Devices,25.0,,,C
+2022,Jul,Electricity & Gas & Air Conditioning Supply,21.0,,,D
+2022,Jul,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2022,Jul,Construction,132.0,,,F
+2022,Jul,Wholesale & Retail Trade,26.0,,,G
+2022,Jul,Transport & Storage,24.0,,,H
+2022,Jul,Accommodation & Food Services activities,219.0,,,I
+2022,Jul,Information & Communication Activities,1236.0,,,J
+2022,Jul,Financial & insurance Activities,300.0,,,K
+2022,Jul,Real Estate Activities,2.0,,,L
+2022,Jul,"All other Professional, Scientific & Technical",122.0,,,M
+2022,Jul,"Professional, Scientific&Technical Activities",42.0,,,M
+2022,Jul,Administrative & Support Service Activities,8.0,,,N
+2022,Jul,Public Administration & Defence,3.0,,,O
+2022,Jul,Education,15.0,,,P
+2022,Jul,Health & Social Work Activities,1100.0,,,Q
+2022,Jul,"Arts , Entertainment and Recreation",46.0,,,R
+2022,Jul,Other Service activities,140.0,,,S
+2022,Jul,Domestic- Activities of Households as Employer,,,,T
+2022,Aug,"Agriculture, Forestry & Fishing",140.0,,,A
+2022,Aug,Mining & Quarrying,1.0,,,B
+2022,Aug,All Other Manufacturing,55.0,,,C
+2022,Aug,Manufacture of Chemicals & Pharmaceuticals,69.0,,,C
+2022,Aug,"Manufacture of Computers, Electronics & Optica",40.0,,,C
+2022,Aug,"Manufacture of Food, Drink & Tobacco",18.0,,,C
+2022,Aug,Manufacture of Medical Devices,35.0,,,C
+2022,Aug,Electricity & Gas & Air Conditioning Supply,30.0,,,D
+2022,Aug,Water Supply - Sewerage Waste Management & Rem,3.0,,,E
+2022,Aug,Construction,110.0,,,F
+2022,Aug,Wholesale & Retail Trade,33.0,,,G
+2022,Aug,Transport & Storage,46.0,,,H
+2022,Aug,Accommodation & Food Services activities,274.0,,,I
+2022,Aug,Information & Communication Activities,1040.0,,,J
+2022,Aug,Financial & insurance Activities,375.0,,,K
+2022,Aug,Real Estate Activities,1.0,,,L
+2022,Aug,"All other Professional, Scientific & Technical",76.0,,,M
+2022,Aug,"Professional, Scientific&Technical Activities",40.0,,,M
+2022,Aug,Administrative & Support Service Activities,12.0,,,N
+2022,Aug,Public Administration & Defence,4.0,,,O
+2022,Aug,Education,23.0,,,P
+2022,Aug,Health & Social Work Activities,930.0,,,Q
+2022,Aug,"Arts , Entertainment and Recreation",52.0,,,R
+2022,Aug,Other Service activities,129.0,,,S
+2022,Aug,Domestic- Activities of Households as Employer,,,,T
+2022,Sep,"Agriculture, Forestry & Fishing",121.0,,,A
+2022,Sep,Mining & Quarrying,,,,B
+2022,Sep,All Other Manufacturing,67.0,,,C
+2022,Sep,Manufacture of Chemicals & Pharmaceuticals,66.0,,,C
+2022,Sep,"Manufacture of Computers, Electronics & Optica",45.0,,,C
+2022,Sep,"Manufacture of Food, Drink & Tobacco",26.0,,,C
+2022,Sep,Manufacture of Medical Devices,37.0,,,C
+2022,Sep,Electricity & Gas & Air Conditioning Supply,21.0,,,D
+2022,Sep,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2022,Sep,Construction,106.0,,,F
+2022,Sep,Wholesale & Retail Trade,25.0,,,G
+2022,Sep,Transport & Storage,47.0,,,H
+2022,Sep,Accommodation & Food Services activities,228.0,,,I
+2022,Sep,Information & Communication Activities,1090.0,,,J
+2022,Sep,Financial & insurance Activities,420.0,,,K
+2022,Sep,Real Estate Activities,5.0,,,L
+2022,Sep,"All other Professional, Scientific & Technical",96.0,,,M
+2022,Sep,"Professional, Scientific&Technical Activities",39.0,,,M
+2022,Sep,Administrative & Support Service Activities,4.0,,,N
+2022,Sep,Public Administration & Defence,2.0,,,O
+2022,Sep,Education,19.0,,,P
+2022,Sep,Health & Social Work Activities,750.0,,,Q
+2022,Sep,"Arts , Entertainment and Recreation",21.0,,,R
+2022,Sep,Other Service activities,186.0,,,S
+2022,Sep,Domestic- Activities of Households as Employer,,,,T
+2022,Oct,"Agriculture, Forestry & Fishing",96.0,,,A
+2022,Oct,Mining & Quarrying,2.0,,,B
+2022,Oct,All Other Manufacturing,51.0,,,C
+2022,Oct,Manufacture of Chemicals & Pharmaceuticals,69.0,,,C
+2022,Oct,"Manufacture of Computers, Electronics & Optica",43.0,,,C
+2022,Oct,"Manufacture of Food, Drink & Tobacco",17.0,,,C
+2022,Oct,Manufacture of Medical Devices,24.0,,,C
+2022,Oct,Electricity & Gas & Air Conditioning Supply,18.0,,,D
+2022,Oct,Water Supply - Sewerage Waste Management & Rem,4.0,,,E
+2022,Oct,Construction,162.0,,,F
+2022,Oct,Wholesale & Retail Trade,34.0,,,G
+2022,Oct,Transport & Storage,89.0,,,H
+2022,Oct,Accommodation & Food Services activities,223.0,,,I
+2022,Oct,Information & Communication Activities,810.0,,,J
+2022,Oct,Financial & insurance Activities,332.0,,,K
+2022,Oct,Real Estate Activities,3.0,,,L
+2022,Oct,"All other Professional, Scientific & Technical",113.0,,,M
+2022,Oct,"Professional, Scientific&Technical Activities",20.0,,,M
+2022,Oct,Administrative & Support Service Activities,5.0,,,N
+2022,Oct,Public Administration & Defence,4.0,,,O
+2022,Oct,Education,20.0,,,P
+2022,Oct,Health & Social Work Activities,723.0,,,Q
+2022,Oct,"Arts , Entertainment and Recreation",49.0,,,R
+2022,Oct,Other Service activities,152.0,,,S
+2022,Oct,Domestic- Activities of Households as Employer,1.0,,,T
+2022,Nov,"Agriculture, Forestry & Fishing",78.0,,,A
+2022,Nov,Mining & Quarrying,2.0,,,B
+2022,Nov,All Other Manufacturing,90.0,,,C
+2022,Nov,Manufacture of Chemicals & Pharmaceuticals,88.0,,,C
+2022,Nov,"Manufacture of Computers, Electronics & Optica",49.0,,,C
+2022,Nov,"Manufacture of Food, Drink & Tobacco",25.0,,,C
+2022,Nov,Manufacture of Medical Devices,25.0,,,C
+2022,Nov,Electricity & Gas & Air Conditioning Supply,25.0,,,D
+2022,Nov,Water Supply - Sewerage Waste Management & Rem,3.0,,,E
+2022,Nov,Construction,129.0,,,F
+2022,Nov,Wholesale & Retail Trade,33.0,,,G
+2022,Nov,Transport & Storage,45.0,,,H
+2022,Nov,Accommodation & Food Services activities,313.0,,,I
+2022,Nov,Information & Communication Activities,853.0,,,J
+2022,Nov,Financial & insurance Activities,340.0,,,K
+2022,Nov,Real Estate Activities,1.0,,,L
+2022,Nov,"All other Professional, Scientific & Technical",168.0,,,M
+2022,Nov,"Professional, Scientific&Technical Activities",33.0,,,M
+2022,Nov,Administrative & Support Service Activities,12.0,,,N
+2022,Nov,Public Administration & Defence,4.0,,,O
+2022,Nov,Education,26.0,,,P
+2022,Nov,Health & Social Work Activities,1049.0,,,Q
+2022,Nov,"Arts , Entertainment and Recreation",28.0,,,R
+2022,Nov,Other Service activities,180.0,,,S
+2022,Nov,Domestic- Activities of Households as Employer,,,,T
+2022,Dec,"Agriculture, Forestry & Fishing",98.0,,,A
+2022,Dec,Mining & Quarrying,1.0,,,B
+2022,Dec,All Other Manufacturing,81.0,,,C
+2022,Dec,Manufacture of Chemicals & Pharmaceuticals,52.0,,,C
+2022,Dec,"Manufacture of Computers, Electronics & Optica",34.0,,,C
+2022,Dec,"Manufacture of Food, Drink & Tobacco",3.0,,,C
+2022,Dec,Manufacture of Medical Devices,19.0,,,C
+2022,Dec,Electricity & Gas & Air Conditioning Supply,14.0,,,D
+2022,Dec,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2022,Dec,Construction,94.0,,,F
+2022,Dec,Wholesale & Retail Trade,26.0,,,G
+2022,Dec,Transport & Storage,32.0,,,H
+2022,Dec,Accommodation & Food Services activities,198.0,,,I
+2022,Dec,Information & Communication Activities,470.0,,,J
+2022,Dec,Financial & insurance Activities,174.0,,,K
+2022,Dec,Real Estate Activities,1.0,,,L
+2022,Dec,"All other Professional, Scientific & Technical",112.0,,,M
+2022,Dec,"Professional, Scientific&Technical Activities",17.0,,,M
+2022,Dec,Administrative & Support Service Activities,4.0,,,N
+2022,Dec,Public Administration & Defence,1.0,,,O
+2022,Dec,Education,15.0,,,P
+2022,Dec,Health & Social Work Activities,661.0,,,Q
+2022,Dec,"Arts , Entertainment and Recreation",20.0,,,R
+2022,Dec,Other Service activities,88.0,,,S
+2022,Dec,Domestic- Activities of Households as Employer,,,,T
+2023,Jan,"Agriculture, Forestry & Fishing",87.0,,,A
+2023,Jan,Mining & Quarrying,1.0,,,B
+2023,Jan,All Other Manufacturing,73.0,,,C
+2023,Jan,Manufacture of Chemicals & Pharmaceuticals,62.0,,,C
+2023,Jan,"Manufacture of Computers, Electronics & Optica",36.0,,,C
+2023,Jan,"Manufacture of Food, Drink & Tobacco",23.0,,,C
+2023,Jan,Manufacture of Medical Devices,28.0,,,C
+2023,Jan,Electricity & Gas & Air Conditioning Supply,20.0,,,D
+2023,Jan,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2023,Jan,Construction,102.0,,,F
+2023,Jan,Wholesale & Retail Trade,17.0,,,G
+2023,Jan,Transport & Storage,44.0,,,H
+2023,Jan,Accommodation & Food Services activities,213.0,,,I
+2023,Jan,Information & Communication Activities,427.0,,,J
+2023,Jan,Financial & insurance Activities,190.0,,,K
+2023,Jan,Real Estate Activities,2.0,,,L
+2023,Jan,"All other Professional, Scientific & Technical",118.0,,,M
+2023,Jan,"Professional, Scientific&Technical Activities",22.0,,,M
+2023,Jan,Administrative & Support Service Activities,7.0,,,N
+2023,Jan,Public Administration & Defence,2.0,,,O
+2023,Jan,Education,14.0,,,P
+2023,Jan,Health & Social Work Activities,912.0,,,Q
+2023,Jan,"Arts , Entertainment and Recreation",25.0,,,R
+2023,Jan,Other Service activities,101.0,,,S
+2023,Jan,Domestic- Activities of Households as Employer,,,,T
+2023,Feb,"Agriculture, Forestry & Fishing",83.0,,,A
+2023,Feb,Mining & Quarrying,,,,B
+2023,Feb,All Other Manufacturing,45.0,,,C
+2023,Feb,Manufacture of Chemicals & Pharmaceuticals,47.0,,,C
+2023,Feb,"Manufacture of Computers, Electronics & Optica",42.0,,,C
+2023,Feb,"Manufacture of Food, Drink & Tobacco",30.0,,,C
+2023,Feb,Manufacture of Medical Devices,11.0,,,C
+2023,Feb,Electricity & Gas & Air Conditioning Supply,13.0,,,D
+2023,Feb,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2023,Feb,Construction,99.0,,,F
+2023,Feb,Wholesale & Retail Trade,19.0,,,G
+2023,Feb,Transport & Storage,70.0,,,H
+2023,Feb,Accommodation & Food Services activities,185.0,,,I
+2023,Feb,Information & Communication Activities,359.0,,,J
+2023,Feb,Financial & insurance Activities,165.0,,,K
+2023,Feb,Real Estate Activities,1.0,,,L
+2023,Feb,"All other Professional, Scientific & Technical",62.0,,,M
+2023,Feb,"Professional, Scientific&Technical Activities",19.0,,,M
+2023,Feb,Administrative & Support Service Activities,7.0,,,N
+2023,Feb,Public Administration & Defence,1.0,,,O
+2023,Feb,Education,10.0,,,P
+2023,Feb,Health & Social Work Activities,791.0,,,Q
+2023,Feb,"Arts , Entertainment and Recreation",24.0,,,R
+2023,Feb,Other Service activities,107.0,,,S
+2023,Feb,Domestic- Activities of Households as Employer,,,,T
+2023,Mar,"Agriculture, Forestry & Fishing",469.0,,,A
+2023,Mar,Mining & Quarrying,,,,B
+2023,Mar,All Other Manufacturing,58.0,,,C
+2023,Mar,Manufacture of Chemicals & Pharmaceuticals,41.0,,,C
+2023,Mar,"Manufacture of Computers, Electronics & Optica",51.0,,,C
+2023,Mar,"Manufacture of Food, Drink & Tobacco",19.0,,,C
+2023,Mar,Manufacture of Medical Devices,17.0,,,C
+2023,Mar,Electricity & Gas & Air Conditioning Supply,27.0,,,D
+2023,Mar,Water Supply - Sewerage Waste Management & Rem,9.0,,,E
+2023,Mar,Construction,124.0,,,F
+2023,Mar,Wholesale & Retail Trade,14.0,,,G
+2023,Mar,Transport & Storage,50.0,,,H
+2023,Mar,Accommodation & Food Services activities,156.0,,,I
+2023,Mar,Information & Communication Activities,308.0,,,J
+2023,Mar,Financial & insurance Activities,179.0,,,K
+2023,Mar,Real Estate Activities,2.0,,,L
+2023,Mar,"All other Professional, Scientific & Technical",80.0,,,M
+2023,Mar,"Professional, Scientific&Technical Activities",17.0,,,M
+2023,Mar,Administrative & Support Service Activities,10.0,,,N
+2023,Mar,Public Administration & Defence,1.0,,,O
+2023,Mar,Education,13.0,,,P
+2023,Mar,Health & Social Work Activities,726.0,,,Q
+2023,Mar,"Arts , Entertainment and Recreation",47.0,,,R
+2023,Mar,Other Service activities,128.0,,,S
+2023,Mar,Domestic- Activities of Households as Employer,,,,T
+2023,Apr,"Agriculture, Forestry & Fishing",253.0,,,A
+2023,Apr,Mining & Quarrying,8.0,,,B
+2023,Apr,All Other Manufacturing,44.0,,,C
+2023,Apr,Manufacture of Chemicals & Pharmaceuticals,60.0,,,C
+2023,Apr,"Manufacture of Computers, Electronics & Optica",62.0,,,C
+2023,Apr,"Manufacture of Food, Drink & Tobacco",20.0,,,C
+2023,Apr,Manufacture of Medical Devices,19.0,,,C
+2023,Apr,Electricity & Gas & Air Conditioning Supply,15.0,,,D
+2023,Apr,Water Supply - Sewerage Waste Management & Rem,3.0,,,E
+2023,Apr,Construction,89.0,,,F
+2023,Apr,Wholesale & Retail Trade,23.0,,,G
+2023,Apr,Transport & Storage,90.0,,,H
+2023,Apr,Accommodation & Food Services activities,179.0,,,I
+2023,Apr,Information & Communication Activities,306.0,,,J
+2023,Apr,Financial & insurance Activities,130.0,,,K
+2023,Apr,Real Estate Activities,,,,L
+2023,Apr,"All other Professional, Scientific & Technical",60.0,,,M
+2023,Apr,"Professional, Scientific&Technical Activities",16.0,,,M
+2023,Apr,Administrative & Support Service Activities,3.0,,,N
+2023,Apr,Public Administration & Defence,,,,O
+2023,Apr,Education,10.0,,,P
+2023,Apr,Health & Social Work Activities,649.0,,,Q
+2023,Apr,"Arts , Entertainment and Recreation",26.0,,,R
+2023,Apr,Other Service activities,114.0,,,S
+2023,Apr,Domestic- Activities of Households as Employer,,,,T
+2023,May,"Agriculture, Forestry & Fishing",91.0,,,A
+2023,May,Mining & Quarrying,,,,B
+2023,May,All Other Manufacturing,78.0,,,C
+2023,May,Manufacture of Chemicals & Pharmaceuticals,90.0,,,C
+2023,May,"Manufacture of Computers, Electronics & Optica",86.0,,,C
+2023,May,"Manufacture of Food, Drink & Tobacco",23.0,,,C
+2023,May,Manufacture of Medical Devices,15.0,,,C
+2023,May,Electricity & Gas & Air Conditioning Supply,35.0,,,D
+2023,May,Water Supply - Sewerage Waste Management & Rem,9.0,,,E
+2023,May,Construction,136.0,,,F
+2023,May,Wholesale & Retail Trade,30.0,,,G
+2023,May,Transport & Storage,54.0,,,H
+2023,May,Accommodation & Food Services activities,261.0,,,I
+2023,May,Information & Communication Activities,360.0,,,J
+2023,May,Financial & insurance Activities,197.0,,,K
+2023,May,Real Estate Activities,1.0,,,L
+2023,May,"All other Professional, Scientific & Technical",73.0,,,M
+2023,May,"Professional, Scientific&Technical Activities",27.0,,,M
+2023,May,Administrative & Support Service Activities,5.0,,,N
+2023,May,Public Administration & Defence,,,,O
+2023,May,Education,20.0,,,P
+2023,May,Health & Social Work Activities,1012.0,,,Q
+2023,May,"Arts , Entertainment and Recreation",29.0,,,R
+2023,May,Other Service activities,126.0,,,S
+2023,May,Domestic- Activities of Households as Employer,,,,T
+2023,Jun,"Agriculture, Forestry & Fishing",56.0,,,A
+2023,Jun,Mining & Quarrying,4.0,,,B
+2023,Jun,All Other Manufacturing,78.0,,,C
+2023,Jun,Manufacture of Chemicals & Pharmaceuticals,81.0,,,C
+2023,Jun,"Manufacture of Computers, Electronics & Optica",137.0,,,C
+2023,Jun,"Manufacture of Food, Drink & Tobacco",29.0,,,C
+2023,Jun,Manufacture of Medical Devices,22.0,,,C
+2023,Jun,Electricity & Gas & Air Conditioning Supply,46.0,,,D
+2023,Jun,Water Supply - Sewerage Waste Management & Rem,2.0,,,E
+2023,Jun,Construction,129.0,,,F
+2023,Jun,Wholesale & Retail Trade,38.0,,,G
+2023,Jun,Transport & Storage,83.0,,,H
+2023,Jun,Accommodation & Food Services activities,271.0,,,I
+2023,Jun,Information & Communication Activities,521.0,,,J
+2023,Jun,Financial & insurance Activities,252.0,,,K
+2023,Jun,Real Estate Activities,1.0,,,L
+2023,Jun,"All other Professional, Scientific & Technical",118.0,,,M
+2023,Jun,"Professional, Scientific&Technical Activities",15.0,,,M
+2023,Jun,Administrative & Support Service Activities,7.0,,,N
+2023,Jun,Public Administration & Defence,3.0,,,O
+2023,Jun,Education,23.0,,,P
+2023,Jun,Health & Social Work Activities,1040.0,,,Q
+2023,Jun,"Arts , Entertainment and Recreation",41.0,,,R
+2023,Jun,Other Service activities,140.0,,,S
+2023,Jun,Domestic- Activities of Households as Employer,1.0,,,T
+2023,Jul,"Agriculture, Forestry & Fishing",62.0,,,A
+2023,Jul,Mining & Quarrying,2.0,,,B
+2023,Jul,All Other Manufacturing,77.0,,,C
+2023,Jul,Manufacture of Chemicals & Pharmaceuticals,82.0,,,C
+2023,Jul,"Manufacture of Computers, Electronics & Optica",158.0,,,C
+2023,Jul,"Manufacture of Food, Drink & Tobacco",29.0,,,C
+2023,Jul,Manufacture of Medical Devices,17.0,,,C
+2023,Jul,Electricity & Gas & Air Conditioning Supply,56.0,,,D
+2023,Jul,Water Supply - Sewerage Waste Management & Rem,21.0,,,E
+2023,Jul,Construction,110.0,,,F
+2023,Jul,Wholesale & Retail Trade,25.0,,,G
+2023,Jul,Transport & Storage,70.0,,,H
+2023,Jul,Accommodation & Food Services activities,238.0,,,I
+2023,Jul,Information & Communication Activities,487.0,,,J
+2023,Jul,Financial & insurance Activities,224.0,,,K
+2023,Jul,Real Estate Activities,1.0,,,L
+2023,Jul,"All other Professional, Scientific & Technical",103.0,,,M
+2023,Jul,"Professional, Scientific&Technical Activities",19.0,,,M
+2023,Jul,Administrative & Support Service Activities,5.0,,,N
+2023,Jul,Public Administration & Defence,2.0,,,O
+2023,Jul,Education,28.0,,,P
+2023,Jul,Health & Social Work Activities,1064.0,,,Q
+2023,Jul,"Arts , Entertainment and Recreation",18.0,,,R
+2023,Jul,Other Service activities,133.0,,,S
+2023,Jul,Domestic- Activities of Households as Employer,,,,T
+2023,Aug,"Agriculture, Forestry & Fishing",56.0,,,A
+2023,Aug,Mining & Quarrying,3.0,,,B
+2023,Aug,All Other Manufacturing,50.0,,,C
+2023,Aug,Manufacture of Chemicals & Pharmaceuticals,91.0,,,C
+2023,Aug,"Manufacture of Computers, Electronics & Optica",55.0,,,C
+2023,Aug,"Manufacture of Food, Drink & Tobacco",26.0,,,C
+2023,Aug,Manufacture of Medical Devices,25.0,,,C
+2023,Aug,Electricity & Gas & Air Conditioning Supply,45.0,,,D
+2023,Aug,Water Supply - Sewerage Waste Management & Rem,13.0,,,E
+2023,Aug,Construction,111.0,,,F
+2023,Aug,Wholesale & Retail Trade,13.0,,,G
+2023,Aug,Transport & Storage,87.0,,,H
+2023,Aug,Accommodation & Food Services activities,229.0,,,I
+2023,Aug,Information & Communication Activities,434.0,,,J
+2023,Aug,Financial & insurance Activities,225.0,,,K
+2023,Aug,Real Estate Activities,1.0,,,L
+2023,Aug,"All other Professional, Scientific & Technical",83.0,,,M
+2023,Aug,"Professional, Scientific&Technical Activities",16.0,,,M
+2023,Aug,Administrative & Support Service Activities,13.0,,,N
+2023,Aug,Public Administration & Defence,5.0,,,O
+2023,Aug,Education,24.0,,,P
+2023,Aug,Health & Social Work Activities,635.0,,,Q
+2023,Aug,"Arts , Entertainment and Recreation",19.0,,,R
+2023,Aug,Other Service activities,152.0,,,S
+2023,Aug,Domestic- Activities of Households as Employer,,,,T
+2023,Sep,"Agriculture, Forestry & Fishing",42.0,,,A
+2023,Sep,Mining & Quarrying,1.0,,,B
+2023,Sep,All Other Manufacturing,56.0,,,C
+2023,Sep,Manufacture of Chemicals & Pharmaceuticals,54.0,,,C
+2023,Sep,"Manufacture of Computers, Electronics & Optica",58.0,,,C
+2023,Sep,"Manufacture of Food, Drink & Tobacco",16.0,,,C
+2023,Sep,Manufacture of Medical Devices,37.0,,,C
+2023,Sep,Electricity & Gas & Air Conditioning Supply,32.0,,,D
+2023,Sep,Water Supply - Sewerage Waste Management & Rem,10.0,,,E
+2023,Sep,Construction,93.0,,,F
+2023,Sep,Wholesale & Retail Trade,24.0,,,G
+2023,Sep,Transport & Storage,113.0,,,H
+2023,Sep,Accommodation & Food Services activities,215.0,,,I
+2023,Sep,Information & Communication Activities,386.0,,,J
+2023,Sep,Financial & insurance Activities,219.0,,,K
+2023,Sep,Real Estate Activities,1.0,,,L
+2023,Sep,"All other Professional, Scientific & Technical",61.0,,,M
+2023,Sep,"Professional, Scientific&Technical Activities",36.0,,,M
+2023,Sep,Administrative & Support Service Activities,8.0,,,N
+2023,Sep,Public Administration & Defence,,,,O
+2023,Sep,Education,28.0,,,P
+2023,Sep,Health & Social Work Activities,558.0,,,Q
+2023,Sep,"Arts , Entertainment and Recreation",30.0,,,R
+2023,Sep,Other Service activities,125.0,,,S
+2023,Sep,Domestic- Activities of Households as Employer,,,,T
+2023,Oct,"Agriculture, Forestry & Fishing",43.0,,,A
+2023,Oct,Mining & Quarrying,7.0,,,B
+2023,Oct,All Other Manufacturing,57.0,,,C
+2023,Oct,Manufacture of Chemicals & Pharmaceuticals,96.0,,,C
+2023,Oct,"Manufacture of Computers, Electronics & Optica",45.0,,,C
+2023,Oct,"Manufacture of Food, Drink & Tobacco",22.0,,,C
+2023,Oct,Manufacture of Medical Devices,33.0,,,C
+2023,Oct,Electricity & Gas & Air Conditioning Supply,34.0,,,D
+2023,Oct,Water Supply - Sewerage Waste Management & Rem,4.0,,,E
+2023,Oct,Construction,143.0,,,F
+2023,Oct,Wholesale & Retail Trade,33.0,,,G
+2023,Oct,Transport & Storage,70.0,,,H
+2023,Oct,Accommodation & Food Services activities,236.0,,,I
+2023,Oct,Information & Communication Activities,448.0,,,J
+2023,Oct,Financial & insurance Activities,202.0,,,K
+2023,Oct,Real Estate Activities,,,,L
+2023,Oct,"All other Professional, Scientific & Technical",92.0,,,M
+2023,Oct,"Professional, Scientific&Technical Activities",36.0,,,M
+2023,Oct,Administrative & Support Service Activities,8.0,,,N
+2023,Oct,Public Administration & Defence,1.0,,,O
+2023,Oct,Education,29.0,,,P
+2023,Oct,Health & Social Work Activities,754.0,,,Q
+2023,Oct,"Arts , Entertainment and Recreation",39.0,,,R
+2023,Oct,Other Service activities,112.0,,,S
+2023,Oct,Domestic- Activities of Households as Employer,,,,T
+2023,Nov,"Agriculture, Forestry & Fishing",66.0,,,A
+2023,Nov,Mining & Quarrying,1.0,,,B
+2023,Nov,All Other Manufacturing,91.0,,,C
+2023,Nov,Manufacture of Chemicals & Pharmaceuticals,120.0,,,C
+2023,Nov,"Manufacture of Computers, Electronics & Optica",64.0,,,C
+2023,Nov,"Manufacture of Food, Drink & Tobacco",13.0,,,C
+2023,Nov,Manufacture of Medical Devices,23.0,,,C
+2023,Nov,Electricity & Gas & Air Conditioning Supply,30.0,,,D
+2023,Nov,Water Supply - Sewerage Waste Management & Rem,9.0,,,E
+2023,Nov,Construction,114.0,,,F
+2023,Nov,Wholesale & Retail Trade,38.0,,,G
+2023,Nov,Transport & Storage,126.0,,,H
+2023,Nov,Accommodation & Food Services activities,260.0,,,I
+2023,Nov,Information & Communication Activities,456.0,,,J
+2023,Nov,Financial & insurance Activities,233.0,,,K
+2023,Nov,Real Estate Activities,4.0,,,L
+2023,Nov,"All other Professional, Scientific & Technical",94.0,,,M
+2023,Nov,"Professional, Scientific&Technical Activities",32.0,,,M
+2023,Nov,Administrative & Support Service Activities,3.0,,,N
+2023,Nov,Public Administration & Defence,,,,O
+2023,Nov,Education,31.0,,,P
+2023,Nov,Health & Social Work Activities,1009.0,,,Q
+2023,Nov,"Arts , Entertainment and Recreation",24.0,,,R
+2023,Nov,Other Service activities,164.0,,,S
+2023,Nov,Domestic- Activities of Households as Employer,,,,T
+2023,Dec,"Agriculture, Forestry & Fishing",77.0,,,A
+2023,Dec,Mining & Quarrying,3.0,,,B
+2023,Dec,All Other Manufacturing,59.0,,,C
+2023,Dec,Manufacture of Chemicals & Pharmaceuticals,53.0,,,C
+2023,Dec,"Manufacture of Computers, Electronics & Optica",51.0,,,C
+2023,Dec,"Manufacture of Food, Drink & Tobacco",18.0,,,C
+2023,Dec,Manufacture of Medical Devices,34.0,,,C
+2023,Dec,Electricity & Gas & Air Conditioning Supply,18.0,,,D
+2023,Dec,Water Supply - Sewerage Waste Management & Rem,4.0,,,E
+2023,Dec,Construction,99.0,,,F
+2023,Dec,Wholesale & Retail Trade,20.0,,,G
+2023,Dec,Transport & Storage,50.0,,,H
+2023,Dec,Accommodation & Food Services activities,163.0,,,I
+2023,Dec,Information & Communication Activities,517.0,,,J
+2023,Dec,Financial & insurance Activities,157.0,,,K
+2023,Dec,Real Estate Activities,,,,L
+2023,Dec,"All other Professional, Scientific & Technical",66.0,,,M
+2023,Dec,"Professional, Scientific&Technical Activities",28.0,,,M
+2023,Dec,Administrative & Support Service Activities,4.0,,,N
+2023,Dec,Public Administration & Defence,,,,O
+2023,Dec,Education,16.0,,,P
+2023,Dec,Health & Social Work Activities,887.0,,,Q
+2023,Dec,"Arts , Entertainment and Recreation",14.0,,,R
+2023,Dec,Other Service activities,109.0,,,S
+2023,Dec,Domestic- Activities of Households as Employer,,,,T
+2024,Jan,"Agriculture, Forestry & Fishing",252.0,,,A
+2024,Jan,Mining & Quarrying,2.0,,,B
+2024,Jan,All Other Manufacturing,58.0,,,C
+2024,Jan,Manufacture of Chemicals & Pharmaceuticals,69.0,,,C
+2024,Jan,"Manufacture of Computers, Electronics & Optica",47.0,,,C
+2024,Jan,"Manufacture of Food, Drink & Tobacco",41.0,,,C
+2024,Jan,Manufacture of Medical Devices,36.0,,,C
+2024,Jan,Electricity & Gas & Air Conditioning Supply,41.0,,,D
+2024,Jan,Water Supply - Sewerage Waste Management & Rem,10.0,,,E
+2024,Jan,Construction,96.0,,,F
+2024,Jan,Wholesale & Retail Trade,33.0,,,G
+2024,Jan,Transport & Storage,78.0,,,H
+2024,Jan,Accommodation & Food Services activities,226.0,,,I
+2024,Jan,Information & Communication Activities,592.0,,,J
+2024,Jan,Financial & insurance Activities,162.0,,,K
+2024,Jan,Real Estate Activities,4.0,,,L
+2024,Jan,"All other Professional, Scientific & Technical",73.0,,,M
+2024,Jan,"Professional, Scientific&Technical Activities",13.0,,,M
+2024,Jan,Administrative & Support Service Activities,5.0,,,N
+2024,Jan,Public Administration & Defence,1.0,,,O
+2024,Jan,Education,22.0,,,P
+2024,Jan,Health & Social Work Activities,1431.0,,,Q
+2024,Jan,"Arts , Entertainment and Recreation",18.0,,,R
+2024,Jan,Other Service activities,113.0,,,S
+2024,Jan,Domestic- Activities of Households as Employer,,,,T
+2024,Feb,"Agriculture, Forestry & Fishing",591.0,,,A
+2024,Feb,Mining & Quarrying,2.0,,,B
+2024,Feb,All Other Manufacturing,107.0,,,C
+2024,Feb,Manufacture of Chemicals & Pharmaceuticals,56.0,,,C
+2024,Feb,"Manufacture of Computers, Electronics & Optica",50.0,,,C
+2024,Feb,"Manufacture of Food, Drink & Tobacco",47.0,,,C
+2024,Feb,Manufacture of Medical Devices,23.0,,,C
+2024,Feb,Electricity & Gas & Air Conditioning Supply,34.0,,,D
+2024,Feb,Water Supply - Sewerage Waste Management & Rem,13.0,,,E
+2024,Feb,Construction,87.0,,,F
+2024,Feb,Wholesale & Retail Trade,43.0,,,G
+2024,Feb,Transport & Storage,68.0,,,H
+2024,Feb,Accommodation & Food Services activities,279.0,,,I
+2024,Feb,Information & Communication Activities,511.0,,,J
+2024,Feb,Financial & insurance Activities,149.0,,,K
+2024,Feb,Real Estate Activities,2.0,,,L
+2024,Feb,"All other Professional, Scientific & Technical",76.0,,,M
+2024,Feb,"Professional, Scientific&Technical Activities",17.0,,,M
+2024,Feb,Administrative & Support Service Activities,10.0,,,N
+2024,Feb,Public Administration & Defence,2.0,,,O
+2024,Feb,Education,38.0,,,P
+2024,Feb,Health & Social Work Activities,1089.0,,,Q
+2024,Feb,"Arts , Entertainment and Recreation",44.0,,,R
+2024,Feb,Other Service activities,115.0,,,S
+2024,Feb,Domestic- Activities of Households as Employer,,,,T
+2024,Mar,"Agriculture, Forestry & Fishing",158.0,,,A
+2024,Mar,Mining & Quarrying,4.0,,,B
+2024,Mar,All Other Manufacturing,49.0,,,C
+2024,Mar,Manufacture of Chemicals & Pharmaceuticals,60.0,,,C
+2024,Mar,"Manufacture of Computers, Electronics & Optica",24.0,,,C
+2024,Mar,"Manufacture of Food, Drink & Tobacco",27.0,,,C
+2024,Mar,Manufacture of Medical Devices,11.0,,,C
+2024,Mar,Electricity & Gas & Air Conditioning Supply,35.0,,,D
+2024,Mar,Water Supply - Sewerage Waste Management & Rem,9.0,,,E
+2024,Mar,Construction,79.0,,,F
+2024,Mar,Wholesale & Retail Trade,19.0,,,G
+2024,Mar,Transport & Storage,38.0,,,H
+2024,Mar,Accommodation & Food Services activities,131.0,,,I
+2024,Mar,Information & Communication Activities,601.0,,,J
+2024,Mar,Financial & insurance Activities,235.0,,,K
+2024,Mar,Real Estate Activities,3.0,,,L
+2024,Mar,"All other Professional, Scientific & Technical",94.0,,,M
+2024,Mar,"Professional, Scientific&Technical Activities",17.0,,,M
+2024,Mar,Administrative & Support Service Activities,6.0,,,N
+2024,Mar,Public Administration & Defence,3.0,,,O
+2024,Mar,Education,17.0,,,P
+2024,Mar,Health & Social Work Activities,1211.0,,,Q
+2024,Mar,"Arts , Entertainment and Recreation",39.0,,,R
+2024,Mar,Other Service activities,87.0,,,S
+2024,Mar,Domestic- Activities of Households as Employer,2.0,,,T
+2024,Apr,"Agriculture, Forestry & Fishing",205.0,,,A
+2024,Apr,Mining & Quarrying,4.0,,,B
+2024,Apr,All Other Manufacturing,96.0,,,C
+2024,Apr,Manufacture of Chemicals & Pharmaceuticals,66.0,,,C
+2024,Apr,"Manufacture of Computers, Electronics & Optica",78.0,,,C
+2024,Apr,"Manufacture of Food, Drink & Tobacco",44.0,,,C
+2024,Apr,Manufacture of Medical Devices,62.0,,,C
+2024,Apr,Electricity & Gas & Air Conditioning Supply,53.0,,,D
+2024,Apr,Water Supply - Sewerage Waste Management & Rem,1.0,,,E
+2024,Apr,Construction,133.0,,,F
+2024,Apr,Wholesale & Retail Trade,21.0,,,G
+2024,Apr,Transport & Storage,108.0,,,H
+2024,Apr,Accommodation & Food Services activities,291.0,,,I
+2024,Apr,Information & Communication Activities,663.0,,,J
+2024,Apr,Financial & insurance Activities,182.0,,,K
+2024,Apr,Real Estate Activities,2.0,,,L
+2024,Apr,"All other Professional, Scientific & Technical",75.0,,,M
+2024,Apr,"Professional, Scientific&Technical Activities",16.0,,,M
+2024,Apr,Administrative & Support Service Activities,8.0,,,N
+2024,Apr,Public Administration & Defence,5.0,,,O
+2024,Apr,Education,30.0,,,P
+2024,Apr,Health & Social Work Activities,1145.0,,,Q
+2024,Apr,"Arts , Entertainment and Recreation",79.0,,,R
+2024,Apr,Other Service activities,140.0,,,S
+2024,Apr,Domestic- Activities of Households as Employer,1.0,,,T
+2024,May,"Agriculture, Forestry & Fishing",372.0,,,A
+2024,May,Mining & Quarrying,3.0,,,B
+2024,May,All Other Manufacturing,91.0,,,C
+2024,May,Manufacture of Chemicals & Pharmaceuticals,56.0,,,C
+2024,May,"Manufacture of Computers, Electronics & Optica",31.0,,,C
+2024,May,"Manufacture of Food, Drink & Tobacco",16.0,,,C
+2024,May,Manufacture of Medical Devices,14.0,,,C
+2024,May,Electricity & Gas & Air Conditioning Supply,27.0,,,D
+2024,May,Water Supply - Sewerage Waste Management & Rem,3.0,,,E
+2024,May,Construction,148.0,,,F
+2024,May,Wholesale & Retail Trade,41.0,,,G
+2024,May,Transport & Storage,133.0,,,H
+2024,May,Accommodation & Food Services activities,343.0,,,I
+2024,May,Information & Communication Activities,374.0,,,J
+2024,May,Financial & insurance Activities,140.0,,,K
+2024,May,Real Estate Activities,1.0,,,L
+2024,May,"All other Professional, Scientific & Technical",60.0,,,M
+2024,May,"Professional, Scientific&Technical Activities",12.0,,,M
+2024,May,Administrative & Support Service Activities,10.0,,,N
+2024,May,Public Administration & Defence,,,,O
+2024,May,Education,20.0,,,P
+2024,May,Health & Social Work Activities,872.0,,,Q
+2024,May,"Arts , Entertainment and Recreation",51.0,,,R
+2024,May,Other Service activities,117.0,,,S
+2024,May,Domestic- Activities of Households as Employer,,,,T
+2024,Jun,"Agriculture, Forestry & Fishing",281.0,,,A
+2024,Jun,Mining & Quarrying,4.0,,,B
+2024,Jun,All Other Manufacturing,75.0,,,C
+2024,Jun,Manufacture of Chemicals & Pharmaceuticals,56.0,,,C
+2024,Jun,"Manufacture of Computers, Electronics & Optica",41.0,,,C
+2024,Jun,"Manufacture of Food, Drink & Tobacco",23.0,,,C
+2024,Jun,Manufacture of Medical Devices,19.0,,,C
+2024,Jun,Electricity & Gas & Air Conditioning Supply,43.0,,,D
+2024,Jun,Water Supply - Sewerage Waste Management & Rem,4.0,,,E
+2024,Jun,Construction,120.0,,,F
+2024,Jun,Wholesale & Retail Trade,58.0,,,G
+2024,Jun,Transport & Storage,109.0,,,H
+2024,Jun,Accommodation & Food Services activities,188.0,,,I
+2024,Jun,Information & Communication Activities,541.0,,,J
+2024,Jun,Financial & insurance Activities,167.0,,,K
+2024,Jun,Real Estate Activities,2.0,,,L
+2024,Jun,"All other Professional, Scientific & Technical",46.0,,,M
+2024,Jun,"Professional, Scientific&Technical Activities",16.0,,,M
+2024,Jun,Administrative & Support Service Activities,7.0,,,N
+2024,Jun,Public Administration & Defence,,,,O
+2024,Jun,Education,22.0,,,P
+2024,Jun,Health & Social Work Activities,1056.0,,,Q
+2024,Jun,"Arts , Entertainment and Recreation",37.0,,,R
+2024,Jun,Other Service activities,104.0,,,S
+2024,Jun,Domestic- Activities of Households as Employer,,,,T
+2024,Jul,"Agriculture, Forestry & Fishing",402.0,,,A
+2024,Jul,Mining & Quarrying,1.0,,,B
+2024,Jul,All Other Manufacturing,117.0,,,C
+2024,Jul,Manufacture of Chemicals & Pharmaceuticals,105.0,,,C
+2024,Jul,"Manufacture of Computers, Electronics & Optica",80.0,,,C
+2024,Jul,"Manufacture of Food, Drink & Tobacco",38.0,,,C
+2024,Jul,Manufacture of Medical Devices,40.0,,,C
+2024,Jul,Electricity & Gas & Air Conditioning Supply,33.0,,,D
+2024,Jul,Water Supply - Sewerage Waste Management & Rem,14.0,,,E
+2024,Jul,Construction,173.0,,,F
+2024,Jul,Wholesale & Retail Trade,40.0,,,G
+2024,Jul,Transport & Storage,143.0,,,H
+2024,Jul,Accommodation & Food Services activities,395.0,,,I
+2024,Jul,Information & Communication Activities,753.0,,,J
+2024,Jul,Financial & insurance Activities,245.0,,,K
+2024,Jul,Real Estate Activities,4.0,,,L
+2024,Jul,"All other Professional, Scientific & Technical",74.0,,,M
+2024,Jul,"Professional, Scientific&Technical Activities",31.0,,,M
+2024,Jul,Administrative & Support Service Activities,7.0,,,N
+2024,Jul,Public Administration & Defence,,,,O
+2024,Jul,Education,26.0,,,P
+2024,Jul,Health & Social Work Activities,1476.0,,,Q
+2024,Jul,"Arts , Entertainment and Recreation",85.0,,,R
+2024,Jul,Other Service activities,237.0,,,S
+2024,Jul,Domestic- Activities of Households as Employer,,,,T
+2024,Aug,"Agriculture, Forestry & Fishing",272.0,,,A
+2024,Aug,Mining & Quarrying,4.0,,,B
+2024,Aug,All Other Manufacturing,76.0,,,C
+2024,Aug,Manufacture of Chemicals & Pharmaceuticals,81.0,,,C
+2024,Aug,"Manufacture of Computers, Electronics & Optica",30.0,,,C
+2024,Aug,"Manufacture of Food, Drink & Tobacco",28.0,,,C
+2024,Aug,Manufacture of Medical Devices,13.0,,,C
+2024,Aug,Electricity & Gas & Air Conditioning Supply,53.0,,,D
+2024,Aug,Water Supply - Sewerage Waste Management & Rem,10.0,,,E
+2024,Aug,Construction,138.0,,,F
+2024,Aug,Wholesale & Retail Trade,46.0,,,G
+2024,Aug,Transport & Storage,174.0,,,H
+2024,Aug,Accommodation & Food Services activities,385.0,,,I
+2024,Aug,Information & Communication Activities,594.0,,,J
+2024,Aug,Financial & insurance Activities,237.0,,,K
+2024,Aug,Real Estate Activities,1.0,,,L
+2024,Aug,"All other Professional, Scientific & Technical",65.0,,,M
+2024,Aug,"Professional, Scientific&Technical Activities",21.0,,,M
+2024,Aug,Administrative & Support Service Activities,10.0,,,N
+2024,Aug,Public Administration & Defence,2.0,,,O
+2024,Aug,Education,43.0,,,P
+2024,Aug,Health & Social Work Activities,843.0,,,Q
+2024,Aug,"Arts , Entertainment and Recreation",33.0,,,R
+2024,Aug,Other Service activities,204.0,,,S
+2024,Aug,Domestic- Activities of Households as Employer,,,,T
+2024,Sep,"Agriculture, Forestry & Fishing",412.0,,,A
+2024,Sep,Mining & Quarrying,3.0,,,B
+2024,Sep,All Other Manufacturing,83.0,,,C
+2024,Sep,Manufacture of Chemicals & Pharmaceuticals,44.0,,,C
+2024,Sep,"Manufacture of Computers, Electronics & Optica",38.0,,,C
+2024,Sep,"Manufacture of Food, Drink & Tobacco",24.0,,,C
+2024,Sep,Manufacture of Medical Devices,11.0,,,C
+2024,Sep,Electricity & Gas & Air Conditioning Supply,41.0,,,D
+2024,Sep,Water Supply - Sewerage Waste Management & Rem,8.0,,,E
+2024,Sep,Construction,128.0,,,F
+2024,Sep,Wholesale & Retail Trade,29.0,,,G
+2024,Sep,Transport & Storage,77.0,,,H
+2024,Sep,Accommodation & Food Services activities,254.0,,,I
+2024,Sep,Information & Communication Activities,538.0,,,J
+2024,Sep,Financial & insurance Activities,227.0,,,K
+2024,Sep,Real Estate Activities,,,,L
+2024,Sep,"All other Professional, Scientific & Technical",43.0,,,M
+2024,Sep,"Professional, Scientific&Technical Activities",35.0,,,M
+2024,Sep,Administrative & Support Service Activities,4.0,,,N
+2024,Sep,Public Administration & Defence,2.0,,,O
+2024,Sep,Education,32.0,,,P
+2024,Sep,Health & Social Work Activities,777.0,,,Q
+2024,Sep,"Arts , Entertainment and Recreation",60.0,,,R
+2024,Sep,Other Service activities,119.0,,,S
+2024,Sep,Domestic- Activities of Households as Employer,,,,T
+2024,Oct,"Agriculture, Forestry & Fishing",346.0,,,A
+2024,Oct,Mining & Quarrying,1.0,,,B
+2024,Oct,All Other Manufacturing,66.0,,,C
+2024,Oct,Manufacture of Chemicals & Pharmaceuticals,65.0,,,C
+2024,Oct,"Manufacture of Computers, Electronics & Optica",47.0,,,C
+2024,Oct,"Manufacture of Food, Drink & Tobacco",21.0,,,C
+2024,Oct,Manufacture of Medical Devices,13.0,,,C
+2024,Oct,Electricity & Gas & Air Conditioning Supply,47.0,,,D
+2024,Oct,Water Supply - Sewerage Waste Management & Rem,4.0,,,E
+2024,Oct,Construction,123.0,,,F
+2024,Oct,Wholesale & Retail Trade,36.0,,,G
+2024,Oct,Transport & Storage,129.0,,,H
+2024,Oct,Accommodation & Food Services activities,292.0,,,I
+2024,Oct,Information & Communication Activities,472.0,,,J
+2024,Oct,Financial & insurance Activities,192.0,,,K
+2024,Oct,Real Estate Activities,1.0,,,L
+2024,Oct,"All other Professional, Scientific & Technical",51.0,,,M
+2024,Oct,"Professional, Scientific&Technical Activities",22.0,,,M
+2024,Oct,Administrative & Support Service Activities,9.0,,,N
+2024,Oct,Public Administration & Defence,4.0,,,O
+2024,Oct,Education,35.0,,,P
+2024,Oct,Health & Social Work Activities,751.0,,,Q
+2024,Oct,"Arts , Entertainment and Recreation",39.0,,,R
+2024,Oct,Other Service activities,180.0,,,S
+2024,Oct,Domestic- Activities of Households as Employer,,,,T
+2024,Nov,"Agriculture, Forestry & Fishing",141.0,,,A
+2024,Nov,Mining & Quarrying,6.0,,,B
+2024,Nov,All Other Manufacturing,71.0,,,C
+2024,Nov,Manufacture of Chemicals & Pharmaceuticals,81.0,,,C
+2024,Nov,"Manufacture of Computers, Electronics & Optica",59.0,,,C
+2024,Nov,"Manufacture of Food, Drink & Tobacco",31.0,,,C
+2024,Nov,Manufacture of Medical Devices,31.0,,,C
+2024,Nov,Electricity & Gas & Air Conditioning Supply,30.0,,,D
+2024,Nov,Water Supply - Sewerage Waste Management & Rem,3.0,,,E
+2024,Nov,Construction,140.0,,,F
+2024,Nov,Wholesale & Retail Trade,37.0,,,G
+2024,Nov,Transport & Storage,137.0,,,H
+2024,Nov,Accommodation & Food Services activities,297.0,,,I
+2024,Nov,Information & Communication Activities,572.0,,,J
+2024,Nov,Financial & insurance Activities,211.0,,,K
+2024,Nov,Real Estate Activities,4.0,,,L
+2024,Nov,"All other Professional, Scientific & Technical",73.0,,,M
+2024,Nov,"Professional, Scientific&Technical Activities",33.0,,,M
+2024,Nov,Administrative & Support Service Activities,6.0,,,N
+2024,Nov,Public Administration & Defence,4.0,,,O
+2024,Nov,Education,37.0,,,P
+2024,Nov,Health & Social Work Activities,1042.0,,,Q
+2024,Nov,"Arts , Entertainment and Recreation",62.0,,,R
+2024,Nov,Other Service activities,178.0,,,S
+2024,Nov,Domestic- Activities of Households as Employer,,,,T
+2024,Dec,"Agriculture, Forestry & Fishing",193.0,,,A
+2024,Dec,Mining & Quarrying,3.0,,,B
+2024,Dec,All Other Manufacturing,92.0,,,C
+2024,Dec,Manufacture of Chemicals & Pharmaceuticals,90.0,,,C
+2024,Dec,"Manufacture of Computers, Electronics & Optica",45.0,,,C
+2024,Dec,"Manufacture of Food, Drink & Tobacco",13.0,,,C
+2024,Dec,Manufacture of Medical Devices,16.0,,,C
+2024,Dec,Electricity & Gas & Air Conditioning Supply,26.0,,,D
+2024,Dec,Water Supply - Sewerage Waste Management & Rem,7.0,,,E
+2024,Dec,Construction,158.0,,,F
+2024,Dec,Wholesale & Retail Trade,38.0,,,G
+2024,Dec,Transport & Storage,88.0,,,H
+2024,Dec,Accommodation & Food Services activities,277.0,,,I
+2024,Dec,Information & Communication Activities,577.0,,,J
+2024,Dec,Financial & insurance Activities,171.0,,,K
+2024,Dec,Real Estate Activities,,,,L
+2024,Dec,"All other Professional, Scientific & Technical",76.0,,,M
+2024,Dec,"Professional, Scientific&Technical Activities",53.0,,,M
+2024,Dec,Administrative & Support Service Activities,7.0,,,N
+2024,Dec,Public Administration & Defence,,,,O
+2024,Dec,Education,35.0,,,P
+2024,Dec,Health & Social Work Activities,808.0,,,Q
+2024,Dec,"Arts , Entertainment and Recreation",39.0,,,R
+2024,Dec,Other Service activities,178.0,,,S
+2024,Dec,Domestic- Activities of Households as Employer,,,,T
+2025,Jan,"Agriculture, Forestry & Fishing",203.0,0.0,0.0,A
+2025,Jan,Mining & Quarrying,9.0,0.0,0.0,B
+2025,Jan,All Other Manufacturing,185.0,0.0,0.0,C
+2025,Jan,Manufacture of Chemicals & Pharmaceuticals,58.0,0.0,0.0,C
+2025,Jan,"Manufacture of Computers, Electronics & Optical Equipment",32.0,0.0,0.0,C
+2025,Jan,"Manufacture of Food, Drink & Tobacco",37.0,0.0,0.0,C
+2025,Jan,Manufacture of Medical Devices,35.0,0.0,0.0,C
+2025,Jan,Electricity & Gas & Air Conditioning Supply,55.0,0.0,0.0,D
+2025,Jan,Water Supply - Sewerage Waste Management & Remedial Activities,2.0,0.0,0.0,E
+2025,Jan,Construction,259.0,0.0,0.0,F
+2025,Jan,Wholesale & Retail Trade,68.0,0.0,0.0,G
+2025,Jan,Transport & Storage,131.0,0.0,0.0,H
+2025,Jan,Accommodation & Food Services Activities,557.0,0.0,0.0,I
+2025,Jan,Information & Communication Activities,451.0,0.0,0.0,J
+2025,Jan,Financial & Insurance Activities,153.0,0.0,0.0,K
+2025,Jan,Real Estate Activities,2.0,0.0,0.0,L
+2025,Jan,"All other Professional, Scientific & Technical Activities",88.0,0.0,0.0,M
+2025,Jan,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",63.0,0.0,0.0,M
+2025,Jan,Administrative & Support Service Activities,12.0,0.0,0.0,N
+2025,Jan,Public Administration & Defence,9.0,0.0,0.0,O
+2025,Jan,Education,50.0,0.0,0.0,P
+2025,Jan,Health & Social Work Activities,1040.0,0.0,0.0,Q
+2025,Jan,"Arts, Entertainment and Recreation",40.0,0.0,0.0,R
+2025,Jan,Other Service Activities,259.0,0.0,0.0,S
+2025,Feb,"Agriculture, Forestry & Fishing",267.0,0.0,0.0,A
+2025,Feb,Mining & Quarrying,6.0,0.0,0.0,B
+2025,Feb,All Other Manufacturing,137.0,0.0,0.0,C
+2025,Feb,Manufacture of Chemicals & Pharmaceuticals,65.0,0.0,0.0,C
+2025,Feb,"Manufacture of Computers, Electronics & Optical Equipment",70.0,0.0,0.0,C
+2025,Feb,"Manufacture of Food, Drink & Tobacco",32.0,0.0,0.0,C
+2025,Feb,Manufacture of Medical Devices,31.0,0.0,0.0,C
+2025,Feb,Electricity & Gas & Air Conditioning Supply,29.0,0.0,0.0,D
+2025,Feb,Water Supply - Sewerage Waste Management & Remedial Activities,2.0,0.0,0.0,E
+2025,Feb,Construction,157.0,0.0,0.0,F
+2025,Feb,Wholesale & Retail Trade,45.0,0.0,0.0,G
+2025,Feb,Transport & Storage,109.0,0.0,0.0,H
+2025,Feb,Accommodation & Food Services Activities,389.0,0.0,0.0,I
+2025,Feb,Information & Communication Activities,343.0,0.0,0.0,J
+2025,Feb,Financial & Insurance Activities,121.0,0.0,0.0,K
+2025,Feb,Real Estate Activities,9.0,0.0,0.0,L
+2025,Feb,"All other Professional, Scientific & Technical Activities",45.0,0.0,0.0,M
+2025,Feb,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",68.0,0.0,0.0,M
+2025,Feb,Administrative & Support Service Activities,10.0,0.0,0.0,N
+2025,Feb,Public Administration & Defence,3.0,0.0,0.0,O
+2025,Feb,Education,31.0,0.0,0.0,P
+2025,Feb,Health & Social Work Activities,781.0,0.0,0.0,Q
+2025,Feb,"Arts, Entertainment and Recreation",49.0,0.0,0.0,R
+2025,Feb,Other Service Activities,195.0,0.0,0.0,S
+2025,Mar,"Agriculture, Forestry & Fishing",251.0,0.0,0.0,A
+2025,Mar,All Other Manufacturing,104.0,0.0,0.0,C
+2025,Mar,Manufacture of Chemicals & Pharmaceuticals,45.0,0.0,0.0,C
+2025,Mar,"Manufacture of Computers, Electronics & Optical Equipment",48.0,0.0,0.0,C
+2025,Mar,"Manufacture of Food, Drink & Tobacco",61.0,0.0,0.0,C
+2025,Mar,Manufacture of Medical Devices,26.0,0.0,0.0,C
+2025,Mar,Electricity & Gas & Air Conditioning Supply,49.0,0.0,0.0,D
+2025,Mar,Water Supply - Sewerage Waste Management & Remedial Activities,3.0,0.0,0.0,E
+2025,Mar,Construction,235.0,0.0,0.0,F
+2025,Mar,Wholesale & Retail Trade,62.0,0.0,0.0,G
+2025,Mar,Transport & Storage,83.0,0.0,0.0,H
+2025,Mar,Accommodation & Food Services Activities,463.0,0.0,0.0,I
+2025,Mar,Information & Communication Activities,361.0,0.0,0.0,J
+2025,Mar,Financial & Insurance Activities,119.0,0.0,0.0,K
+2025,Mar,Real Estate Activities,1.0,0.0,0.0,L
+2025,Mar,"All other Professional, Scientific & Technical Activities",76.0,0.0,0.0,M
+2025,Mar,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",61.0,0.0,0.0,M
+2025,Mar,Administrative & Support Service Activities,11.0,0.0,0.0,N
+2025,Mar,Public Administration & Defence,5.0,0.0,0.0,O
+2025,Mar,Education,42.0,0.0,0.0,P
+2025,Mar,Health & Social Work Activities,801.0,0.0,0.0,Q
+2025,Mar,"Arts, Entertainment and Recreation",74.0,0.0,0.0,R
+2025,Mar,Other Service Activities,210.0,0.0,0.0,S
+2025,Apr,"Agriculture, Forestry & Fishing",149.0,0.0,0.0,A
+2025,Apr,Mining & Quarrying,3.0,0.0,0.0,B
+2025,Apr,All Other Manufacturing,56.0,0.0,0.0,C
+2025,Apr,Manufacture of Chemicals & Pharmaceuticals,49.0,0.0,0.0,C
+2025,Apr,"Manufacture of Computers, Electronics & Optical Equipment",18.0,0.0,0.0,C
+2025,Apr,"Manufacture of Food, Drink & Tobacco",34.0,0.0,0.0,C
+2025,Apr,Manufacture of Medical Devices,12.0,0.0,0.0,C
+2025,Apr,Electricity & Gas & Air Conditioning Supply,17.0,0.0,0.0,D
+2025,Apr,Water Supply - Sewerage Waste Management & Remedial Activities,7.0,0.0,0.0,E
+2025,Apr,Construction,88.0,0.0,0.0,F
+2025,Apr,Wholesale & Retail Trade,35.0,0.0,0.0,G
+2025,Apr,Transport & Storage,45.0,0.0,0.0,H
+2025,Apr,Accommodation & Food Services Activities,168.0,0.0,0.0,I
+2025,Apr,Information & Communication Activities,224.0,0.0,0.0,J
+2025,Apr,Financial & Insurance Activities,73.0,0.0,0.0,K
+2025,Apr,Real Estate Activities,2.0,0.0,0.0,L
+2025,Apr,"All other Professional, Scientific & Technical Activities",40.0,0.0,0.0,M
+2025,Apr,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",44.0,0.0,0.0,M
+2025,Apr,Administrative & Support Service Activities,6.0,0.0,0.0,N
+2025,Apr,Public Administration & Defence,4.0,0.0,0.0,O
+2025,Apr,Education,19.0,0.0,0.0,P
+2025,Apr,Health & Social Work Activities,415.0,0.0,0.0,Q
+2025,Apr,"Arts, Entertainment and Recreation",36.0,0.0,0.0,R
+2025,Apr,Other Service Activities,124.0,0.0,0.0,S
+2025,May,"Agriculture, Forestry & Fishing",125.0,0.0,0.0,A
+2025,May,Mining & Quarrying,5.0,0.0,0.0,B
+2025,May,All Other Manufacturing,79.0,0.0,0.0,C
+2025,May,Manufacture of Chemicals & Pharmaceuticals,33.0,0.0,0.0,C
+2025,May,"Manufacture of Computers, Electronics & Optical Equipment",23.0,0.0,0.0,C
+2025,May,"Manufacture of Food, Drink & Tobacco",42.0,0.0,0.0,C
+2025,May,Manufacture of Medical Devices,9.0,0.0,0.0,C
+2025,May,Electricity & Gas & Air Conditioning Supply,29.0,0.0,0.0,D
+2025,May,Water Supply - Sewerage Waste Management & Remedial Activities,3.0,0.0,0.0,E
+2025,May,Construction,101.0,0.0,0.0,F
+2025,May,Wholesale & Retail Trade,36.0,0.0,0.0,G
+2025,May,Transport & Storage,172.0,0.0,0.0,H
+2025,May,Accommodation & Food Services Activities,223.0,0.0,0.0,I
+2025,May,Information & Communication Activities,215.0,0.0,0.0,J
+2025,May,Financial & Insurance Activities,64.0,0.0,0.0,K
+2025,May,Real Estate Activities,1.0,0.0,0.0,L
+2025,May,"All other Professional, Scientific & Technical Activities",45.0,0.0,0.0,M
+2025,May,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",38.0,0.0,0.0,M
+2025,May,Administrative & Support Service Activities,4.0,0.0,0.0,N
+2025,May,Public Administration & Defence,3.0,0.0,0.0,O
+2025,May,Education,28.0,0.0,0.0,P
+2025,May,Health & Social Work Activities,372.0,0.0,0.0,Q
+2025,May,"Arts, Entertainment and Recreation",30.0,0.0,0.0,R
+2025,May,Other Service Activities,139.0,0.0,0.0,S
+2025,May,Domestic - Activities of Households as Employers,1.0,0.0,0.0,T
+2025,Jun,"Agriculture, Forestry & Fishing",69.0,0.0,0.0,A
+2025,Jun,Mining & Quarrying,3.0,0.0,0.0,B
+2025,Jun,All Other Manufacturing,51.0,0.0,0.0,C
+2025,Jun,Manufacture of Chemicals & Pharmaceuticals,19.0,0.0,0.0,C
+2025,Jun,"Manufacture of Computers, Electronics & Optical Equipment",35.0,0.0,0.0,C
+2025,Jun,"Manufacture of Food, Drink & Tobacco",23.0,0.0,0.0,C
+2025,Jun,Manufacture of Medical Devices,6.0,0.0,0.0,C
+2025,Jun,Electricity & Gas & Air Conditioning Supply,19.0,0.0,0.0,D
+2025,Jun,Water Supply - Sewerage Waste Management & Remedial Activities,1.0,0.0,0.0,E
+2025,Jun,Construction,66.0,0.0,0.0,F
+2025,Jun,Wholesale & Retail Trade,23.0,0.0,0.0,G
+2025,Jun,Transport & Storage,90.0,0.0,0.0,H
+2025,Jun,Accommodation & Food Services Activities,127.0,0.0,0.0,I
+2025,Jun,Information & Communication Activities,191.0,0.0,0.0,J
+2025,Jun,Financial & Insurance Activities,57.0,0.0,0.0,K
+2025,Jun,Real Estate Activities,2.0,0.0,0.0,L
+2025,Jun,"All other Professional, Scientific & Technical Activities",38.0,0.0,0.0,M
+2025,Jun,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",71.0,0.0,0.0,M
+2025,Jun,Administrative & Support Service Activities,3.0,0.0,0.0,N
+2025,Jun,Public Administration & Defence,1.0,0.0,0.0,O
+2025,Jun,Education,13.0,0.0,0.0,P
+2025,Jun,Health & Social Work Activities,650.0,0.0,0.0,Q
+2025,Jun,"Arts, Entertainment and Recreation",37.0,0.0,0.0,R
+2025,Jun,Other Service Activities,89.0,0.0,0.0,S
+2025,Jul,"Agriculture, Forestry & Fishing",123.0,0.0,0.0,A
+2025,Jul,Mining & Quarrying,8.0,0.0,0.0,B
+2025,Jul,All Other Manufacturing,74.0,0.0,0.0,C
+2025,Jul,Manufacture of Chemicals & Pharmaceuticals,34.0,0.0,0.0,C
+2025,Jul,"Manufacture of Computers, Electronics & Optical Equipment",31.0,0.0,0.0,C
+2025,Jul,"Manufacture of Food, Drink & Tobacco",19.0,0.0,0.0,C
+2025,Jul,Manufacture of Medical Devices,18.0,0.0,0.0,C
+2025,Jul,Electricity & Gas & Air Conditioning Supply,24.0,0.0,0.0,D
+2025,Jul,Water Supply - Sewerage Waste Management & Remedial Activities,5.0,0.0,0.0,E
+2025,Jul,Construction,137.0,0.0,0.0,F
+2025,Jul,Wholesale & Retail Trade,40.0,0.0,0.0,G
+2025,Jul,Transport & Storage,148.0,0.0,0.0,H
+2025,Jul,Accommodation & Food Services Activities,177.0,0.0,0.0,I
+2025,Jul,Information & Communication Activities,232.0,0.0,0.0,J
+2025,Jul,Financial & Insurance Activities,88.0,0.0,0.0,K
+2025,Jul,Real Estate Activities,3.0,0.0,0.0,L
+2025,Jul,"All other Professional, Scientific & Technical Activities",47.0,0.0,0.0,M
+2025,Jul,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",60.0,0.0,0.0,M
+2025,Jul,Administrative & Support Service Activities,9.0,0.0,0.0,N
+2025,Jul,Public Administration & Defence,1.0,0.0,0.0,O
+2025,Jul,Education,51.0,0.0,0.0,P
+2025,Jul,Health & Social Work Activities,649.0,0.0,0.0,Q
+2025,Jul,"Arts, Entertainment and Recreation",52.0,0.0,0.0,R
+2025,Jul,Other Service Activities,150.0,0.0,0.0,S
+2025,Aug,,20.0,0.0,0.0,No Sector Entered 
+2025,Aug,"Agriculture, Forestry & Fishing",153.0,0.0,0.0,A
+2025,Aug,Mining & Quarrying,9.0,0.0,0.0,B
+2025,Aug,All Other Manufacturing,106.0,0.0,0.0,C
+2025,Aug,Manufacture of Chemicals & Pharmaceuticals,57.0,0.0,0.0,C
+2025,Aug,"Manufacture of Computers, Electronics & Optical Equipment",29.0,0.0,0.0,C
+2025,Aug,"Manufacture of Food, Drink & Tobacco",71.0,0.0,0.0,C
+2025,Aug,Manufacture of Medical Devices,20.0,0.0,0.0,C
+2025,Aug,Electricity & Gas & Air Conditioning Supply,32.0,0.0,0.0,D
+2025,Aug,Water Supply - Sewerage Waste Management & Remedial Activities,13.0,0.0,0.0,E
+2025,Aug,Construction,202.0,0.0,0.0,F
+2025,Aug,Wholesale & Retail Trade,51.0,0.0,0.0,G
+2025,Aug,Transport & Storage,136.0,0.0,0.0,H
+2025,Aug,Accommodation & Food Services Activities,240.0,0.0,0.0,I
+2025,Aug,Information & Communication Activities,318.0,0.0,0.0,J
+2025,Aug,Financial & Insurance Activities,132.0,0.0,0.0,K
+2025,Aug,Real Estate Activities,3.0,0.0,0.0,L
+2025,Aug,"All other Professional, Scientific & Technical Activities",63.0,0.0,0.0,M
+2025,Aug,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",69.0,0.0,0.0,M
+2025,Aug,Administrative & Support Service Activities,7.0,0.0,0.0,N
+2025,Aug,Public Administration & Defence,5.0,0.0,0.0,O
+2025,Aug,Education,34.0,0.0,0.0,P
+2025,Aug,Health & Social Work Activities,651.0,0.0,0.0,Q
+2025,Aug,"Arts, Entertainment and Recreation",83.0,0.0,0.0,R
+2025,Aug,Other Service Activities,156.0,0.0,0.0,S
+2025,Aug,Domestic - Activities of Households as Employers,1.0,0.0,0.0,T
+2025,Sep,,24.0,0.0,0.0,No Sector Entered 
+2025,Sep,"Agriculture, Forestry & Fishing",133.0,0.0,0.0,A
+2025,Sep,Mining & Quarrying,20.0,0.0,0.0,B
+2025,Sep,All Other Manufacturing,121.0,0.0,0.0,C
+2025,Sep,Manufacture of Chemicals & Pharmaceuticals,74.0,0.0,0.0,C
+2025,Sep,"Manufacture of Computers, Electronics & Optical Equipment",30.0,0.0,0.0,C
+2025,Sep,"Manufacture of Food, Drink & Tobacco",70.0,0.0,0.0,C
+2025,Sep,Manufacture of Medical Devices,36.0,0.0,0.0,C
+2025,Sep,Electricity & Gas & Air Conditioning Supply,25.0,0.0,0.0,D
+2025,Sep,Water Supply - Sewerage Waste Management & Remedial Activities,16.0,0.0,0.0,E
+2025,Sep,Construction,211.0,0.0,0.0,F
+2025,Sep,Wholesale & Retail Trade,67.0,0.0,0.0,G
+2025,Sep,Transport & Storage,91.0,0.0,0.0,H
+2025,Sep,Accommodation & Food Services Activities,242.0,0.0,0.0,I
+2025,Sep,Information & Communication Activities,268.0,0.0,0.0,J
+2025,Sep,Financial & Insurance Activities,139.0,0.0,0.0,K
+2025,Sep,Real Estate Activities,5.0,0.0,0.0,L
+2025,Sep,"All other Professional, Scientific & Technical Activities",63.0,0.0,0.0,M
+2025,Sep,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",75.0,0.0,0.0,M
+2025,Sep,Administrative & Support Service Activities,9.0,0.0,0.0,N
+2025,Sep,Public Administration & Defence,7.0,0.0,0.0,O
+2025,Sep,Education,43.0,0.0,0.0,P
+2025,Sep,Health & Social Work Activities,622.0,0.0,0.0,Q
+2025,Sep,"Arts, Entertainment and Recreation",73.0,0.0,0.0,R
+2025,Sep,Other Service Activities,161.0,0.0,0.0,S
+2025,Sep,Domestic - Activities of Households as Employers,2.0,0.0,0.0,T
+2025,Oct,,51.0,0.0,0.0,No Sector Entered 
+2025,Oct,"Agriculture, Forestry & Fishing",181.0,0.0,0.0,A
+2025,Oct,Mining & Quarrying,28.0,0.0,0.0,B
+2025,Oct,All Other Manufacturing,140.0,0.0,0.0,C
+2025,Oct,Manufacture of Chemicals & Pharmaceuticals,62.0,0.0,0.0,C
+2025,Oct,"Manufacture of Computers, Electronics & Optical Equipment",37.0,0.0,0.0,C
+2025,Oct,"Manufacture of Food, Drink & Tobacco",52.0,0.0,0.0,C
+2025,Oct,Manufacture of Medical Devices,28.0,0.0,0.0,C
+2025,Oct,Electricity & Gas & Air Conditioning Supply,25.0,0.0,0.0,D
+2025,Oct,Water Supply - Sewerage Waste Management & Remedial Activities,20.0,0.0,0.0,E
+2025,Oct,Construction,236.0,0.0,0.0,F
+2025,Oct,Wholesale & Retail Trade,56.0,0.0,0.0,G
+2025,Oct,Transport & Storage,155.0,0.0,0.0,H
+2025,Oct,Accommodation & Food Services Activities,291.0,0.0,0.0,I
+2025,Oct,Information & Communication Activities,374.0,0.0,0.0,J
+2025,Oct,Financial & Insurance Activities,183.0,0.0,0.0,K
+2025,Oct,Real Estate Activities,6.0,0.0,0.0,L
+2025,Oct,"All other Professional, Scientific & Technical Activities",71.0,0.0,0.0,M
+2025,Oct,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",94.0,0.0,0.0,M
+2025,Oct,Administrative & Support Service Activities,7.0,0.0,0.0,N
+2025,Oct,Public Administration & Defence,7.0,0.0,0.0,O
+2025,Oct,Education,60.0,0.0,0.0,P
+2025,Oct,Health & Social Work Activities,622.0,0.0,0.0,Q
+2025,Oct,"Arts, Entertainment and Recreation",69.0,0.0,0.0,R
+2025,Oct,Other Service Activities,235.0,0.0,0.0,S
+2025,Oct,Domestic - Activities of Households as Employers,2.0,0.0,0.0,T
+2025,Nov,,39.0,0.0,0.0,No Sector Entered 
+2025,Nov,"Agriculture, Forestry & Fishing",138.0,0.0,0.0,A
+2025,Nov,Mining & Quarrying,3.0,0.0,0.0,B
+2025,Nov,All Other Manufacturing,123.0,0.0,0.0,C
+2025,Nov,Manufacture of Chemicals & Pharmaceuticals,52.0,0.0,0.0,C
+2025,Nov,"Manufacture of Computers, Electronics & Optical Equipment",46.0,0.0,0.0,C
+2025,Nov,"Manufacture of Food, Drink & Tobacco",29.0,0.0,0.0,C
+2025,Nov,Manufacture of Medical Devices,28.0,0.0,0.0,C
+2025,Nov,Electricity & Gas & Air Conditioning Supply,20.0,0.0,0.0,D
+2025,Nov,Water Supply - Sewerage Waste Management & Remedial Activities,3.0,0.0,0.0,E
+2025,Nov,Construction,185.0,0.0,0.0,F
+2025,Nov,Wholesale & Retail Trade,77.0,0.0,0.0,G
+2025,Nov,Transport & Storage,118.0,0.0,0.0,H
+2025,Nov,Accommodation & Food Services Activities,334.0,0.0,0.0,I
+2025,Nov,Information & Communication Activities,383.0,0.0,0.0,J
+2025,Nov,Financial & Insurance Activities,192.0,0.0,0.0,K
+2025,Nov,Real Estate Activities,4.0,0.0,0.0,L
+2025,Nov,"All other Professional, Scientific & Technical Activities",69.0,0.0,0.0,M
+2025,Nov,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",74.0,0.0,0.0,M
+2025,Nov,Administrative & Support Service Activities,11.0,0.0,0.0,N
+2025,Nov,Public Administration & Defence,4.0,0.0,0.0,O
+2025,Nov,Education,49.0,0.0,0.0,P
+2025,Nov,Health & Social Work Activities,665.0,0.0,0.0,Q
+2025,Nov,"Arts, Entertainment and Recreation",25.0,0.0,0.0,R
+2025,Nov,Other Service Activities,217.0,0.0,0.0,S
+2025,Nov,Domestic - Activities of Households as Employers,1.0,0.0,0.0,T
+2025,Dec,,52.0,0.0,0.0,No Sector Entered 
+2025,Dec,"Agriculture, Forestry & Fishing",123.0,0.0,0.0,A
+2025,Dec,Mining & Quarrying,4.0,0.0,0.0,B
+2025,Dec,All Other Manufacturing,116.0,0.0,0.0,C
+2025,Dec,Manufacture of Chemicals & Pharmaceuticals,52.0,0.0,0.0,C
+2025,Dec,"Manufacture of Computers, Electronics & Optical Equipment",32.0,0.0,0.0,C
+2025,Dec,"Manufacture of Food, Drink & Tobacco",26.0,0.0,0.0,C
+2025,Dec,Manufacture of Medical Devices,37.0,0.0,0.0,C
+2025,Dec,Electricity & Gas & Air Conditioning Supply,18.0,0.0,0.0,D
+2025,Dec,Water Supply - Sewerage Waste Management & Remedial Activities,11.0,0.0,0.0,E
+2025,Dec,Construction,154.0,0.0,0.0,F
+2025,Dec,Wholesale & Retail Trade,62.0,0.0,0.0,G
+2025,Dec,Transport & Storage,85.0,0.0,0.0,H
+2025,Dec,Accommodation & Food Services Activities,288.0,0.0,0.0,I
+2025,Dec,Information & Communication Activities,270.0,0.0,0.0,J
+2025,Dec,Financial & Insurance Activities,103.0,0.0,0.0,K
+2025,Dec,Real Estate Activities,2.0,0.0,0.0,L
+2025,Dec,"All other Professional, Scientific & Technical Activities",45.0,0.0,0.0,M
+2025,Dec,"Professional, Scientific & Technical Activities of Head Offices, Management Consultancy Services",48.0,0.0,0.0,M
+2025,Dec,Administrative & Support Service Activities,5.0,0.0,0.0,N
+2025,Dec,Public Administration & Defence,5.0,0.0,0.0,O
+2025,Dec,Education,44.0,0.0,0.0,P
+2025,Dec,Health & Social Work Activities,680.0,0.0,0.0,Q
+2025,Dec,"Arts, Entertainment and Recreation",25.0,0.0,0.0,R
+2025,Dec,Other Service Activities,152.0,0.0,0.0,S
+2025,Dec,Domestic - Activities of Households as Employers,1.0,0.0,0.0,T
