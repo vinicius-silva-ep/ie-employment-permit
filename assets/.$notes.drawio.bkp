@@ -31,6 +31,39 @@
         <mxCell id="Kr4PF56E-YfCALB-aoul-13" value="Sector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1030" y="220" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKyexo_sfXrZ0FrEFHMA-1" target="lKyexo_sfXrZ0FrEFHMA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKyexo_sfXrZ0FrEFHMA-1" target="lKyexo_sfXrZ0FrEFHMA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKyexo_sfXrZ0FrEFHMA-1" target="lKyexo_sfXrZ0FrEFHMA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKyexo_sfXrZ0FrEFHMA-1" target="lKyexo_sfXrZ0FrEFHMA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-1" value="Create transfom code for the final version main.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lKyexo_sfXrZ0FrEFHMA-3" target="lKyexo_sfXrZ0FrEFHMA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-3" value="County" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-4" value="Nationality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="413" y="560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-5" value="Companies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="777" y="560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-6" value="Sector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1140" y="560" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lKyexo_sfXrZ0FrEFHMA-11" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="120" y="670" width="100" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
